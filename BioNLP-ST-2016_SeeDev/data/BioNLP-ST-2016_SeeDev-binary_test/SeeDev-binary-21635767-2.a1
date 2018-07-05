@@ -1,0 +1,80 @@
+T2	Tissue 0 4	Seed
+T1	Pathway 0 21	Seed storage reserves
+T3	Development_Phase 41 54	embryogenesis
+T4	Genotype 58 71	higher plants
+T5	Development_Phase 88 105	plant propagation
+T6	Development_Phase 142 153	germination
+T7	Development_Phase 154 185	prior to seedling establishment
+T8	Tissue 190 214	mature Arabidopsis seeds
+T9	Genotype 197 208	Arabidopsis
+T10	Pathway 216 230	storage lipids
+T11	Pathway 216 223;235 243	storage proteins
+T12	Tissue 314 318	seed
+T13	Pathway 460 470;476 488	fatty acid biosynthesis
+T14	Pathway 493 508;515 532	triacylglycerol assembly pathways
+T15	Genotype 625 636	Arabidopsis
+T16	Gene 933 937	ABI3
+T17	Gene 939 966	ABSCISIC ACID INSENSITIVE 3
+T18	Gene 969 973	LEC1
+T19	Gene 975 992	LEAFY COTYLEDON 1
+T20	Gene 995 999	LEC2
+T21	Gene 1004 1008	FUS3
+T22	Gene 1010 1017	FUSCA 3
+T23	Development_Phase 1139 1155	seed development
+T24	Tissue 1139 1143	seed
+T25	Pathway 1166 1181	storage reserve
+T26	Protein 1293 1297	ABI3
+T27	Protein 1299 1303	FUS3
+T28	Protein 1308 1312	LEC2
+T29	Protein_Domain 1339 1361	B3' DNA-binding domain
+T30	Box 1376 1405	RY-repeat regulatory elements
+T31	Protein 1415 1419	LEC1
+T32	Protein 1424 1427	L1L
+T33	Protein 1429 1438	LEC1-LIKE
+T34	Protein 1429 1433	LEC1
+T35	Protein_Domain 1450 1462	NF-YB domain
+T36	Box 1478 1483	CCAAT
+T37	Protein 1545 1555	WRINKLED 1
+T38	Protein 1557 1561	WRI1
+T40	Protein_Family 1591 1600;1607 1649	APETALA 2 - ethylene response element binding factor
+T39	Protein 1591 1600	APETALA 2
+T41	Protein 1602 1605	AP2
+T42	Protein_Family 1609 1649	ethylene response element binding factor
+T43	Protein_Family 1651 1655	EREB
+T44	Gene_Family 1712 1733	FA biosynthetic genes
+T45	Box 1791 1797	AW-box
+T46	Gene_Family 1841 1862	FA biosynthetic genes
+T47	Protein 1879 1883	ABI4
+T48	Protein_Family 1888 1906	AP2 family protein
+T49	Protein 1888 1891	AP2
+T50	Protein_Family 1920 1940	basic-leucine zipper
+T51	Protein_Family 1942 1946	bZIP
+T52	Protein 1962 1966	ABI5
+T53	Protein 1970 1973	EEL
+T54	Protein 1975 1986;2011 2016	ENHANCED EM LEVEL
+T55	Development_Phase 1984 1986	EM
+T56	Development_Phase 1988 2009	EMBRYO MORPHORGENESIS
+T57	Tissue 1988 1994	EMBRYO
+T59	Tissue 2060 2064	SEED
+T58	Gene_Family 2060 2080	SEED STORAGE PROTEIN
+T60	Gene_Family 2082 2085	SSP
+T61	Protein 2153 2157	ABI3
+T63	Regulatory_Network 2229 2254;2264 2272	accumulation processes of proteins
+T62	Regulatory_Network 2229 2259	accumulation processes of oils
+T64	Pathway 2316 2351	synthesis of seed storage compounds
+T65	Tissue 2329 2333	seed
+T66	Tissue 2523 2528	seeds
+T67	Genotype 2537 2555	oleaginous species
+T68	Protein 2617 2621	LEC1
+T70	Protein 2623 2627	ABI3
+T69	Protein 2623 2627	ABI3
+T71	Protein 2632 2636	FUS3
+T72	Regulatory_Network 2678 2703;2709 2713	genes in the synthesis of oils
+T73	Regulatory_Network 2678 2703;2718 2734	genes in the synthesis of storage proteins
+T74	Pathway 2691 2703;2718 2734	synthesis of storage proteins
+T75	Pathway 2691 2703;2709 2713	synthesis of oils
+T76	Tissue 2738 2754	developing seeds
+T78	Tissue 2868 2872	seed
+T77	Pathway 2868 2889	seed storage reserves
+T79	Tissue 3103 3107	seed
+T80	Pathway 3149 3180	modification of oil composition

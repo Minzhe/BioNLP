@@ -1,0 +1,65 @@
+T1	Protein 31 34	AP2
+T2	Development_Phase 67 85	floral development
+T3	Regulatory_Network 102 122	control of seed mass
+T4	Tissue 113 117	seed
+T5	Gene 206 209	AP2
+T6	RNA 314 324	micro RNAs
+T7	RNA 347 359	mRNAs of AP2
+T8	Gene 356 359	AP2
+T9	Protein 504 507	AP2
+T10	Protein 591 594	AP2
+T11	Gene 614 619	AtEBP
+T12	Gene 621 627	AtERF1
+T13	Gene 632 635	AP2
+T14	Protein 702 705	AP2
+T15	Gene 724 727	AP2
+T16	Gene_Family 810 813	ERF
+T17	Genotype 834 858	over-expression of AtEBP
+T18	Gene 853 858	AtEBP
+T19	Gene 893 896	AP2
+T20	Protein 898 903	AtEBP
+T21	Box 952 959	GCC-box
+T23	Hormone 964 972	ethylene
+T22	Box 964 991	ethylene-responsive element
+T24	Genotype 1032 1056	over-expression of AtEBP
+T25	Gene 1051 1056	AtEBP
+T26	Gene 1070 1073	AP2
+T27	Gene 1078 1084	AtERF1
+T28	Box 1161 1168	GCC-box
+T29	Genotype 1197 1203	tomato
+T30	Protein_Family 1204 1207	ERF
+T31	Protein 1208 1212	Pti4
+T32	Box 1230 1237	GCC-box
+T33	Protein 1252 1256	Pti4
+T34	Box 1294 1301	GCC-box
+T35	Protein 1336 1340	Pti4
+T36	Protein 1392 1397	AtEBP
+T37	Gene 1433 1436	AP2
+T38	Genotype 1453 1459	ein2-1
+T39	Genotype 1465 1486	null mutation of EIN2
+T40	Gene 1482 1486	EIN2
+T41	Regulatory_Network 1510 1544	loss of responsiveness to ethylene
+T42	Hormone 1536 1544	ethylene
+T43	Protein 1562 1566	EIN2
+T44	Regulatory_Network 1587 1610	ethylene signal pathway
+T45	Hormone 1587 1595	ethylene
+T46	Gene 1621 1624	AP2
+T48	Hormone 1655 1663	ethylene
+T47	Environmental_Factor 1655 1673	ethylene treatment
+T49	Genotype 1680 1686	ctr1-1
+T50	Protein 1704 1708	EIN2
+T51	Protein 1761 1765	EIN2
+T52	Regulatory_Network 1784 1792;1808 1815	ethylene signals
+T53	Hormone 1784 1792	ethylene
+T54	Environmental_Factor 1825 1833	paraquat
+T55	Environmental_Factor 1838 1851	jasmonic acid
+T56	Protein_Domain 1879 1897	N-terminal of EIN2
+T57	Protein 1893 1897	EIN2
+T58	Regulatory_Network 1929 1952	ethylene responsiveness
+T59	Hormone 1929 1937	ethylene
+T60	Protein_Domain 1977 1995	C-terminal of EIN2
+T61	Protein 1991 1995	EIN2
+T62	Gene 2121 2124	AP2
+T63	Protein 2152 2156	EIN2
+T64	Regulatory_Network 2172 2187	ethylene signal
+T65	Hormone 2172 2180	ethylene

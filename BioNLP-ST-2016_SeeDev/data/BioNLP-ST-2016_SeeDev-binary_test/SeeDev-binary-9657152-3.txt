@@ -1,0 +1,18 @@
+We
+have shown that the LEC1 polypeptide is homologous to the HAP3 subunit
+of the CBF class of eukaryotic transcriptional activators that includes
+NF-Y, CP1, and HAP2/3/4/5 (Johnson and McKnight 1989).
+The sequence similarity between LEC1 and other HAP3 subunits is
+restricted to the B domain, consistent with the finding that this domain
+is conserved evolutionarily (Li et al. 1992).
+Furthermore, amino acid residues of yeast and mammalian HAP3 subunits
+required for DNA binding and for interactions with other CBF subunits
+are conserved in LEC1 (Figure 4;
+[55] and [44]).
+Experiments demonstrating that yeast and mammalian CBF subunits can be
+combined to form DNA-binding complexes indicate that this amino acid
+sequence similarity underlies functional conservation ([6] and [43]).CBFs
+are heteroligomeric transcription factors, but it is not known whether
+the plant CBF is organized as its yeast counterpart into four
+nonhomologous subunits, HAP2, 3, 4, and 5, or is similar to the trimeric
+mammalian CBF ([24] and [27]).

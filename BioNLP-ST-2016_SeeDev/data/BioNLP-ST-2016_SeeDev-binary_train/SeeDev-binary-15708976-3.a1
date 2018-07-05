@@ -1,0 +1,322 @@
+T1	Gene 0 3	AP2
+T3	Tissue 22 26	Seed
+T2	Regulatory_Network 22 31	Seed Mass
+T4	Gene 33 36	AP2
+T5	Regulatory_Network 99 137	specification of floral organ identity
+T6	Protein_Family 165 174	AP2/EREBP
+T7	Protein 165 168	AP2
+T8	Protein_Family 169 174	EREBP
+T9	Genotype 225 245	loss-of-function ap2
+T10	Regulatory_Network 262 273	large seeds
+T11	Tissue 268 273	seeds
+T12	Genotype 296 321	allelic series of mutants
+T13	Gene 350 353	AP2
+T15	Tissue 388 392	seed
+T14	Regulatory_Network 388 397	seed mass
+T16	Genotype 488 540	transgene suppression of AP2 activity in Arabidopsis
+T17	Gene 513 516	AP2
+T18	Regulatory_Network 550 567	defective flowers
+T19	Tissue 560 567	flowers
+T20	Regulatory_Network 572 583	large seeds
+T21	Tissue 578 583	seeds
+T22	Genotype 600 627	extent of AP2 gene activity
+T23	Gene 610 613	AP2
+T25	Tissue 663 669	flower
+T24	Development_Phase 663 681	flower development
+T27	Tissue 711 715	seed
+T26	Regulatory_Network 711 720	seed mass
+T28	Genotype 722 725	ap2
+T29	Regulatory_Network 754 769	plant fertility
+T30	Regulatory_Network 789 819	disruption of flower structure
+T31	Regulatory_Network 836 866	efficiency of self-pollination
+T33	Tissue 1008 1012	seed
+T32	Regulatory_Network 1008 1019	seed number
+T35	Tissue 1024 1028	seed
+T34	Regulatory_Network 1024 1033	seed mass
+T36	Genotype 1039 1042	ap2
+T38	Tissue 1075 1080	seeds
+T37	Regulatory_Network 1075 1087	seeds larger
+T39	Genotype 1093 1109	wild-type plants
+T40	Regulatory_Network 1122 1131	fertility
+T41	Regulatory_Network 1151 1168	reduced fertility
+T43	Tissue 1180 1184	seed
+T42	Regulatory_Network 1180 1189	seed mass
+T45	Tissue 1244 1248	seed
+T44	Regulatory_Network 1244 1255	seed weight
+T46	Genotype 1270 1280	strong ap2
+T47	Gene 1345 1348	AP2
+T49	Tissue 1352 1356	seed
+T48	Regulatory_Network 1352 1361	seed mass
+T50	Regulatory_Network 1405 1414	fertility
+T51	Regulatory_Network 1420 1445	early flowering of plants
+T52	Development_Phase 1426 1435	flowering
+T53	Genotype 1451 1461	strong ap2
+T54	Genotype 1558 1561	ap2
+T56	Tissue 1574 1578	seed
+T55	Regulatory_Network 1574 1583	seed mass
+T57	Regulatory_Network 1620 1629	fertility
+T59	Tissue 1631 1635	Leaf
+T58	Regulatory_Network 1631 1642	Leaf number
+T60	Genotype 1736 1739	ap2
+T61	Regulatory_Network 1757 1769	fewer leaves
+T62	Tissue 1763 1769	leaves
+T63	Genotype 1775 1784	wild type
+T64	Genotype 1839 1842	ap2
+T65	Regulatory_Network 1878 1890	larger seeds
+T66	Tissue 1885 1890	seeds
+T67	Gene 1911 1914	AP2
+T69	Tissue 1918 1922	Seed
+T68	Regulatory_Network 1918 1927	Seed Mass
+T70	Genotype 1950 1958	wildtype
+T71	Genotype 1963 1966	ap2
+T72	Regulatory_Network 2057 2089	mechanisms controlling seed mass
+T73	Tissue 2080 2084	seed
+T74	Gene 2106 2109	AP2
+T75	Genotype 2219 2231	crop species
+T77	Tissue 2245 2249	seed
+T76	Regulatory_Network 2245 2254	seed mass
+T78	Gene 2360 2363	AP2
+T79	Tissue 2376 2392	maternal tissues
+T80	Tissue 2420 2429	seed coat
+T81	Tissue 2474 2480	embryo
+T82	Tissue 2485 2494	endosperm
+T84	Tissue 2510 2514	seed
+T83	Regulatory_Network 2510 2519	seed mass
+T85	Tissue 2614 2623	endosperm
+T87	Tissue 2625 2629	seed
+T86	Regulatory_Network 2625 2634	seed mass
+T88	Gene 2654 2657	AP2
+T89	Tissue 2677 2686	endosperm
+T90	Genotype 2706 2712;2723 2750	small- seeded Arabidopsis ecotypes
+T91	Genotype 2717 2750	large-seeded Arabidopsis ecotypes
+T92	Tissue 2765 2781	maternal tissues
+T94	Tissue 2811 2815	seed
+T93	Regulatory_Network 2811 2820	seed mass
+T96	Tissue 2853 2857	seed
+T95	Regulatory_Network 2853 2862	seed mass
+T98	Tissue 2912 2916	seed
+T97	Regulatory_Network 2912 2923	seed number
+T99	Regulatory_Network 2925 2935	fruit size
+T100	Regulatory_Network 2941 2956	plant resources
+T101	Tissue 2995 3011	maternal tissues
+T102	Gene 3081 3084	AP2
+T104	Tissue 3130 3134	seed
+T103	Regulatory_Network 3130 3139	seed mass
+T105	Gene 3246 3249	AP2
+T106	Tissue 3272 3281	endosperm
+T107	Tissue 3286 3302	maternal tissues
+T109	Tissue 3313 3317	seed
+T108	Regulatory_Network 3313 3322	seed size
+T110	Tissue 3333 3342	endosperm
+T112	Tissue 3415 3419	seed
+T111	Regulatory_Network 3415 3424	seed mass
+T113	Regulatory_Network 3483 3492;3508 3522	enhancing endosperm size
+T114	Regulatory_Network 3496 3522	suppressing endosperm size
+T115	Tissue 3508 3517	endosperm
+T117	Tissue 3539 3543	seed
+T116	Regulatory_Network 3539 3543;3555 3559	seed mass
+T119	Tissue 3548 3554	embryo
+T118	Regulatory_Network 3548 3559	embryo mass
+T121	Tissue 3650 3654	seed
+T120	Regulatory_Network 3650 3659	seed mass
+T122	Gene 3709 3712	AP2
+T125	Genotype 3727 3739;3767 3771	mutations in FIS2
+T124	Genotype 3727 3739;3758 3761	mutations in FIE
+T123	Genotype 3727 3739;3753 3756	mutations in MEA
+T126	Gene 3753 3756	MEA
+T127	Gene 3758 3761	FIE
+T128	Gene 3767 3771	FIS2
+T130	Tissue 3785 3794	endosperm
+T129	Regulatory_Network 3785 3840	endosperm phenotypes that mimic paternal genomic excess
+T131	Gene 3910 3913	AP2
+T132	Genotype 3925 3928	ap2
+T133	Genotype 3973 3976	mea
+T134	Genotype 3978 3981	fie
+T135	Genotype 3987 3991	fis2
+T136	Gene 4034 4037	AP2
+T137	Gene 4158 4162	IKU1
+T138	Gene 4167 4171	IKU2
+T139	Regulatory_Network 4207 4259	effects of maternal and paternal dosage on seed size
+T140	Tissue 4250 4254	seed
+T142	Tissue 4317 4326	endosperm
+T141	Development_Phase 4317 4338	endosperm development
+T143	Gene 4361 4364	AP2
+T144	Genotype 4371 4374	iku
+T145	Gene_Family 4456 4459	IKU
+T146	Gene 4515 4518	AP2
+T147	Gene 4529 4532	AP2
+T149	Tissue 4559 4563	seed
+T148	Regulatory_Network 4559 4568	seed mass
+T150	Gene 4599 4602	AP2
+T153	Tissue 4646 4652	embryo
+T152	Regulatory_Network 4646 4657;4669 4673	embryo cell size
+T151	Regulatory_Network 4646 4664	embryo cell number
+T154	Regulatory_Network 4730 4741	cell number
+T155	Regulatory_Network 4730 4734;4746 4750	cell size
+T156	Genotype 4760 4793	ecotype variations in Arabidopsis
+T158	Tissue 4794 4798	seed
+T157	Regulatory_Network 4794 4803	seed size
+T159	Gene 4983 4986	AP2
+T160	Regulatory_Network 4996 5020	differences in cell size
+T161	Gene 5088 5091	AP2
+T163	Tissue 5118 5124	embryo
+T162	Regulatory_Network 5118 5134	embryo cell size
+T164	Tissue 5254 5263	seed coat
+T165	Tissue 5254 5258	seed
+T167	Tissue 5297 5301	seed
+T166	Regulatory_Network 5297 5306	seed mass
+T168	Genotype 5321 5353	sporophytic mutations in cereals
+T169	Development_Phase 5366 5411	development of a specialized seed coat tissue
+T170	Tissue 5395 5404	seed coat
+T171	Pathway 5428 5462	nutrient transfer to the endosperm
+T172	Tissue 5453 5462	endosperm
+T175	Tissue 5480 5484	seed
+T174	Regulatory_Network 5480 5484;5501 5505	seed size
+T173	Development_Phase 5480 5496	seed development
+T176	Genotype 5515 5518	ap2
+T177	Regulatory_Network 5532 5552	defective seed coats
+T178	Tissue 5542 5552	seed coats
+T180	Regulatory_Network 5566 5570;5594 5602	lack mucilage
+T179	Regulatory_Network 5566 5589	lack epidermal plateaus
+T181	Tissue 5571 5589	epidermal plateaus
+T182	Pathway 5594 5602	mucilage
+T185	Tissue 5610 5632	outer integument cells
+T183	Regulatory_Network 5610 5643	outer integument cells are larger
+T184	Regulatory_Network 5610 5632;5672 5694	outer integument cells are irregular in shape
+T186	Genotype 5658 5667	wild type
+T187	Tissue 5707 5712	seeds
+T188	Regulatory_Network 5717 5741	hypersensitive to bleach
+T189	Gene 5828 5831	AP2
+T191	Tissue 5843 5847	seed
+T190	Regulatory_Network 5843 5852	seed mass
+T192	Tissue 5904 5908	seed
+T193	Genotype 5925 5928	ap2
+T194	Gene 5938 5941	AP2
+T196	Tissue 5943 5947	Seed
+T195	Regulatory_Network 5943 5952	Seed Mass
+T197	Pathway 5958 5982	Soluble Sugar Metabolism
+T198	Genotype 6006 6009	ap2
+T199	Tissue 6060 6069	seed coat
+T201	Tissue 6082 6086	seed
+T200	Regulatory_Network 6082 6091	seed mass
+T202	Pathway 6114 6138	soluble sugar metabolism
+T204	Tissue 6146 6150	seed
+T203	Development_Phase 6146 6162	seed development
+T206	Tissue 6224 6230	embryo
+T205	Regulatory_Network 6224 6242	embryo cell number
+T207	Genotype 6246 6249	ap2
+T208	Tissue 6257 6262	seeds
+T210	Tissue 6281 6285	seed
+T209	Development_Phase 6281 6297	seed development
+T211	Pathway 6434 6460	ratio of hexose to sucrose
+T212	Development_Phase 6517 6562	early morphogenesis phase of seed development
+T213	Tissue 6546 6550	seed
+T214	Pathway 6581 6612	proportion of sucrose to hexose
+T215	Development_Phase 6632 6646	cell expansion
+T217	Tissue 6651 6655	seed
+T216	Development_Phase 6651 6663	seed filling
+T218	Development_Phase 6675 6696	late maturation phase
+T219	Tissue 6719 6745	immature fava bean embryos
+T220	Genotype 6728 6737	fava bean
+T221	Environmental_Factor 6760 6789	high concentrations of hexose
+T222	Development_Phase 6802 6824	undergo cell divisions
+T223	Environmental_Factor 6853 6879	high sucrose concentration
+T224	Development_Phase 6890 6906	maturation phase
+T225	Development_Phase 6919 6963	cell division during the morphogenesis phase
+T227	Tissue 6968 6972	seed
+T226	Development_Phase 6968 6980	seed filling
+T228	Development_Phase 6992 7008	maturation phase
+T229	Regulatory_Network 7034 7070	changes in hexose and sucrose levels
+T230	Genotype 7072 7075	ap2
+T231	Regulatory_Network 7094 7137	changes in the levels of hexose and sucrose
+T232	Tissue 7141 7157	developing seeds
+T233	Pathway 7185 7206	hexose/sucrose ratios
+T234	Genotype 7246 7249	ap2
+T235	Tissue 7257 7262	seeds
+T236	Genotype 7277 7286	wild-type
+T237	Tissue 7287 7292	seeds
+T239	Tissue 7339 7343	seed
+T238	Development_Phase 7339 7355	seed development
+T240	Genotype 7359 7362	ap2
+T241	Genotype 7388 7397	wild type
+T242	Pathway 7421 7442	hexose/sucrose ratios
+T243	Development_Phase 7460 7461;7469 7472	9 DAP
+T244	Development_Phase 7466 7472	11 DAP
+T245	Genotype 7476 7479	ap2
+T246	Genotype 7531 7540	wild-type
+T248	Tissue 7541 7545	seed
+T247	Development_Phase 7541 7557	seed development
+T249	Pathway 7589 7610	hexose/sucrose ratios
+T250	Genotype 7618 7621	ap2
+T252	Tissue 7629 7633	seed
+T251	Development_Phase 7629 7645	seed development
+T253	Regulatory_Network 7661 7693	extended period of cell division
+T255	Tissue 7733 7739	embryo
+T254	Regulatory_Network 7733 7751	embryo cell number
+T256	Genotype 7764 7767	ap2
+T257	Protein 7777 7780	AP2
+T259	Tissue 7837 7841	seed
+T258	Regulatory_Network 7837 7846	seed mass
+T260	Regulatory_Network 7911 7935	changes in hexose levels
+T261	Genotype 7939 7942	ap2
+T262	Gene 7973 7976	AP2
+T263	Pathway 8010 8026	sugar metabolism
+T264	Protein_Family 8036 8062	cell-wall-bound invertases
+T265	Tissue 8092 8113	photosynthetic organs
+T266	Tissue 8121 8130	seed coat
+T267	Development_Phase 8200 8205;8215 8231	early in embryogenesis
+T268	Development_Phase 8210 8231	late in embryogenesis
+T269	Development_Phase 8256 8296	early phase of favabean seed development
+T270	Genotype 8271 8279	favabean
+T271	Tissue 8280 8284	seed
+T272	Protein_Family 8298 8324	cell-wall-bound invertases
+T273	Tissue 8338 8360	thin-walled parenchyma
+T274	Tissue 8366 8392	innermost seed coat tissue
+T275	Tissue 8376 8380	seed
+T276	Pathway 8394 8411	hydrolyze sucrose
+T277	Tissue 8489 8501	embryo cells
+T278	Protein_Family 8503 8528	Cell-wall-bound invertase
+T279	Development_Phase 8559 8589	late phase of seed development
+T280	Tissue 8573 8577	seed
+T281	Tissue 8632 8644	embryo cells
+T282	Protein_Family 8671 8687	sucrose synthase
+T283	Protein_Family 8689 8714	Cell-wall-bound invertase
+T285	Tissue 8749 8753	seed
+T284	Regulatory_Network 8749 8765	seed cell number
+T286	Genotype 8774 8830	fava bean cultivars that exhibit variations in seed size
+T287	Tissue 8821 8825	seed
+T288	Genotype 8842 8858	maize miniature1
+T289	Gene 8914 8917	AP2
+T291	Tissue 8929 8933	seed
+T290	Regulatory_Network 8929 8938	seed mass
+T292	Protein_Family 8954 8979	cell-wall-bound invertase
+T293	Protein_Family 9028 9037	AP2/EREBP
+T294	Protein 9028 9031	AP2
+T295	Protein_Family 9032 9037	EREBP
+T296	Gene 9116 9119	AP2
+T297	Genotype 9121 9159	Mutations in the Arabidopsis WRINKLED1
+T298	Gene 9150 9159	WRINKLED1
+T299	Regulatory_Network 9173 9207	defects in carbohydrate metabolism
+T300	Pathway 9184 9207	carbohydrate metabolism
+T302	Regulatory_Network 9212 9225;9240 9251	reductions in oil content
+T301	Regulatory_Network 9212 9235	reductions in seed mass
+T303	Tissue 9226 9230	seed
+T304	Genotype 9262 9273	Arabidopsis
+T305	Gene 9274 9286	AINTEGUMENTA
+T306	Development_Phase 9333 9351	cell proliferation
+T307	Genotype 9362 9396	Ectopic expression of AINTEGUMENTA
+T308	Gene 9384 9396	AINTEGUMENTA
+T309	Regulatory_Network 9404 9416;9438 9454	plant organs increase in size
+T310	Tissue 9428 9433	seeds
+T312	Genotype 9463 9473;9490 9497	transgenic tobacco
+T311	Genotype 9463 9485	transgenic Arabidopsis
+T314	Tissue 9520 9524	seed
+T313	Regulatory_Network 9520 9529	seed size
+T315	Genotype 9533 9550	transgenic plants
+T316	Regulatory_Network 9577 9600	increase in cell number
+T318	Tissue 9608 9612	seed
+T317	Development_Phase 9608 9624	seed development
+T319	Protein_Family 9638 9647	AP2/EREBP
+T320	Protein 9638 9641	AP2
+T321	Protein_Family 9642 9647	EREBP
+T322	Protein 9702 9705	AP2

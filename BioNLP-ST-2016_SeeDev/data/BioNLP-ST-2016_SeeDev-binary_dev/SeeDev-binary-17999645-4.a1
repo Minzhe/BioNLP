@@ -1,0 +1,34 @@
+T1	Protein 19 24	AGL15
+T3	Protein 45 49	SIN3
+T2	Protein_Complex 45 63	SIN3/HDAC1 complex
+T4	Protein 50 55	HDAC1
+T5	Genotype 148 157	in planta
+T6	Protein_Family 158 177	Histone deacetylase
+T7	Protein_Family 179 183	HDAC
+T9	Protein 509 513	SIN3
+T8	Protein_Family 509 533	SIN3-associated proteins
+T10	Protein 535 540	SAP18
+T11	Protein 545 550	SAP30
+T13	Protein 592 596	SIN3
+T12	Protein_Complex 592 601	SIN3–HDAC
+T14	Protein_Family 597 601	HDAC
+T15	Protein 659 664	SAP18
+T17	Protein 697 701	SIN3
+T16	Protein_Complex 697 715	SIN3/HDAC1 complex
+T18	Protein 702 707	HDAC1
+T20	Protein 1024 1028	SIN3
+T19	Protein_Complex 1024 1042	SIN3/HDAC1 complex
+T21	Protein 1029 1034	HDAC1
+T22	Protein 1105 1110	SAP18
+T24	Protein_Family 1138 1142	HDAC
+T23	Protein_Complex 1138 1150	HDAC complex
+T25	Protein 1331 1336	SAP18
+T26	Protein 1373 1378	AGL15
+T27	Environmental_Factor 1379 1387	in vitro
+T29	Protein 1440 1445	AGL15
+T28	Protein_Domain 1440 1458	AGL15 binding site
+T30	Protein 1481 1486	SAP18
+T31	Protein 1517 1521	ERF3
+T32	Environmental_Factor 1522 1530	in vitro
+T34	Protein 1549 1553	ERF3
+T33	Protein_Domain 1549 1566	ERF3 binding site

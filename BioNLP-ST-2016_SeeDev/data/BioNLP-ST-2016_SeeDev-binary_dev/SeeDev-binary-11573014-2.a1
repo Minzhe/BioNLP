@@ -1,0 +1,11 @@
+T1	Regulatory_Network 4 40	pleiotropic effects of lec mutations
+T2	Genotype 27 30	lec
+T3	Gene_Family 82 85	LEC
+T5	Tissue 123 129	embryo
+T4	Development_Phase 123 129;139 150	embryo development
+T7	Tissue 134 138	seed
+T6	Development_Phase 134 150	seed development
+T8	Gene 198 202	LEC1
+T9	Gene 207 211	FUS3
+T10	Gene 348 352	LEC2
+T11	Development_Phase 423 436	embryogenesis

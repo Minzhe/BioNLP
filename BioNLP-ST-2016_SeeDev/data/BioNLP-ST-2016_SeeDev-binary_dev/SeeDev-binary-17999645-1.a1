@@ -1,0 +1,113 @@
+T2	Protein_Domain 0 11	MADS-domain
+T1	Protein_Family 0 20	MADS-domain proteins
+T3	Genotype 100 110	eukaryotic
+T4	Genotype 278 284	Plants
+T5	Protein_Family 304 328	subclass of MADS factors
+T6	Protein_Family 316 328	MADS factors
+T7	Protein_Family 344 348	MIKC
+T8	Protein_Domain 401 418	coiled-coil motif
+T9	Protein_Domain 424 432	K domain
+T10	Genotype 464 470	plants
+T12	Protein_Domain 507 518	MADS-domain
+T11	Protein_Family 507 527	MADS-domain proteins
+T13	Genotype 538 549	Arabidopsis
+T14	Protein_Family 610 624	MIKC subfamily
+T15	Protein 669 684	AGAMOUS-like 15
+T16	Gene 669 676	AGAMOUS
+T17	Protein 686 691	AGL15
+T18	Gene 693 702	At5g13790
+T19	Protein_Family 723 737	MIKC subfamily
+T20	Protein_Domain 774 778;796 803	MADS domains
+T21	Protein_Domain 780 781;796 803	M domains
+T22	Protein_Domain 784 785;796 803	I domains
+T23	Protein_Domain 787 788;796 803	K domains
+T24	Protein_Domain 794 803	C domains
+T25	Protein_Domain 851 862	MADS domain
+T26	Protein_Domain 1029 1040;1045 1051	intervening domain
+T27	Protein_Domain 1042 1043;1045 1051	I domain
+T29	Protein_Domain 1146 1157	MADS-domain
+T28	Protein_Family 1146 1166	MADS-domain proteins
+T30	Box 1241 1251	CArG motif
+T31	Box 1253 1265	C-A/T-rich-G
+T32	Box 1296 1306	CC[A/T]6GG
+T33	Protein 1363 1368	AGL15
+T34	Box 1409 1422	CArG sequence
+T35	Box 1437 1450	A/T-rich core
+T36	Box 1452 1460	C[A/T]8G
+T37	Environmental_Factor 1462 1470	in vitro
+T38	Protein_Domain 1499 1507	K domain
+T39	Protein_Domain 1594 1611;1616 1622	carboxyl-terminal domain
+T40	Protein_Domain 1613 1614;1616 1622	C domain
+T41	Genotype 1984 1989	plant
+T42	Protein_Family 1990 2010	MADS-domain proteins
+T43	Genotype 2460 2465	plant
+T44	Protein_Domain 2466 2470	MADS
+T45	Protein_Family 2642 2662	RNA-binding proteins
+T47	Protein_Domain 2841 2852	MADS-domain
+T46	Protein_Family 2841 2874	MADS-domain transcription factors
+T48	Genotype 2986 3018	ectopic expression of SEPALLATA3
+T49	Gene 3008 3018	SEPALLATA3
+T50	Gene 3020 3024	SEP3
+T51	Gene 3054 3056	AG
+T52	Tissue 3068 3097	outside of the floral context
+T53	Tissue 3083 3089	floral
+T54	Protein 3133 3136	AP1
+T55	Protein 3141 3145	SEP3
+T56	Protein 3209 3215	LEUNIG
+T57	Protein 3217 3220	LUG
+T58	Protein 3226 3231	SEUSS
+T59	Protein 3233 3236	SEU
+T60	Regulatory_Network 3276 3300	ectopic AG transcription
+T61	Gene 3284 3286	AG
+T62	Gene 3358 3361	LUG
+T63	Gene 3366 3369	SEU
+T64	Protein 3432 3435	SEU
+T65	Environmental_Factor 3464 3471	in vivo
+T67	Gene 3480 3482	AG
+T66	Box 3480 3537	AG cis-regulatory region containing a putative CArG motif
+T68	Box 3527 3537	CArG motif
+T69	Protein 3576 3580	SEP3
+T70	Protein 3605 3610	AGL15
+T71	Tissue 3659 3700	tissues that develop in an embryonic mode
+T72	Development_Phase 3808 3829	somatic embryogenesis
+T73	Protein 3854 3859	AGL15
+T74	Development_Phase 3889 3920	after completion of germination
+T75	Tissue 3924 3948	restricted sets of cells
+T76	Box 4033 4049	targets of AGL15
+T77	Protein 4044 4049	AGL15
+T78	Protein 4218 4223	AGL15
+T79	Protein 4335 4340	AGL15
+T80	Environmental_Factor 4341 4348	in vivo
+T81	Environmental_Factor 4354 4362	in vitro
+T82	Protein 4364 4369	AGL15
+T83	Protein 4428 4433	AGL15
+T84	Protein 4547 4552	AGL15
+T85	Genotype 4553 4562	in planta
+T86	Protein 4564 4569	AGL15
+T87	Protein_Family 4624 4644	MADS-domain proteins
+T88	Protein 4794 4799	AGL15
+T89	Protein 4867 4910	SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1
+T90	Protein 4912 4917	SERK1
+T91	Protein 4972 4977	AGL15
+T93	Protein_Domain 4984 4999	non-MADS domain
+T92	Protein_Family 4984 5007	non-MADS domain protein
+T94	Protein 5051 5056	AGL15
+T96	Protein 5087 5091	SIN3
+T95	Protein_Complex 5087 5111;5119 5126	SIN3 histone deacetylase complex
+T97	Protein_Family 5092 5111	histone deacetylase
+T98	Protein_Family 5113 5117	HDAC
+T99	Protein_Domain 5149 5160	LxLxL motif
+T100	Protein_Domain 5176 5202	C-terminal domain of AGL15
+T101	Protein 5197 5202	AGL15
+T103	Protein 5401 5405	SIN3
+T102	Protein 5401 5438	SIN3-associated polypeptide of 18 kDa
+T104	Protein 5440 5445	SAP18
+T105	Environmental_Factor 5451 5467	yeast two-hybrid
+T106	Protein 5495 5500	AGL15
+T107	Environmental_Factor 5542 5549	in vivo
+T108	Protein_Domain 5581 5592	LxLxL motif
+T109	Protein 5661 5666	AGL15
+T111	Protein 5687 5691	SIN3
+T110	Protein_Complex 5687 5705	SIN3/HDAC1 complex
+T112	Protein 5692 5697	HDAC1
+T113	Genotype 5790 5799	in planta

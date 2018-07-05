@@ -1,0 +1,16 @@
+We found that DCL1 and, by implication, miRNAs were required for multiple embryonic patterning events beginning as early as the eight-cell stage.
+In fact, the only cell type that appeared to differentiate correctly in dcl1 embryos was the outermost protoderm layer. Furthermore, protoderm markers that are typically restricted to the embryo proper
+were ectopically expressed in dcl1 suspensors at the late globular and early heart stages (Fig. 1B; Supplemental Fig. 2), which helps explain a previously reported function of DCL1/SUS1 in maintaining the extraembryonic cell fate of the suspensor (Schwartz et al. 1994).
+The requirement of miRNAs for proper embryonic patterning and cell differentiation might have suggested that embryonic miRNAs
+act to trigger developmental transitions, as was first reported for metazoan miRNAs (Lee et al. 1993; Wightman et al. 1993; Moss et al. 1997; Reinhart et al. 2000), where induced miRNAs act to down-regulate genes that contribute to the differentiation state of the precursor cells. Or
+they might act to sharpen developmental transitions, as observed in fish, frog, and, perhaps, mammalian embryos, where miR-430
+or its orthologs clears maternally expressed messages to sharpen the transition from maternal to zygotic expression programs
+(Farh et al. 2005; Giraldez et al. 2006; Lund et al. 2009). Indeed, an analogous function in sharpening developmental transitions was proposed and has been observed for plant miRNAs
+at later developmental stages (Rhoades et al. 2002; Aukerman and Sakai 2003; Lauter et al. 2005; Wu et al. 2009). However, our molecular characterization of the Dcl1 phenotype shows that the earliest known developmental roles of miRNAs
+in plants is not to trigger or sharpen developmental transitions by repressing genes with developmental functions in precursor
+cell types, but instead is the opposite (Fig. 7). In eight-cell embryos, miRNAs repress genes that function in daughter cell types later in embryo development. Instead of
+attenuating pre-existing function, they prevent precocious function. Dicer and other miRNA biogenesis proteins are required
+for formation of the mammalian mesoderm and differentiation of murine embryonic stem cells (Bernstein et al. 2003; Kanellopoulou et al. 2005; O'Rourke et al. 2007; Wang et al. 2007). Perhaps as the roles of individual vertebrate miRNAs are examined in more detail, analogous functions in preventing precocious
+embryonic expression will help explain the requirement of miRNAs for mammalian embryonic development. Indeed, recent studies
+show that the extraembryonic lineage of mouse embryos uses miRNAs to prevent premature differentiation and maintain extraembryonic
+stem cell multipotency (Spruce et al. 2010).

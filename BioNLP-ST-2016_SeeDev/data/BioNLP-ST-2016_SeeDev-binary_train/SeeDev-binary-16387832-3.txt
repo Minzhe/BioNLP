@@ -1,0 +1,13 @@
+Continuous organ formation from the shoot meristem during the postembryonic life of higher plants depends on the maintenance
+of undifferentiated stem cells in specific microenvironments, named stem cell niches (Weigel and Jürgens, 2002; Laux, 2003). Here, we identify a novel regulatory pathway in shoot meristem stem cell maintenance defined by AP2 function.
+Stem Cell Maintenance Is Regulated by AP2AP2 was originally identified as a floral homeotic gene encoding A-function of the ABC model of organ identity specification
+(Bowman et al., 1989, 1991). Recently, it has also been implicated in floral transition and control of seed size (Okamuro et al., 1997b; Jofuku et al., 2005; Ohto et al., 2005). Here, we show that l28 and l28/+ plants have a number of phenotypes in common with ap2 loss-of-function alleles, such as early flowering, mispecified floral organs, and a reduction in shoot meristem size. By
+contrast, premature termination of the shoot meristem and differentiation of the stem cells is only observed in the l28 allele. Wild-type AP2 is expressed in the shoot meristem at all stages, consistent with an as yet unknown function there. Our gene dosage experiments
+indicate that wild-type AP2 activity competes with l28 activity. A plausible interpretation of these data is that l28 acts as a dominant-negative allele of AP2 and thus identifies a novel pathway in shoot meristem development. Definite proof of this model has to await the identification
+of potential redundant factors that appear to mask AP2 function in the shoot meristem.
+The l28 mutation changes a highly conserved negatively charged Glu residue into a positively charged Lys residue within the first
+of the two putative DNA binding domains of AP2. A possible model is therefore that the mutant protein competes with wild-type
+AP2 and redundant factor(s) for interactors in a protein complex but compromises its binding to DNA targets. Alternatively,
+the mutant protein may still be able to bind to AP2 target genes but fail to interact with cofactors required for transcriptional
+regulation. Stochastic variations in the balance between mutant and redundant wild-type proteins might account for the differences
+when meristem termination occurs in individual homozygous l28 mutants.

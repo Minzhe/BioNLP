@@ -1,0 +1,28 @@
+While the entire coexpression network is useful for network topology analysis, isolation
+of a subnetwork (or cluster) makes it more accessible to biologists [40,58]. More importantly, a subnetwork in the large coexpression network is often more biologically
+relevant in a pathway context. Hence, we extracted subnetworks from this gene coexpression
+network for genes relevant to the accumulation of seed storage reserves (Figure 4). Of the 48 genes known to encode enzymes involved in FA biosynthesis [17,59], we identified 44 (or ~92%) genes represented on the ATH1 array, and all of them
+were found in one subnetwork (Figure 4A). This subnetwork cluster consists of 1854 genes (Additional File 1), which is in general agreement with an interactive correlation network generated
+genome-wide in Arabidopsis using a heuristic clustering algorithm [41]. Such a gene list can be used to identify interactors of genes in FA synthesis in
+developing seeds. Consistent with the coexpression subnetwork analysis, the majority
+of genes involved in FA biosynthesis were associated with Cluster 1 (Figure 3). Their expression levels increased steadily from the globular embryo stage, generally
+reached the peak at the expanded cotyledon stage, and dramatically declined subsequently
+throughout late seed maturation (Figure 4B). Such a unified expression pattern for most FA biosynthetic genes supports earlier
+studies showing that FA supply can be a limiting factor for triacylglycerol (TAG)
+accumulation in developing embryos of Brassica napus [60], olive (Olea europaea L.) and oil palm (Elaeis guineensis Jacq.)[61], as well as cuphea lanceolata and other oil species [62]. Recent studies of metabolic flux in developing embryos of B. napus, however, indicated that TAG assembly was more limiting than FA biosynthesis in regulating
+the flow of carbon into TAG [63]. The majority of genes encoding oilbody oleosins and SSPs were found in another subnetwork
+with a distinct expression pattern (Figure 4C). The subnetwork encompassing genes encoding oleosins and SSPs is comprised of 1392
+genes (Additional File 2). Genes encoding oleosins and SSPs were in Cluster 2 (Figure 3), and their expression profiles were strikingly similar. These genes were virtually
+unexpressed at the globular stage, increased rapidly (>1000-fold in many cases) from
+the globular stage to the bilaternal stage, and remained at the elevated expression
+level throughout the remaining stages of seed maturation (Figure 4D). Transcripts for OLEOSIN and SSP genes are most abundant in the seed transcriptome late during seed development. In
+contrast, most genes in the TAG assembly pathway were found in different subnetworks,
+exhibiting various expression profiles during seed development (Figure 5). DIACYLGLYCEROL ACYLTRANSFERASE 1 (DGAT1), FATTY ACID DESATURASE 2 (FAD2), FATTY ACID ELONGASE 1 (FAE1) and STEAROYL DESATURASE (SAD) genes were identified in this subnetwork, albeit expressed at substantially lower
+levels compared to genes encoding oleosins and SSPs (Additional File 3). DGAT catalyzes the acyl-CoA-dependent acylation of sn-1,2-diacylglycerol to produce TAG and CoA [64]. FAD2 catalyzes the introduction of a second double bond into acyl groups in phospholipid
+whereas SAD catalyzes the formation of monounsaturated FA in the plastid [65]. FAE1 catalyzes the elongation oleoyl-CoA in the endoplasmic reticulum [65]. Our analysis determined that AT1G48300, which was named DGAT3, is the putative gene encoding a cytosolic DGAT in Arabidopsis. The amino acid sequence
+of AT1G48300 has a significantly high degree of similarity (expect value < 1 Ã 10-21) to the soluble DGAT in peanut (Arachis hypogaea), where the cytosolic DGAT gene in plants was first discovered [66]. Notably, DGAT3 exhibited a similar expression pattern with DGAT1, but expressed higher during late seed maturation. In earlier studies, quantification
+of DGAT activity during seed maturation in B. napus indicated that enzyme activity was maximal during the rapid phase of oil accumulation
+with a substantial decrease in activity occurring as oil levels reached a plateau
+[67,68]. Assuming DGAT activity shows a similar profile during seed development in Arabidopsis,
+this suggests that DGAT may be down-regulated post-transcriptionally and/or post-translationally
+during the latter stages of seed development.

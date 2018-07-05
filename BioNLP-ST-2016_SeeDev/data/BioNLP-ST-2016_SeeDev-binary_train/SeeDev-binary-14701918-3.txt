@@ -1,0 +1,14 @@
+The production of mucilage in the epidermal cells of the Arabidopsis seed coat is part of a coordinated developmental process
+that begins with cell growth, followed by biosynthesis and polar secretion of large quantities of pectin, formation of a cytoplasmic
+column through cytoplasmic constriction and vacuolar contraction, and, finally, the synthesis of a secondary cell wall (columella;
+Beeckman et al., 2000; Western et al., 2000; Windsor et al., 2000). Seed coat mucilage is dispensable under laboratory conditions in Arabidopsis and mum (mucilage-modified) mutants affecting mucilage production can be identified by a simple screening method (Western et al., 2001). Mutations in one of these genes, MUM4, yield a phenotype where mucilage is not released from hydrated mature seeds.
+Several genes encoding putative transcription factors have been implicated in seed coat epidermal development because mutations
+in these genes result in seeds that fail to release mucilage upon hydration. Mutants in AP2 (APETALA2), in addition to their defects in floral morphogenesis, lack differentiation past the growth phase of mucilage secretory
+cells (Jofuku et al., 1994; Western et al., 2001). TTG1 (TRANSPARENT TESTA GLABRA1), TTG2, and GL2 (GLABRA2), which were originally identified through their role in trichome specification, have defects in both mucilage and columella
+production in the seed coat (Koornneef, 1981; Penfield et al., 2001; Western et al., 2001; Johnson et al., 2002). It has been shown at the genetic and molecular levels in trichomes and root hairs that TTG1 interacts with a basic helix-loop-helix
+(bHLH) protein and a tissue-specific MYB protein to activate both GL2 and TTG2 (Payne et al., 2000; Johnson et al., 2002; Schiefelbein, 2003). Recently, mutations in MYB61 have been found to specifically affect both mucilage and columella production in the Arabidopsis seed coat (Penfield et al., 2001).
+The objective of this study was to characterize the role of MUM4 in the development of the Arabidopsis seed coat. Using positional cloning of MUM4, we demonstrate that MUM4 encodes a putative NDP-l-Rha synthase. Mutations in this gene lead to reduced mucilage in the seed coat and an altered columella. Expression studies
+show that MUM4 is developmentally regulated during seed coat differentiation such that its transcript levels are increased at the time of
+mucilage production. Furthermore, MUM4 appears to be a downstream target of a cascade of transcription factors that includes AP2, TTG1, and GL2. These results demonstrate
+the importance of mucilage production for the morphology of seed coat epidermal cells and suggest a regulatory framework for
+the control of seed coat epidermal differentiation.

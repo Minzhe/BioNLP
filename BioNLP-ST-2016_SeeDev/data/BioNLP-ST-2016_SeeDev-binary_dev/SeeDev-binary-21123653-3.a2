@@ -1,0 +1,2 @@
+E1	Regulates_Process Agent:T1 Process:T2
+E2	Regulates_Development_Phase Agent:T1 Development:T4

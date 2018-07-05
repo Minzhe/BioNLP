@@ -1,0 +1,7 @@
+Identification of Repressors of the Maturation Program during Embryogenesis
+One lingering mystery has been the identity of the genes directly repressing the maturation program early in development.
+Our microarray analysis indicated that ASIL1, HDA6/SIL1, and CLF were down-regulated in dcl1-15. These genes have previously been shown to repress the transcription of the LEC genes and other maturation-related genes in seedlings. Interestingly, several other histone deacetylases were down-regulated
+(HDA5, -9, -10, and HDT1) as well as the closest homolog to ASIL1 (ASIL2). It has already been shown that ASIL1 binds to a GT-box, which is present in both the promoters of the LEC genes and of
+the genes encoding storage products, regulating the program at least at two levels (Gao et al., 2009). We analyzed single and double mutant combinations of asil1-1, asil2-1, and sil1-1 and found that these genes redundantly repress the maturation program during early embryogenesis, downstream of miRNA targets.
+Thus, our studies demonstrate, to our knowledge for the first time, that the same genetic mechanism negatively regulates seed
+storage genes during early embryogenesis and seedling development.

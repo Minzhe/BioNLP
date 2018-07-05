@@ -1,0 +1,71 @@
+T1	Gene 14 18	DCL1
+T2	RNA 40 46	miRNAs
+T3	Development_Phase 74 94	embryonic patterning
+T4	Development_Phase 128 144	eight-cell stage
+T5	Genotype 218 222	dcl1
+T6	Tissue 223 230	embryos
+T7	Tissue 239 264	outermost protoderm layer
+T8	Tissue 279 288	protoderm
+T10	Tissue 334 340	embryo
+T9	Tissue 334 347	embryo proper
+T11	Genotype 378 382	dcl1
+T12	Tissue 383 393	suspensors
+T13	Development_Phase 401 414;431 437	late globular stages
+T14	Development_Phase 419 437	early heart stages
+T15	Gene 524 528	DCL1
+T16	Gene 529 533	SUS1
+T17	Regulatory_Network 537 594	maintaining the extraembryonic cell fate of the suspensor
+T18	Tissue 585 594	suspensor
+T19	RNA 638 644	miRNAs
+T20	Development_Phase 656 676	embryonic patterning
+T21	Development_Phase 681 701	cell differentiation
+T22	RNA 738 744	miRNAs
+T23	Regulatory_Network 752 785	trigger developmental transitions
+T24	Genotype 813 821	metazoan
+T25	RNA 822 828	miRNAs
+T26	RNA 924 930	miRNAs
+T27	Regulatory_Network 952 1025	genes that contribute to the differentiation state of the precursor cells
+T28	Tissue 1010 1025	precursor cells
+T29	Genotype 1098 1102	fish
+T30	Genotype 1104 1108	frog
+T31	Genotype 1124 1133	mammalian
+T32	Tissue 1134 1141	embryos
+T33	RNA 1149 1156	miR-430
+T34	Development_Phase 1226 1281	transition from maternal to zygotic expression programs
+T35	Regulatory_Network 1242 1251;1262 1281	maternal expression programs
+T36	Regulatory_Network 1254 1281	zygotic expression programs
+T37	Regulatory_Network 1375 1411	sharpening developmental transitions
+T38	Genotype 1451 1456	plant
+T39	RNA 1457 1463	miRNAs
+T40	Genotype 1625 1629	Dcl1
+T41	RNA 1693 1699	miRNAs
+T42	Genotype 1703 1709	plants
+T43	Regulatory_Network 1720 1727;1739 1784	trigger developmental transitions by repressing genes
+T44	Regulatory_Network 1731 1784	sharpen developmental transitions by repressing genes
+T45	Tissue 1817 1837	precursor cell types
+T46	Development_Phase 1880 1890	eight-cell
+T47	Tissue 1891 1898	embryos
+T48	RNA 1900 1906	miRNAs
+T50	Tissue 1967 1973	embryo
+T49	Development_Phase 1967 1985	embryo development
+T51	Protein 2067 2072;2100 2108	Dicer proteins
+T53	RNA 2083 2088	miRNA
+T52	Pathway 2083 2099	miRNA biogenesis
+T54	Regulatory_Network 2126 2161	formation of the mammalian mesoderm
+T55	Genotype 2143 2152	mammalian
+T56	Tissue 2153 2161	mesoderm
+T57	Regulatory_Network 2166 2212	differentiation of murine embryonic stem cells
+T58	Genotype 2185 2191	murine
+T59	Tissue 2192 2212	embryonic stem cells
+T60	Genotype 2340 2350	vertebrate
+T61	RNA 2351 2357	miRNAs
+T62	Regulatory_Network 2421 2452	precocious embryonic expression
+T63	RNA 2490 2496	miRNAs
+T64	Genotype 2501 2510	mammalian
+T65	Development_Phase 2511 2532	embryonic development
+T66	Genotype 2571 2602	extraembryonic lineage of mouse
+T67	Tissue 2603 2610	embryos
+T68	RNA 2616 2622	miRNAs
+T69	Regulatory_Network 2634 2659	premature differentiation
+T70	Development_Phase 2644 2659	differentiation
+T71	Regulatory_Network 2664 2710	maintain extraembryonic stem cell multipotency

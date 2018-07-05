@@ -1,0 +1,27 @@
+T1	Genotype 54 74	Arabidopsis thaliana
+T2	Gene_Family 75 100	abscisic acid-insensitive
+T3	Hormone 75 88	abscisic acid
+T4	Gene_Family 102 105	ABI
+T6	Tissue 133 137	seed
+T5	Regulatory_Network 133 146;168 183	seed-specific gene expression
+T8	Hormone 154 157	ABA
+T7	Regulatory_Network 154 183	ABA-inducible gene expression
+T9	Environmental_Factor 202 218	yeast two-hybrid
+T10	Protein 342 346	ABI3
+T11	Protein 351 355	ABI5
+T12	Protein 397 401	ABI5
+T13	Protein_Domain 427 436	B1 domain
+T14	Protein 440 444	ABI3
+T16	Protein 547 551	ABI3
+T17	Gene_Family 547 551	ABI3
+T15	Protein_Family 547 562	ABI3/VP1 family
+T18	Protein 552 555	VP1
+T20	Protein 568 572	ABI5
+T19	Protein_Domain 568 580	ABI5 domains
+T21	Protein 611 615	ABI3
+T22	Environmental_Factor 811 827	Yeast one-hybrid
+T23	Gene 842 846	lacZ
+T24	Development_Phase 882 900	late embryogenesis
+T26	Gene 910 915	AtEm6
+T25	Promoter 910 924	AtEm6 promoter
+T27	Protein 940 944	ABI5

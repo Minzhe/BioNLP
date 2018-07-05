@@ -1,0 +1,15 @@
+Although small amounts of AGL15 protein might
+accumulate in these tissues throughout the vegetative phase, we conclude that the amounts of nuclear-localized AGL15 protein
+approach those seen in young embryos only during the earliest stages of vegetative growth in the shoot apex of Arabidopsis.
+With the onset of the reproductive phase, AGL15 promoter activity ceases in the meristematic cells at the apex of the inflorescence. This pattern of gene regulation further
+distinguishes AGL15 from the large group of floral MADS box genes, including AP1 (Mandel et al. 1992b) and FRUITFULL/AGL8 (Mandel and Yanofsky 1995a ; Gu et al. 1998), which are preferentially expressed during the reproductive phase and are induced or upregulated during the transition to
+flowering (Hempel et al. 1997). In terms of regulation, AGL15 is most similar to the MADS box gene FLOWERING LOCUS C, which encodes a repressor of flowering and is also downregulated in the transition to flowering (Michaels and Amasino 1999).
+During the reproductive phase, AGL15 promoter activity is also associated with young immature cells. Cell maturation proceeds in the apical-to-basal direction
+in floral organs, as it does in leaves (reviewed in Telfer and Poethig 1994). In both leaves and floral organs, which are considered homologous organs (reviewed in Poethig 1997), the AGL15 promoter is initially active throughout the young organ primordia but is gradually restricted to the base of the maturing
+organs.
+Given the patterns of AGL15 promoter activity and mRNA and protein accumulation, we conclude that AGL15 function is most likely associated with the shoot
+apical meristems and with young vegetative organs during the juvenile stage of the vegetative phase, when the protein concentrations
+are highest, and with floral organs up to the point at which they are fully mature. To define more clearly any possible regulatory
+roles, we turned to an analysis of transgenic plants that express AGL15 under the control of a heterologous promoter.
+Effects of AGL15 Constitutive Expression
+We examined the effect of constitutive expression of AGL15 by generating transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15 constructs.

@@ -1,0 +1,61 @@
+T2	Tissue 179 183	seed
+T1	Pathway 179 200	seed storage reserves
+T3	Gene 213 218	AGL15
+T4	Gene 220 235	AGAMOUS-LIKE 15
+T5	Gene 238 241	GL2
+T6	Gene 243 250	GLABRA2
+T7	Gene 253 257	LEC1
+T8	Gene 259 262	L1L
+T9	Gene 268 272	WRI1
+T10	Pathway 357 372	FA biosynthesis
+T11	Gene 393 397	ABI3
+T12	Gene 399 402	EEL
+T13	Gene 408 412	FUS3
+T14	Gene_Family 455 478	genes encoding oleosins
+T15	Gene_Family 455 470;483 487	genes encoding SSPs
+T16	Protein_Family 470 478	oleosins
+T17	Protein_Family 483 487	SSPs
+T19	Development_Phase 519 534	seed maturation
+T20	Tissue 519 523	seed
+T18	Regulatory_Network 519 540	seed maturation genes
+T21	Gene 542 547	ASIL1
+T22	Gene 549 592	ARABIDOPSIS 6B-INTERACTING PROTEIN 1-LIKE 1
+T23	Gene 603 609	PICKLE
+T24	Gene 611 614	PKL
+T25	Development_Phase 699 714	seed maturation
+T26	Tissue 699 703	seed
+T27	Gene 742 746	LEC2
+T28	Pathway 776 792	oil accumulation
+T29	Tissue 796 802	leaves
+T30	Development_Phase 807 828	somatic embryogenesis
+T31	Tissue 872 888	developing seeds
+T32	Gene 995 999	LEC2
+T33	Development_Phase 1031 1057	early embryo morphogenesis
+T34	Tissue 1037 1043	embryo
+T36	Gene 1113 1117	LEC1
+T35	Genotype 1113 1131	LEC1, LEC2 mutants
+T37	Gene 1119 1123	LEC2
+T38	Genotype 1139 1150	Arabidopsis
+T39	Pathway 1205 1222	storage compounds
+T40	Genotype 1237 1241	lec2
+T41	Tissue 1249 1254	seeds
+T42	Genotype 1299 1303	lec1
+T43	Tissue 1311 1316	seeds
+T44	Gene 1341 1345	LEC2
+T45	Pathway 1368 1402	synthesis of seed storage reserves
+T46	Tissue 1381 1385	seed
+T47	Development_Phase 1410 1451	late stages of zygotic embryo development
+T48	Tissue 1433 1439	embryo
+T49	Gene 1510 1514	ABI4
+T50	Tissue 1557 1561	seed
+T51	Gene 1695 1699	LEC1
+T52	Gene 1704 1708	WRI1
+T53	Pathway 1734 1749	FA biosynthetic
+T54	Gene 1763 1767	ABI5
+T55	Gene_Family 1803 1830	LATE-EMBRYOGENESIS ABUNDANT
+T56	Gene_Family 1832 1835	LEA
+T57	Gene 1865 1869	LEC1
+T58	Gene 1874 1878	WRI1
+T59	Pathway 1906 1921	FA biosynthetic
+T60	Gene 1941 1945	ABI5
+T61	Gene_Family 1958 1972	subset of LEAs

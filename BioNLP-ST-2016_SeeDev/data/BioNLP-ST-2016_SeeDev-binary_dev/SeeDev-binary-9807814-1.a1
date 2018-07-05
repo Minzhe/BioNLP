@@ -1,0 +1,30 @@
+T1	Development_Phase 4 32	late stages of embryogenesis
+T2	Development_Phase 19 32	embryogenesis
+T3	Genotype 36 49	higher plants
+T4	Development_Phase 67 81	seed formation
+T5	Tissue 67 71	seed
+T6	Development_Phase 95 126	vegetative growth of the embryo
+T7	Tissue 120 126	embryo
+T8	Pathway 141 157	storage reserves
+T9	Tissue 192 198	embryo
+T10	Pathway 208 229	desiccation tolerance
+T11	Development_Phase 272 291	the end of ripening
+T12	Development_Phase 389 403	seed formation
+T13	Tissue 389 393	seed
+T14	Tissue 415 421	embryo
+T15	Environmental_Factor 536 543	drought
+T16	Development_Phase 580 591	germination
+T17	Development_Phase 621 657	postembryonic vegetative development
+T18	Genotype 672 692	Arabidopsis thaliana
+T19	Genotype 694 727	recessive mutations in the FUSCA3
+T20	Gene 721 727	FUSCA3
+T21	Gene 734 738	FUS3
+T22	Development_Phase 791 805	seed formation
+T23	Tissue 791 795	seed
+T24	Genotype 863 867	fus3
+T25	Tissue 868 875	embryos
+T26	Protein_Family 903 906;914 927	12S seed proteins
+T27	Protein_Family 911 927	2S seed proteins
+T28	Tissue 914 918	seed
+T29	Pathway 939 953	storage lipids
+T30	Pathway 986 997	anthocyanin

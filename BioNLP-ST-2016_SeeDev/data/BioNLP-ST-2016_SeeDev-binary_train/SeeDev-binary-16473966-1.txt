@@ -1,0 +1,11 @@
+Arabidopsis thaliana SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1 (SERK1) is a leucine-rich repeat receptor-like kinase (LRR-RLK) involved in the
+acquisition of embryogenic competence and in male sporogenesis. To determine the composition of the SERK1 signaling complex
+in vivo, we generated plants expressing the SERK1 protein fused to cyan fluorescent protein under SERK1 promoter control.
+The membrane receptor complex was immunoprecipitated from seedlings, and the coimmunoprecipitating proteins were identified
+using liquid chromatography/matrix-assisted laser desorption ionization–time of flight/mass spectrometry of the trypsin-released
+peptides. This approach identified two other LRR-RLKs, the BRASSINOSTEROID-INSENSITIVE1 (BRI1) receptor and its coreceptor,
+the SERK3 or BRI1-ASSOCIATED KINASE1 protein. In addition, KINASE-ASSOCIATED PROTEIN PHOSPHATASE, CDC48A, and 14-3-3ν were
+found. Finally, the MADS box transcription factor AGAMOUS-LIKE15 and an uncharacterized zinc finger protein, a member
+of the CONSTANS family, were identified as part of the SERK1 complex. Using blue native gel electrophoresis, we show that
+SERK1 and SERK3 are part of BRI1-containing multiple protein complexes with relative masses between 300 and 500 kD. The SERK1
+mutant allele serk1-1 enhances the phenotype of the weak BRI1 allele bri1-119. Collectively, these results suggest that apart from SERK3, SERK1 is also involved in the brassinolide signaling pathway.

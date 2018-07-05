@@ -1,0 +1,118 @@
+T2	Protein 32 37	AGL15
+T1	Protein_Complex 32 43	AGL15–SAP18
+T3	Protein 38 43	SAP18
+T4	Protein 56 61	AGL15
+T5	Tissue 81 110	nuclei of cells in the embryo
+T6	Development_Phase 155 171	eight-cell stage
+T7	Genotype 176 187	Arabidopsis
+T8	Development_Phase 232 242	maturation
+T9	Development_Phase 262 273	desiccation
+T10	Gene 296 301	AGL15
+T11	Development_Phase 315 332	after germination
+T12	Genotype 336 347	Arabidopsis
+T13	Tissue 356 388	vegetative shoot apical meristem
+T14	Development_Phase 405 443	transition to reproductive development
+T15	Tissue 488 511	bases of cauline leaves
+T16	Tissue 497 511	cauline leaves
+T17	Tissue 516 529	floral organs
+T18	Tissue 656 662	embryo
+T19	Protein 730 735	AGL15
+T20	Genotype 854 885	Ectopic overexpression of AGL15
+T21	Gene 880 885	AGL15
+T22	Promoter 894 906	35S promoter
+T23	Regulatory_Network 965 979	late flowering
+T24	Development_Phase 970 979	flowering
+T25	Regulatory_Network 981 1016	a longer period for seeds to mature
+T26	Tissue 1001 1006	seeds
+T27	Development_Phase 1030 1040	senescence
+T28	Regulatory_Network 1045 1055	abscission
+T30	Promoter 1096 1099	35S
+T29	Genotype 1096 1122	35S:AGL15 transgenic lines
+T31	Gene 1100 1105	AGL15
+T32	Tissue 1162 1177	zygotic embryos
+T33	Tissue 1187 1209	apical meristem tissue
+T34	Environmental_Factor 1215 1236	liquid culture system
+T35	Tissue 1246 1261	somatic embryos
+T36	Regulatory_Network 1356 1374	embryonic programs
+T37	Genotype 1402 1413	agl15 agl18
+T38	Regulatory_Network 1432 1444	flower early
+T39	Environmental_Factor 1451 1471	short-day conditions
+T40	Development_Phase 1538 1563	developmental transitions
+T41	Protein 1692 1697	AGL15
+T42	Protein_Family 1703 1731	chromatin-modifying proteins
+T44	Protein 1797 1802	HDA19
+T43	Genotype 1797 1817	HDA19 overexpression
+T45	Pathway 1836 1859	acetylation of histones
+T46	Regulatory_Network 1861 1875	short siliques
+T47	Tissue 1867 1875	siliques
+T48	Regulatory_Network 1877 1896	abnormal cotyledons
+T49	Regulatory_Network 1877 1885;1901 1907	abnormal leaves
+T50	Tissue 1886 1896	cotyledons
+T51	Tissue 1901 1907	leaves
+T52	Regulatory_Network 1909 1923	late flowering
+T53	Development_Phase 1914 1923	flowering
+T54	Regulatory_Network 1928 1947	decreased fertility
+T55	Regulatory_Network 2003 2017	late flowering
+T56	Development_Phase 2008 2017	flowering
+T57	Genotype 2048 2088	plants that constitutively express AGL15
+T58	Gene 2083 2088	AGL15
+T59	Genotype 2129 2155	antisense HDA19 transgenic
+T60	Gene 2139 2144	HDA19
+T61	Genotype 2160 2178	athd-t1 homozygous
+T62	Regulatory_Network 2220 2238	delay in flowering
+T63	Development_Phase 2229 2238	flowering
+T64	Environmental_Factor 2298 2317	long-day conditions
+T65	Genotype 2432 2443	Arabidopsis
+T67	Protein_Family 2460 2464	HDAC
+T66	Environmental_Factor 2460 2489	HDAC inhibitor trichostatin A
+T68	Regulatory_Network 2505 2519	late flowering
+T69	Development_Phase 2510 2519	flowering
+T70	Genotype 2607 2637	loss-of-function allele of fld
+T71	Gene 2634 2637	fld
+T73	Protein_Family 2657 2661	HDAC
+T72	Protein_Complex 2657 2669	HDAC complex
+T74	Regulatory_Network 2682 2730	hyperacetylation of histones associated with FLC
+T75	Gene 2727 2730	FLC
+T76	RNA 2742 2752;2763 2769	transcript of FLC
+T77	Gene 2766 2769	FLC
+T78	Regulatory_Network 2776 2790	late flowering
+T79	Development_Phase 2781 2790	flowering
+T80	Genotype 2829 2885	loss-of-function of the histone acetyltransferase AtHAC1
+T81	Protein 2853 2878	histone acetyltransferase
+T82	Gene 2879 2885	AtHAC1
+T83	RNA 2912 2922;2933 2939	transcript of FLC
+T84	Gene 2936 2939	FLC
+T85	Regulatory_Network 2946 2964	delay in flowering
+T86	Development_Phase 2955 2964	flowering
+T87	Protein 3025 3028	FLC
+T88	Gene 3072 3077	SAP18
+T89	Genotype 3131 3137	plants
+T90	Genotype 3142 3149	animals
+T91	Genotype 3151 3194	plants homozygous for null alleles of sap18
+T92	Genotype 3257 3262	plant
+T93	Environmental_Factor 3266 3274	stressed
+T94	Genotype 3313 3357	Drosophila homozygous for null sap18 alleles
+T95	Protein 3418 3423	AGL15
+T97	Protein 3491 3495	SIN3
+T96	Protein_Complex 3491 3509	SIN3/HDAC1 complex
+T98	Protein 3496 3501	HDAC1
+T99	Protein 3511 3516	HDA19
+T100	Protein 3535 3540	SAP18
+T102	Protein 3585 3590	HDAC1
+T101	Protein_Complex 3585 3598	HDAC1 complex
+T103	Protein 3602 3607	AGL15
+T104	Gene 3625 3630	SAP18
+T105	RNA 3625 3630;3657 3667	SAP18 transcript
+T106	Environmental_Factor 3699 3703	NaCl
+T107	Environmental_Factor 3705 3712;3722 3728	drought stress
+T108	Environmental_Factor 3717 3728	cold stress
+T109	Regulatory_Network 3781 3820	targets involved in the stress response
+T110	Gene 3830 3834	CBF2
+T112	Protein 3951 3955	SIN3
+T111	Protein_Complex 3951 3969	SIN3/HDAC1 complex
+T113	Protein 3956 3961	HDAC1
+T114	Protein 4017 4022	AGL15
+T115	Protein 4076 4081	SAP18
+T117	Protein 4121 4125	SIN3
+T116	Protein_Complex 4121 4138	SIN3/HDAC complex
+T118	Protein_Family 4126 4130	HDAC

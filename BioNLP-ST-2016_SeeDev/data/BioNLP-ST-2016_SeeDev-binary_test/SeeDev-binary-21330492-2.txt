@@ -1,0 +1,4 @@
+Here, we report that miRNAs are key repressors of the maturation program during embryogenesis. We demonstrate that embryos
+mutant for strong dcl1 alleles are heterochronic, maturing much earlier than normal. This heterochronic phenotype requires the action of the LEC
+genes LEC2 and FUS3 downstream of DCL1. We also present the first evidence, to our knowledge, for the repression of maturation during early embryogenesis by ASIL1, ASIL2, and HDA6/SIL1. These genes also act downstream of the miRNA pathway. Our data suggest that one or more miRNA targets sit at the top of
+the regulatory cascade, controlling both activators and repressors of the embryonic maturation program.

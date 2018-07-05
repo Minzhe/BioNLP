@@ -1,0 +1,96 @@
+T1	Development_Phase 28 41	embryogenesis
+T2	Protein 108 113	AGL15
+T3	Protein_Family 117 138	AGL15-related protein
+T4	Protein 117 122	AGL15
+T5	Protein 188 193	AGL15
+T6	Tissue 227 242	zygotic embryos
+T7	Genotype 246 258	oilseed rape
+T8	Development_Phase 412 434	start of embryogenesis
+T9	Tissue 442 457	asexual embryos
+T10	Genotype 461 470	dandelion
+T11	Development_Phase 572 585	fertilization
+T12	Environmental_Factor 597 617	maternal environment
+T13	Genotype 657 664	alfalfa
+T15	Tissue 665 679	somatic embryo
+T14	Environmental_Factor 665 694	somatic embryo culture system
+T16	Tissue 748 781	cytoplasm of leaf mesophyll cells
+T17	Tissue 748 757	cytoplasm
+T18	Tissue 761 781	leaf mesophyll cells
+T19	Tissue 822 828	nuclei
+T20	Development_Phase 834 867	before somatic embryo development
+T21	Protein_Family 944 966	AGL15-related proteins
+T22	Protein 944 949	AGL15
+T23	Tissue 1004 1032	maternal tissues of the seed
+T24	Tissue 1028 1032	seed
+T25	Protein 1268 1273	AGL15
+T26	Genotype 1291 1296	plant
+T27	Protein_Family 1297 1317	MADS-domain proteins
+T28	Protein_Domain 1297 1308	MADS-domain
+T29	Genotype 1358 1368	snapdragon
+T30	Protein 1370 1377	DEFH125
+T31	Tissue 1397 1446	cytoplasm in the vegetative cell of pollen grains
+T32	Tissue 1397 1406	cytoplasm
+T33	Tissue 1414 1446	vegetative cell of pollen grains
+T34	Tissue 1470 1546	nuclei of cells in the transmitting tissue of the upper portion of the style
+T35	Tissue 1470 1476	nuclei
+T36	Tissue 1480 1512	cells in the transmitting tissue
+T37	Tissue 1520 1546	upper portion of the style
+T38	Development_Phase 1547 1564	after pollination
+T39	Genotype 1671 1682	Arabidopsis
+T40	Protein_Family 1683 1703	MADS-domain proteins
+T41	Protein_Domain 1683 1694	MADS-domain
+T42	Protein 1704 1707	AP3
+T43	Protein 1709 1717	APETALA3
+T44	Protein 1723 1725	PI
+T45	Protein 1727 1737	PISTILLATA
+T46	Genotype 1743 1812	plants that ectopically express AP3 protein fused to the reporter GUS
+T47	Protein 1775 1778	AP3
+T48	Protein 1809 1812	GUS
+T49	Protein 1814 1817	GUS
+T50	Tissue 1847 1856	cytoplasm
+T51	Protein 1889 1891	PI
+T52	Protein 1976 1978	PI
+T53	Protein 1983 1986	GUS
+T54	Tissue 1992 2017	cytoplasmically localized
+T55	Protein 2025 2028	AP3
+T57	Protein 2074 2077	AP3
+T56	Protein_Complex 2074 2080	AP3-PI
+T58	Protein 2078 2080	PI
+T59	Protein 2082 2087	AGL15
+T60	Environmental_Factor 2118 2126	in vitro
+T61	Protein 2199 2204	AGL15
+T62	Protein_Family 2217 2236	MADS-domain protein
+T63	Genotype 2290 2297	alfalfa
+T65	Tissue 2298 2312	somatic embryo
+T64	Regulatory_Network 2298 2319	somatic embryo system
+T66	Protein 2389 2394	AGL15
+T67	Protein 2612 2617	AGL15
+T68	Genotype 2833 2840	alfalfa
+T69	Protein 2854 2859	AGL15
+T70	Genotype 2878 2885	Alfalfa
+T71	Protein_Family 2917 2939	AGL15-related proteins
+T72	Protein 2917 2922	AGL15
+T73	Tissue 2986 3003	vegetative tissue
+T74	Tissue 3005 3009	leaf
+T75	Development_Phase 3024 3051	transition to embryogenesis
+T76	Regulatory_Network 3075 3099	precociously germinating
+T77	Development_Phase 3088 3099	germinating
+T78	Genotype 3100 3112	oilseed rape
+T79	Tissue 3113 3120	embryos
+T80	Development_Phase 3143 3176	state of developmental transition
+T81	Genotype 3246 3253	alfalfa
+T82	Genotype 4046 4053	alfalfa
+T83	Genotype 4058 4070	oilseed rape
+T84	Protein 4152 4157	AGL15
+T85	Protein_Family 4161 4183	AGL15-related proteins
+T86	Protein 4161 4166	AGL15
+T87	Tissue 4220 4226	nuclei
+T89	Tissue 4245 4250	cells
+T88	Regulatory_Network 4245 4281	cells developed in an embryonic mode
+T90	Development_Phase 4267 4281	embryonic mode
+T91	Development_Phase 4562 4588	beginning of embryogenesis
+T92	Protein 4687 4692	AGL15
+T93	Protein_Family 4697 4719	AGL15-related proteins
+T94	Protein 4697 4702	AGL15
+T95	Regulatory_Network 4732 4779	establishment of the new sporophytic generation
+T96	Development_Phase 4757 4779	sporophytic generation

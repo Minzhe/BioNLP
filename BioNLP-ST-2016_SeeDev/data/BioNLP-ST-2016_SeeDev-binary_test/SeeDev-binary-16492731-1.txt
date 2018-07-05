@@ -1,0 +1,11 @@
+The B3 domain protein LEAFY COTYLEDON2 (LEC2) is required for several aspects of embryogenesis, including the maturation phase,
+and is sufficient to induce somatic embryo development in vegetative cells. Here, we demonstrate that LEC2 directly controls
+a transcriptional program involved in the maturation phase of seed development. Induction of LEC2 activity in seedlings causes
+rapid accumulation of RNAs normally present primarily during the maturation phase. Several RNAs encode proteins with known
+roles in maturation processes, including seed-storage and lipid-body proteins. Clustering analyses identified other LEC2-induced
+RNAs not previously shown to be involved in the maturation phase. We show further that genes encoding these maturation RNAs
+all possess in their 5′ flanking regions RY motifs, DNA elements bound by other closely related B3 domain transcription factors.
+Our finding that recombinant LEC2 specifically binds RY motifs from the 5′ flanking regions of LEC2-induced genes provides
+strong evidence that these genes represent transcriptional targets of LEC2. Although these LEC2-induced RNAs accumulate primarily
+during the maturation phase, we show that a subset, including AGL15 and IAA30, accumulate in seeds containing zygotes. We discuss how identification of LEC2 target genes provides a potential link between
+the roles of LEC2 in the maturation phase and in the induction of somatic embryogenesis.

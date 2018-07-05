@@ -1,0 +1,132 @@
+T1	Pathway 10 24	storage lipids
+T2	Tissue 28 50	oil-accumulating seeds
+T3	Genotype 59 79	Arabidopsis thaliana
+T4	Development_Phase 158 174	seed development
+T5	Tissue 158 162	seed
+T6	Protein 218 243	cell wall-bound invertase
+T7	Protein 245 250	cwINV
+T8	Tissue 273 278	cells
+T9	Tissue 312 316	cell
+T10	Protein 361 377	sucrose synthase
+T11	Protein 379 382	SUS
+T12	Tissue 391 400	cytoplasm
+T13	Pathway 410 426	synthesis of FAs
+T14	Tissue 441 448	plastid
+T15	Pathway 481 497	sugar metabolism
+T16	Tissue 573 582	cytoplasm
+T17	Pathway 614 630	synthesis of FAs
+T18	Genotype 634 640	plants
+T19	Tissue 778 786	plastids
+T20	Tissue 851 872	endoplasmic reticulum
+T21	Pathway 889 905	assembly of TAGs
+T22	Pathway 930 962	acylation of a glycerol backbone
+T23	Pathway 1010 1022	TAG assembly
+T24	Protein 1039 1078	acyl-CoA:diacylglycerol acyltransferase
+T25	Protein 1080 1084	TAG1
+T26	Protein 1085 1090	DGAT1
+T27	Protein_Family 1168 1176	oleosins
+T28	Genotype 1214 1225	Arabidopsis
+T29	Tissue 1227 1243	developing seeds
+T30	Pathway 1261 1267	starch
+T31	Pathway 1298 1314	oil accumulation
+T33	Tissue 1347 1351	seed
+T32	Pathway 1347 1368	seed storage proteins
+T34	Development_Phase 1380 1401	late maturation phase
+T35	Protein 1457 1473	LEAFY COTYLEDON1
+T36	Protein 1475 1479	LEC1
+T37	Protein 1485 1489	LEC2
+T38	Protein 1491 1497	FUSCA3
+T39	Protein 1499 1503	FUS3
+T40	Protein 1510 1536	ABSCISIC ACID INSENSITIVE3
+T42	Protein 1538 1542	ABI3
+T41	Protein 1538 1542	ABI3
+T43	Development_Phase 1582 1595	embryogenesis
+T44	Development_Phase 1600 1615	seed maturation
+T45	Tissue 1600 1604	seed
+T46	Genotype 1675 1685;1692 1722	Mutants of LEC-type transcription factors
+T49	Protein 1692 1695	LEC
+T48	Genotype 1692 1722;1827 1845	LEC-type transcription factors ectopic expression
+T47	Protein_Family 1692 1722	LEC-type transcription factors
+T50	Regulatory_Network 1728 1753	defective seed maturation
+T51	Development_Phase 1738 1753	seed maturation
+T52	Tissue 1738 1742	seed
+T54	Regulatory_Network 1767 1787;1809 1813	accumulation of seed TAGs
+T53	Regulatory_Network 1767 1804	accumulation of seed storage proteins
+T55	Tissue 1783 1787	seed
+T56	Tissue 1849 1875	early vegetative seedlings
+T57	Pathway 1887 1922	synthesis of seed storage compounds
+T58	Tissue 1900 1904	seed
+T59	Tissue 1991 1996	Seeds
+T60	Genotype 2004 2013	wrinkled1
+T61	Genotype 2015 2019	wri1
+T62	Regulatory_Network 2037 2054	reduction in TAGs
+T63	Genotype 2073 2082	wild type
+T64	Regulatory_Network 2087 2105	accumulate sucrose
+T65	Protein 2133 2137	WRI1
+T66	Protein 2144 2152	APETALA2
+T67	Protein_Family 2144 2152;2158 2163	APETALA2 -type
+T68	Protein 2154 2157	AP2
+T70	Protein 2194 2197	AP2
+T69	Protein_Domain 2194 2217	AP2 DNA-binding domains
+T71	Protein 2250 2274	ACTIVATOR of SPOmin:LUC1
+T72	Gene 2263 2274	SPOmin:LUC1
+T73	Protein 2276 2281	ASML1
+T74	Genotype 2329 2383;2390 2403	mutant that overexpresses a sugar-inducible luciferase reporter gene
+T75	Protein 2373 2383	luciferase
+T76	Protein 2385 2388	LUC
+T77	Protein 2423 2427	WRI1
+T78	Gene 2465 2469	WRI1
+T79	Development_Phase 2484 2500	seed development
+T80	Tissue 2484 2488	seed
+T81	Pathway 2586 2596	glycolysis
+T82	Pathway 2601 2616	lipid synthesis
+T83	Tissue 2620 2636	developing seeds
+T84	Genotype 2655 2659	wri1
+T85	Gene 2691 2695	WRI1
+T86	Gene 2720 2724	LEC1
+T87	Gene 2729 2733	LEC2
+T90	Genotype 2739 2760;2767 2771	ectopic expression of LEC2
+T88	Genotype 2739 2765	ectopic expression of LEC1
+T89	Genotype 2739 2760;2776 2780	ectopic expression of WRI1
+T91	Gene 2761 2765	LEC1
+T92	Gene 2767 2771	LEC2
+T93	Gene 2776 2780	WRI1
+T94	Gene 2776 2780	WRI1
+T95	Tissue 2784 2802	vegetative tissues
+T96	Pathway 2852 2864	FA synthesis
+T97	Gene 2929 2933	WRI1
+T98	Regulatory_Network 2941 2976	regulation of seed oil accumulation
+T100	Tissue 2955 2959	seed
+T99	Pathway 2955 2976	seed oil accumulation
+T101	Development_Phase 2984 2999	seed maturation
+T102	Tissue 2984 2988	seed
+T103	Development_Phase 3004 3015	germination
+T104	Protein 3062 3066	WRI1
+T106	Protein 3134 3137	AP2
+T105	Protein_Family 3134 3164	AP2-type transcription factors
+T107	Protein 3166 3176	AINEGMENTA
+T108	Protein 3178 3181	ANT
+T109	Protein 3320 3323	ANT
+T111	Protein 3334 3337	AP2
+T110	Protein_Family 3334 3364	AP2-type transcription factors
+T112	Pathway 3472 3484	FA synthesis
+T113	Tissue 3488 3496	plastids
+T114	Gene 3523 3527	WRI1
+T115	Development_Phase 3535 3550	seed maturation
+T116	Tissue 3535 3539	seed
+T117	Box 3645 3651	AW-box
+T118	Protein 3662 3666	WRI1
+T119	Gene 3679 3683	WRI1
+T120	Pathway 3704 3716	FA synthesis
+T122	Box 3732 3736	TATA
+T121	Promoter 3732 3751	TATA-less promoters
+T123	Box 3762 3770	AW-boxes
+T124	Promoter 3783 3816	near the transcription start site
+T125	Promoter 3834 3856	5′-untranslated region
+T126	Promoter 3858 3864	5′-UTR
+T127	Box 3886 3894	AW-boxes
+T128	Promoter 3921 3942	5′-UTR of the Pl-Pkβ1
+T129	Gene 3935 3942	Pl-Pkβ1
+T130	Protein 3992 3996	WRI1
+T131	Development_Phase 4019 4034	seed maturation
+T132	Tissue 4019 4023	seed

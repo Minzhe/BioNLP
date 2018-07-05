@@ -1,0 +1,8 @@
+The Arabidopsis LEAFY COTYLEDON1 (LEC1) gene is required for the specification of cotyledon identity and the completion of embryo maturation. We isolated the LEC1 gene and showed that it functions at an early developmental stage to maintain embryonic cell fate. The LEC1 gene encodes a transcription factor homolog, the CCAAT box–binding factor HAP3 subunit. LEC1
+RNA accumulates only during seed development in embryo cell types and
+in endosperm tissue. Ectopic postembryonic expression of the LEC1
+gene in vegetative cells induces the expression of embryo-specific
+genes and initiates formation of embryo-like structures. Our results
+suggest that LEC1 is an important regulator of embryo development that
+activates the transcription of genes required for both embryo
+morphogenesis and cellular differentiation.

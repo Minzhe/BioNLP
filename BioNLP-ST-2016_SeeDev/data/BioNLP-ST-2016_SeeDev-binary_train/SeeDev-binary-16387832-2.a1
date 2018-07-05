@@ -1,0 +1,101 @@
+T1	Development_Phase 0 29	Postembryonic organ formation
+T2	Genotype 33 39	plants
+T3	Regulatory_Network 53 83	maintenance of small stem cell
+T4	Tissue 74 83	stem cell
+T5	Tissue 97 102;121 130	shoot meristems
+T6	Tissue 104 110;121 130	floral meristems
+T7	Tissue 116 130	root meristems
+T8	Genotype 182 188	animal
+T9	Tissue 189 206	stem cell systems
+T10	Tissue 212 221	meristems
+T11	Tissue 254 269	stem cell niche
+T12	Regulatory_Network 280 317	differentiation of the resident cells
+T13	Genotype 408 428	Arabidopsis thaliana
+T14	Tissue 429 443	shoot meristem
+T15	Tissue 449 459	stem cells
+T16	Tissue 519 551	central region of the shoot apex
+T17	Tissue 541 551	shoot apex
+T18	Tissue 557 567	stem cells
+T19	Tissue 633 647	meristem cells
+T20	Tissue 653 662	stem cell
+T21	Gene 769 777	CLAVATA3
+T22	Gene 779 783	CLV3
+T23	RNA 779 783;785 789	CLV3 mRNA
+T24	Tissue 863 880	apical stem cells
+T25	Tissue 916 925	stem cell
+T26	Tissue 942 956	shoot meristem
+T27	Regulatory_Network 1014 1076	fail to protect shoot meristem stem cells from differentiation
+T28	Tissue 1030 1055	shoot meristem stem cells
+T29	Protein 1158 1165	WUSCHEL
+T30	Protein 1167 1170	WUS
+T31	Gene 1173 1176	WUS
+T32	Tissue 1217 1227	stem cells
+T33	Tissue 1239 1256	organizing center
+T34	Tissue 1258 1260	OC
+T35	Regulatory_Network 1296 1346	maintain the overlying stem cells undifferentiated
+T36	Tissue 1319 1329	stem cells
+T37	Tissue 1394 1404	stem cells
+T38	Protein 1433 1437	CLV3
+T39	Regulatory_Network 1462 1476	size of the OC
+T40	Tissue 1474 1476	OC
+T41	Regulatory_Network 1535 1579	control the size of the stem cell population
+T42	Tissue 1559 1568	stem cell
+T43	Protein 1623 1627	CLV3
+T45	Protein 1678 1682	CLV1
+T44	Protein_Complex 1678 1706	CLV1 receptor kinase complex
+T46	Gene 1752 1755	WUS
+T47	Tissue 1906 1922	floral meristems
+T48	Tissue 1946 1975	indeterminate shoot meristems
+T49	Gene 1981 1988	AGAMOUS
+T50	Gene 1990 1992	AG
+T51	Gene 2009 2012	WUS
+T52	Development_Phase 2024 2050	late in flower development
+T53	Tissue 2032 2038	flower
+T54	Tissue 2068 2083	stem cell niche
+T55	Tissue 2110 2116	organs
+T56	Tissue 2184 2206	primary shoot meristem
+T58	Tissue 2224 2230	embryo
+T57	Development_Phase 2224 2242	embryo development
+T59	Genotype 2274 2285	Arabidopsis
+T60	Gene 2300 2303	WUS
+T61	Tissue 2318 2365	precursor cells of the OC in the 16-cell embryo
+T62	Tissue 2341 2343	OC
+T63	Tissue 2351 2365	16-cell embryo
+T65	Tissue 2380 2394	shoot meristem
+T64	Development_Phase 2380 2404	shoot meristem formation
+T66	Gene 2468 2472	CLV3
+T67	Development_Phase 2501 2517	late heart stage
+T68	Tissue 2521 2528;2544 2554	between cotyledons
+T69	Development_Phase 2583 2605	bent cotyledon embryos
+T70	Tissue 2611 2633	primary shoot meristem
+T71	Development_Phase 2699 2710	germination
+T72	Tissue 2726 2743	rosette of leaves
+T73	Tissue 2754 2772	inflorescence stem
+T74	Tissue 2793 2807	cauline leaves
+T75	Tissue 2813 2837	axillary shoot meristems
+T76	Tissue 2842 2868	bractless floral meristems
+T77	Tissue 2921 2937	stem cell niches
+T78	Regulatory_Network 2941 2977	maintain stem cells undifferentiated
+T79	Tissue 2950 2960	stem cells
+T80	Regulatory_Network 3180 3201	stem cell maintenance
+T81	Genotype 3272 3288	semidominant l28
+T82	Genotype 3285 3288	l28
+T83	Regulatory_Network 3338 3370	keep stem cells undifferentiated
+T84	Genotype 3386 3389	wus
+T85	Regulatory_Network 3415 3458	premature termination of the shoot meristem
+T86	Development_Phase 3425 3458	termination of the shoot meristem
+T87	Tissue 3444 3458	shoot meristem
+T88	Genotype 3462 3465	l28
+T89	Genotype 3489 3513	mutation in the APETALA2
+T90	Gene 3505 3513	APETALA2
+T91	Gene 3515 3518	AP2
+T92	Development_Phase 3601 3618	floral patterning
+T93	Gene 3639 3641	AG
+T94	Development_Phase 3688 3705	floral transition
+T95	Regulatory_Network 3763 3783	control of seed size
+T96	Regulatory_Network 3856 3890	maintenance of the stem cell niche
+T97	Tissue 3898 3920	primary shoot meristem
+T98	Gene 3946 3949	AP2
+T99	Gene 3981 3983	AG
+T100	Gene 4041 4044	WUS
+T101	Gene 4045 4049	CLV3

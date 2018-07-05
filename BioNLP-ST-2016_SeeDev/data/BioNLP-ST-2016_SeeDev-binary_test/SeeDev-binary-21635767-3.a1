@@ -1,0 +1,104 @@
+T2	Tissue 399 403	seed
+T1	Pathway 399 420	seed storage reserves
+T3	Pathway 485 500	FA biosynthesis
+T4	Genotype 795 806	Arabidopsis
+T5	Pathway 917 929	FA synthesis
+T6	Tissue 933 949	developing seeds
+T7	Pathway 1039 1054	FA biosynthesis
+T8	Development_Phase 1150 1171	globular embryo stage
+T9	Tissue 1159 1165	embryo
+T10	Development_Phase 1207 1231	expanded cotyledon stage
+T11	Tissue 1216 1225	cotyledon
+T12	Development_Phase 1283 1303	late seed maturation
+T13	Tissue 1288 1292	seed
+T14	Gene_Family 1360 1381	FA biosynthetic genes
+T15	Pathway 1459 1474;1481 1493	triacylglycerol accumulation
+T16	Pathway 1476 1479;1481 1493	TAG accumulation
+T17	Tissue 1497 1515	developing embryos
+T18	Genotype 1519 1533	Brassica napus
+T19	Genotype 1540 1545	olive
+T20	Genotype 1547 1563	Olea europaea L.
+T21	Genotype 1569 1577	oil palm
+T22	Genotype 1579 1602	Elaeis guineensis Jacq.
+T23	Genotype 1620 1637	cuphea lanceolata
+T24	Genotype 1648 1659	oil species
+T25	Tissue 1702 1720	developing embryos
+T26	Genotype 1724 1732	B. napus
+T27	Pathway 1758 1770	TAG assembly
+T28	Pathway 1794 1809	FA biosynthesis
+T29	Pathway 1828 1851	flow of carbon into TAG
+T30	Protein_Family 1889 1905	oilbody oleosins
+T31	Protein_Family 1910 1914	SSPs
+T32	Protein_Family 2039 2047	oleosins
+T33	Protein_Family 2052 2056	SSPs
+T35	Gene_Family 2105 2119;2133 2137	Genes encoding SSPs
+T34	Gene_Family 2105 2128	Genes encoding oleosins
+T36	Protein_Family 2120 2128	oleosins
+T37	Protein_Family 2133 2137	SSPs
+T38	Development_Phase 2269 2283	globular stage
+T39	Development_Phase 2330 2377	from the globular stage to the bilaternal stage
+T40	Development_Phase 2339 2353	globular stage
+T41	Development_Phase 2361 2377	bilaternal stage
+T42	Development_Phase 2440 2475	remaining stages of seed maturation
+T43	Development_Phase 2460 2475	seed maturation
+T44	Tissue 2460 2464	seed
+T46	RNA 2489 2504;2517 2520	Transcripts for SSP
+T45	RNA 2489 2512	Transcripts for OLEOSIN
+T47	Gene_Family 2517 2520	SSP
+T48	Tissue 2552 2556	seed
+T49	Development_Phase 2571 2599	late during seed development
+T50	Tissue 2583 2587	seed
+T51	Pathway 2632 2644	TAG assembly
+T52	Development_Phase 2736 2752	seed development
+T53	Tissue 2736 2740	seed
+T54	Gene 2765 2797	DIACYLGLYCEROL ACYLTRANSFERASE 1
+T55	Gene 2799 2804	DGAT1
+T56	Gene 2807 2830	FATTY ACID DESATURASE 2
+T57	Gene 2832 2836	FAD2
+T58	Gene 2839 2860	FATTY ACID ELONGASE 1
+T59	Gene 2862 2866	FAE1
+T60	Gene_Family 2872 2891	STEAROYL DESATURASE
+T61	Gene_Family 2893 2896	SAD
+T62	Protein_Family 3014 3022	oleosins
+T63	Protein_Family 3027 3031	SSPs
+T64	Protein 3053 3057	DGAT
+T65	Pathway 3072 3148	acyl-CoA-dependent acylation of sn-1,2-diacylglycerol to produce TAG and CoA
+T66	Protein 3155 3159	FAD2
+T67	Pathway 3174 3243	introduction of a second double bond into acyl groups in phospholipid
+T68	Protein 3252 3255	SAD
+T69	Pathway 3270 3301	formation of monounsaturated FA
+T70	Tissue 3309 3316	plastid
+T71	Protein 3323 3327	FAE1
+T72	Pathway 3342 3363	elongation oleoyl-CoA
+T73	Tissue 3371 3392	endoplasmic reticulum
+T74	Gene 3428 3437	AT1G48300
+T75	Gene 3455 3460	DGAT3
+T76	Tissue 3494 3503	cytosolic
+T77	Protein_Family 3504 3508	DGAT
+T78	Genotype 3512 3523	Arabidopsis
+T79	Protein 3529 3561	amino acid sequence of AT1G48300
+T80	Gene 3552 3561	AT1G48300
+T81	Protein_Family 3643 3655	soluble DGAT
+T82	Genotype 3659 3665	peanut
+T83	Genotype 3667 3683	Arachis hypogaea
+T84	Tissue 3696 3705	cytosolic
+T85	Gene_Family 3706 3710	DGAT
+T86	Genotype 3719 3725	plants
+T87	Gene 3762 3767	DGAT3
+T88	Gene 3812 3817	DGAT1
+T89	Development_Phase 3847 3867	late seed maturation
+T90	Development_Phase 3852 3867	seed maturation
+T91	Tissue 3852 3856	seed
+T92	Protein_Family 3907 3911	DGAT
+T93	Development_Phase 3928 3943	seed maturation
+T94	Tissue 3928 3932	seed
+T95	Genotype 3947 3955	B. napus
+T96	Pathway 4025 4041	oil accumulation
+T97	Protein_Family 4142 4146	DGAT
+T98	Development_Phase 4187 4203	seed development
+T99	Tissue 4187 4191	seed
+T100	Genotype 4207 4218	Arabidopsis
+T101	Protein_Family 4239 4243	DGAT
+T102	Development_Phase 4328 4361	latter stages of seed development
+T103	Development_Phase 4345 4361	seed development
+T104	Tissue 4345 4349	seed

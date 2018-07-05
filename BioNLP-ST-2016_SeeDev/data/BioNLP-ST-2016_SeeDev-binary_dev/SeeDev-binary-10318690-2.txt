@@ -1,0 +1,32 @@
+We reported previously that AGL15 accumulated at its highest levels in the products of double fertilization (the embryo, suspensor,
+and endosperm) following sexual reproduction in angiosperms and was maintained at high levels in immature embryos (Perry et al., 1996). If AGL15 is important for development in an embryonic mode, as this pattern of accumulation might suggest, we would also
+expect to find relatively high levels of AGL15 or AGL15-related proteins in developmental contexts where embryos or organs
+with embryonic tissue arise outside of the seed or by means other than fertilization of the egg. We have used AGL15-specific
+antibodies to examine developmental situations of this type in a variety of flowering plants. In every case, whenever embryos
+or embryonic organs were present, relatively high levels of AGL15-related proteins could be detected as well.
+The results of our study of dandelion embryos indicate that the absence of a fertilization event does not preclude accumulation
+of AGL15. In dandelion, embryos arise via apomixis, which is a form of asexual reproduction. AGL15-related protein accumulates
+in the same pattern in these asexual embryos as it does in zygotic embryos that arise following a fertilization event (Perry et al., 1996).
+The results of our study of the xtc2 mutant of Arabidopsis indicate that AGL15 accumulates in organs with embryonic features (i.e. cotyledons) even if they initiate
+during later stages of embryogeny and develop largely after germination. In the xtc2 mutant of Arabidopsis, secondary cotyledons appear as a result of changes in the relative timing of embryo and shoot apex
+development (Conway and Poethig, 1997). xtc2 embryo development is delayed, but shoot apex development initiates precociously. Maturation-stagextc2 embryos are at the late-heart to early-torpedo stage of development in terms of morphogenesis but have large primordia at
+the shoot apex (Conway and Poethig, 1997). We found that AGL15 accumulated to higher levels in the secondary cotyledons that developed from these primordia than in
+leaves of the same age.
+The results of our study of organs produced during precocious germination in oilseed rape indicate that AGL15 also accumulates
+in cotyledons that are initiated outside of the seed environment. When immature oilseed rape embryos were excised and placed
+into culture, they produced three different kinds of organs: secondary cotyledons, leaves, and chimeric organs, with large
+sectors of cotyledon and leaf tissue (Finkelstein and Crouch, 1984; Fernandez, 1997). The amount of AGL15 present in these organs was directly proportional to the amount of cotyledon tissue present, despite
+the fact that these organs initiated after the maternal tissues were removed and often after an extended period in culture.
+Finally, the results of our studies of somatic embryogenesis indicate that AGL15 accumulates even when embryos arise de novo
+from cells in other phases of the life cycle. Immature oilseed rape microspores can be induced to develop into pollen, calli,
+or embryos. AGL15 was undetectable in the nuclei of fully mature pollen and in the cells in unorganized masses. Only the cells
+that took on an embryonic identity accumulated higher levels of AGL15. The accumulation pattern of AGL15-related proteins
+was even more interesting in alfalfa, where embryos were obtained by culturing mature leaf tissue. Immunoreactive protein
+was present at relatively high levels in the leaf mesophyll cells of alfalfa.
+Detectable amounts of AGL15-related proteins did not accumulate in the mature leaf tissues of oilseed rape, Arabidopsis (Heck et al., 1995;Perry et al., 1996; and S.E. Perry, personal observation), tomato (M.D. Lehti, personal observation), or maize (S.-C. Fang, personal observation);
+however, they did accumulate in the mature leaf tissues of pea, another legume (M.D. Lehti, personal observation). Does the
+accumulation of AGL15-related protein at high levels somehow enhance the embryogenic potential of alfalfa leaf cells? AGL15
+accumulation did not appear to be sufficient to confer an embryonic identity on a cell or cells: the floral organs of plants
+overexpressing AGL15 accumulated AGL15 (Fig. 1c) but maintained their identity as reproductive tissues. However, AGL15 may be necessary to either direct or support development
+in an embryonic mode. The fact that immature oilseed rape microspores accumulated low but detectable amounts of AGL15 and
+also had embryogenic potential that can be expressed in culture may be significant in this regard.

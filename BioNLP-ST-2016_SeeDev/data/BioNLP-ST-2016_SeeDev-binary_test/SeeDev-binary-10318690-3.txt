@@ -1,0 +1,36 @@
+In every situation in which embryogenesis was newly initiated, we have seen a change in the localization of AGL15 or AGL15-related
+protein. We demonstrated previously that localization of AGL15 was developmentally regulated in zygotic embryos of oilseed
+rape (Perry et al., 1996) and found that a similar change in subcellular localization, from cytoplasmically associated to nuclear associated, occurred
+at the start of embryogenesis in the asexual embryos of dandelion. Therefore, the change in epitope localization does not
+appear to be tied in any obligatory way to a fertilization event. The maternal environment also appears to be dispensable.
+In the alfalfa somatic embryo culture system, immunoreactive protein was initially present in the cytoplasm of leaf mesophyll
+cells and became exclusively localized in the nuclei even before somatic embryo development was apparent. These results indicate
+that the change in the localization of AGL15-related proteins is not dependent on information from maternal tissues of the
+seed.
+The importance of subcellular localization as a mechanism for regulation of transcription factors is increasingly being recognized
+(for review, see Calkhoven and Ab, 1996; Jans and Hübner, 1996;Vandromme et al., 1996). In addition to AGL15, there are other plant MADS-domain proteins that show differential localization. In snapdragon, DEFH125
+was present in the cytoplasm in the vegetative cell of pollen grains but was present in the nuclei of cells in the transmitting
+tissue of the upper portion of the style after pollination (Zachgo et al., 1997). Regulation of localization may be tied to heterodimer formation in the case of the Arabidopsis MADS-domain proteins AP3
+(APETALA3) and PI (PISTILLATA). In plants that ectopically express AP3 protein fused to the reporter GUS, GUS activity was
+confined to the cytoplasm unless the appropriate partner (PI in this case) was also present (McGonigle et al., 1996). Similarly, fusions between PI and GUS were cytoplasmically localized unless AP3 was present (McGonigle et al., 1996). Unlike AP3-PI, AGL15 could bind DNA as a homodimer in vitro (Perry et al., 1996). Therefore, the formation of a heterodimer between AGL15 and another MADS-domain protein may not be a prerequisite for nuclear
+import.
+In the alfalfa somatic embryo system, the developmentally regulated change in subcellular localization of AGL15-related epitopes
+coincided with a change in the apparent molecular mass from 40 kD to between 56 and 60 kD. Although it is possible that the
+major immunoreactive protein bands represent proteins that are unrelated to AGL15, we consider this unlikely, based on the
+high degree of specificity that the antibodies displayed and the correspondence between the abundance, expression pattern,
+and localization of the immunoreactive proteins in alfalfa and those of AGL15 in other species. Alfalfa had two very distinct
+forms of AGL15-related proteins that were both present during the period when vegetative tissue (leaf) was making a transition
+to embryogenesis. It is intriguing that precociously germinating oilseed rape embryos, which were also in a state of developmental
+transition, contained two forms of immunoreactive protein as well (Fig. 3d).
+In alfalfa, the shift in molecular mass was coincident with and may reflect a regulatory event that was tied to the change
+in subcellular localization. This shift could involve degradation of the cytoplasmic form and synthesis of a new nuclear form,
+possibly via alternate splicing to generate a new transcript. Alternatively, the cytoplasmic form may be posttranslationally
+modified in some way. Possible posttranslational modifications include dimerization, phosphorylation, glycosylation, and/or
+attachment of ubiquitin-like proteins (Calkhoven and Ab, 1996; Jans and Hübner, 1996; Vandromme et al., 1996;Haltiwanger et al., 1997; Johnson and Hochstrasser, 1997). We will be investigating these and other possibilities in future studies to determine the basis of the change in molecular
+mass in both alfalfa and oilseed rape and its relationship to subcellular localization.
+In summary, we have shown that AGL15 or AGL15-related proteins accumulated at higher levels in the nuclei whenever a set of
+cells developed in an embryonic mode, regardless of their origin or the particular developmental situation. The fact that
+nuclear-associated forms of immunoreactive protein appeared at early stages as a result of a developmentally regulated process
+supports the idea that these proteins play an important role at the beginning of embryogenesis. Future experiments will be
+aimed at more thoroughly defining that role and the contribution that AGL15 and AGL15-related proteins make to the establishment
+of the new sporophytic generation.

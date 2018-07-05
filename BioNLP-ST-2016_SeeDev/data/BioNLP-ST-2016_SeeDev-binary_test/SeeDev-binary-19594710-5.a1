@@ -1,0 +1,47 @@
+T1	Box 4 10	AW-box
+T2	Development_Phase 74 90	seed development
+T3	Tissue 74 78	seed
+T4	Box 102 108	AW-box
+T5	Promoter 146 197	1000-bp proximal sequence upstream of the ATG codon
+T6	Pathway 214 226	FA synthesis
+T7	Tissue 230 238	plastids
+T8	Box 251 259	AW-boxes
+T11	Promoter 293 312;351 355	upstream regions of CUE1
+T9	Promoter 293 317	upstream regions of GPT2
+T12	Promoter 293 312;347 350	upstream regions of PPT
+T10	Promoter 293 312;383 387	upstream regions of BIO2
+T13	Gene 313 317	GPT2
+T14	Gene 347 350	PPT
+T15	Gene 351 355	CUE1
+T16	Gene 383 387	BIO2
+T17	Pathway 392 408	biotin synthesis
+T18	Protein 449 453	WRI1
+T19	Box 529 535	AW-box
+T20	Box 551 559	AW-boxes
+T21	Regulatory_Network 591 642	genes encoding subunits of photosynthetic apparatus
+T22	Tissue 646 654	plastids
+T23	Pathway 703 715	FA synthesis
+T24	Tissue 719 727	plastids
+T25	Promoter 733 752	TATA-less promoters
+T26	Box 759 767	AW-boxes
+T27	Pathway 828 840	FA synthesis
+T28	Box 878 890	TATA-element
+T29	Promoter 965 984	AW-boxes of Pl-Pkβ1
+T30	Gene 977 984	Pl-Pkβ1
+T31	Protein 1034 1038	WRI1
+T32	Tissue 1042 1053	protoplasts
+T33	Development_Phase 1080 1096	seed development
+T34	Tissue 1080 1084	seed
+T35	Box 1128 1136	AW-boxes
+T36	Promoter 1144 1168	upstream region of BCCP2
+T37	Gene 1163 1168	BCCP2
+T38	Protein 1210 1214	WRI1
+T39	Protein 1272 1278	AtPurα
+T40	Genotype 1282 1293	Arabidopsis
+T41	Box 1307 1315	telo-box
+T42	Promoter 1339 1345	5′-UTR
+T43	Promoter 1349 1361	near the TSS
+T44	Protein_Family 1421 1431	TCP family
+T45	Box 1467 1484	site II sequences
+T46	Promoter 1493 1517	upstream of the telo-box
+T47	Box 1509 1517	telo-box

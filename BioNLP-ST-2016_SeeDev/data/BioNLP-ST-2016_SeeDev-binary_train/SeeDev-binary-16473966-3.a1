@@ -1,0 +1,231 @@
+T1	Protein 74 77	GFP
+T2	Protein 86 89	CFP
+T3	Protein 186 191	SERK1
+T4	Genotype 245 256	Arabidopsis
+T5	Environmental_Factor 376 384	in vitro
+T6	Environmental_Factor 405 421	yeast two-hybrid
+T7	Protein 784 787	CFP
+T8	Protein_Family 975 993	membrane receptors
+T9	Genotype 1114 1119	plant
+T10	Genotype 1204 1220	transgenic lines
+T12	Genotype 1232 1243	cauliflower
+T11	Promoter 1232 1269	cauliflower mosaic virus 35S promoter
+T13	Protein 1644 1649	SERK1
+T14	Regulatory_Network 1654 1666	BR Signaling
+T15	Regulatory_Network 1741 1761	BR signaling pathway
+T16	Protein_Family 1772 1783	BR receptor
+T17	Protein 1784 1788	BRI1
+T18	Protein 1829 1833	BAK1
+T19	Protein 1835 1840	SERK3
+T20	Protein_Complex 1900 1913	SERK1 complex
+T21	Protein 1900 1905	SERK1
+T22	Protein 1941 1946	SERK1
+T23	Regulatory_Network 1987 1999	BR signaling
+T24	Protein 2030 2035	SERK3
+T25	Protein 2087 2091	BRI1
+T26	Protein 2126 2130	BRI1
+T27	Tissue 2163 2178	plasma membrane
+T28	Protein 2267 2271	BRI1
+T29	Protein 2276 2281	SERK1
+T30	Protein 2293 2298	SERK1
+T31	Protein 2303 2308	SERK3
+T32	Tissue 2329 2359	plasma membrane of protoplasts
+T33	Tissue 2348 2359	protoplasts
+T34	Environmental_Factor 2361 2365	FRET
+T35	Protein 2382 2387	SERK1
+T36	Protein 2388 2391	CFP
+T37	Protein 2396 2401	SERK1
+T38	Protein 2402 2405	YFP
+T39	Protein 2434 2439	SERK1
+T40	Tissue 2468 2503	plasma membrane of protoplast cells
+T41	Tissue 2487 2503	protoplast cells
+T42	Protein 2555 2560	SERK1
+T43	Protein 2565 2570	SERK3
+T44	Protein 2595 2599	BRI1
+T46	Protein 2684 2688	BRI1
+T45	Regulatory_Network 2684 2698	BRI1 signaling
+T47	Pathway 2684 2688;2706 2721	BRI1 internalization
+T48	Genotype 2759 2775	bak1 null allele
+T49	Genotype 2810 2839	bri1 loss-of-function alleles
+T50	Protein_Family 2919 2930	SERK family
+T51	Genotype 3000 3030	serk1-1 bri1-119 double mutant
+T52	Protein_Complex 3045 3055	SERK1–BRI1
+T53	Protein 3045 3050	SERK1
+T54	Protein 3051 3055	BRI1
+T56	Protein 3083 3087	BRI1
+T55	Regulatory_Network 3083 3106	BRI1-mediated signaling
+T57	Environmental_Factor 3107 3116	in planta
+T58	Protein_Complex 3146 3156	SERK3–BRI1
+T59	Protein 3146 3151	SERK3
+T60	Protein 3152 3156	BRI1
+T61	Protein 3226 3230	BRI1
+T62	Protein 3240 3244	BES1
+T63	Protein 3246 3250	BZR1
+T64	Protein 3255 3259	BIN2
+T65	Protein_Complex 3338 3351	SERK1 complex
+T66	Protein 3338 3343	SERK1
+T67	Protein 3475 3480	SERK1
+T68	Protein 3549 3555	CDC48A
+T69	Protein 3856 3861	SERK1
+T70	Tissue 3869 3884	plasma membrane
+T71	Tissue 3899 3933	internalized membrane compartments
+T72	Protein 4005 4009	BRI1
+T73	Protein 4034 4039	SERK3
+T74	Regulatory_Network 4052 4064	BR signaling
+T75	Environmental_Factor 4181 4188	in vivo
+T76	Protein 4223 4227	BRI1
+T77	Protein 4327 4331	BAK1
+T78	Protein 4333 4338	SERK3
+T79	Protein 4353 4357	BRI1
+T80	Hormone 4361 4373	brassinolide
+T81	Protein_Complex 4452 4465	SERK1 complex
+T82	Protein 4452 4457	SERK1
+T83	Protein 4567 4572	SERK1
+T84	Protein 4645 4649	BRI1
+T85	Protein 4683 4688	SERK1
+T86	Tissue 4692 4701	seedlings
+T87	Protein 4796 4801	SERK1
+T88	Protein 4803 4808	SERK3
+T89	Protein 4814 4818	BRI1
+T90	Protein_Family 4898 4926;4935 4944	transforming growth factor-ß receptors
+T91	Protein_Family 4928 4933	TGF-ß
+T92	Protein_Family 4959 4964	TGF-ß
+T93	Tissue 5027 5039	cell surface
+T94	Protein_Family 5041 5046	TGF-ß
+T95	Protein_Family 5062 5067	TßRII
+T96	Protein_Complex 5105 5121	(TßRI)2/(TßRII)2
+T97	Protein_Family 5106 5110	TßRI
+T98	Protein_Family 5114 5119	TßRII
+T99	Protein_Family 5145 5149	TßRI
+T100	Protein_Family 5197 5202	TßRII
+T101	Regulatory_Network 5242 5254	TGF-ß signal
+T102	Protein 5657 5661	BRI1
+T103	Protein 5666 5670	BAK1
+T104	Protein 5672 5677	SERK3
+T105	Protein_Complex 5707 5720	SERK1 Complex
+T106	Protein 5707 5712	SERK1
+T107	Protein_Family 5752 5768	PP2C phosphatase
+T108	Protein 5769 5773	KAPP
+T109	Protein 5775 5782	14-3-3ν
+T110	Protein 5788 5794	CDC48A
+T111	Protein_Complex 5802 5815	SERK1 complex
+T112	Protein 5802 5807	SERK1
+T113	Environmental_Factor 5859 5875	yeast two-hybrid
+T114	Environmental_Factor 5890 5898	in vitro
+T115	Pathway 5998 6015	dephosphorylation
+T116	Pathway 6017 6036	protein interaction
+T117	Pathway 6041 6061	membrane interaction
+T118	Pathway 6067 6086	protein degradation
+T119	Protein 6212 6217	SERK1
+T120	Protein 6238 6245	14-3-3λ
+T121	Protein 6354 6361	14-3-3ν
+T122	Tissue 6365 6374	seedlings
+T123	Protein 6392 6399	14-3-3λ
+T124	Tissue 6403 6411	siliques
+T125	Genotype 6437 6448	Arabidopsis
+T126	Development_Phase 6467 6480	young silique
+T127	Tissue 6473 6480	silique
+T128	Environmental_Factor 6506 6522	yeast two-hybrid
+T129	Protein_Domain 6538 6560	kinase domain of SERK1
+T130	Protein 6555 6560	SERK1
+T131	Environmental_Factor 6600 6608	in vitro
+T132	Protein 6612 6618	CDC48A
+T133	Protein 6620 6627	14-3-3λ
+T134	Protein 6633 6637	KAPP
+T135	Environmental_Factor 6663 6671	In vitro
+T136	Environmental_Factor 6725 6732	In vivo
+T137	Protein 6752 6757	SERK1
+T138	Protein 6773 6777	KAPP
+T139	Tissue 6786 6808	intracellular vesicles
+T140	Pathway 6848 6872	receptor internalization
+T141	Pathway 6887 6904	dephosphorylation
+T143	Protein_Domain 6940 6943	LRR
+T142	Protein_Family 6940 6948	LRR-RLKs
+T144	Protein_Family 6944 6948	RLKs
+T145	Protein 6950 6954	CLV1
+T146	Protein 6983 6987	FLS2
+T147	Protein 7039 7043	KAPP
+T148	Regulatory_Network 7112 7160	controlling signaling through the SERK1 receptor
+T149	Protein 7146 7151	SERK1
+T150	Protein 7162 7167	CDC48
+T151	Genotype 7239 7250	Arabidopsis
+T152	Environmental_Factor 7251 7276	suspension-cultured cells
+T153	Tissue 7287 7296	cytosolic
+T154	Protein 7298 7304	CDC48A
+T155	Protein 7390 7396	CDC48A
+T156	Protein 7412 7416	PUX1
+T157	Development_Phase 7461 7473	plant growth
+T158	Genotype 7461 7466	plant
+T159	Genotype 7513 7518	plant
+T161	Tissue 7519 7540	endoplasmic reticulum
+T160	Pathway 7519 7578	endoplasmic reticulum–associated protein degradation system
+T162	Genotype 7602 7607	Plant
+T163	Protein_Family 7608 7623	14-3-3 proteins
+T164	Protein_Family 7661 7688	G-box transcription factors
+T165	Box 7661 7666	G-box
+T166	Genotype 7713 7724	Arabidopsis
+T167	Protein_Family 7725 7732	14-3-3s
+T168	Protein 7744 7751	14-3-3λ
+T169	Protein_Family 7902 7915	14-3-3 family
+T170	Protein_Complex 8017 8030	SERK1 complex
+T171	Protein 8017 8022	SERK1
+T172	Protein 8032 8037	AGL15
+T174	Protein 8053 8055	CO
+T173	Protein 8053 8060	CO-like
+T175	Protein_Family 8061 8086	B-box zinc finger protein
+T176	Box 8061 8066	B-box
+T177	Protein_Family 8175 8190	14-3-3 proteins
+T178	Protein_Family 8235 8250	14-3-3 proteins
+T180	Tissue 8272 8283	cytoplasmic
+T179	Pathway 8272 8296;8339 8363	cytoplasmic localization of transcription factors
+T182	Tissue 8317 8324	nuclear
+T181	Pathway 8317 8337;8339 8363	nuclear localization of transcription factors
+T183	Protein_Family 8418 8448	MADS box transcription factors
+T184	Protein 8450 8455	AGL24
+T185	Protein_Domain 8497 8510	kinase domain
+T186	Genotype 8518 8529	Arabidopsis
+T187	Tissue 8530 8542	meristematic
+T188	Protein 8543 8563	receptor-like kinase
+T189	Protein_Domain 8596 8609	kinase domain
+T190	Environmental_Factor 8626 8634	in vitro
+T191	Protein 8658 8663	AGL15
+T192	Tissue 8691 8697	nuclei
+T193	Tissue 8728 8737	cytoplasm
+T194	Protein 8760 8765	SERK1
+T195	Protein 8770 8775	AGL15
+T196	Development_Phase 8804 8830	embryogenic cell formation
+T197	Environmental_Factor 8831 8841	in culture
+T198	Development_Phase 8853 8872	early embryogenesis
+T200	Protein 8887 8892	SERK1
+T199	Genotype 8887 8892;9010 9035	SERK1 ectopically overexpressed
+T203	Protein 8915 8920	AGL15
+T202	Protein 8915 8920	AGL15
+T201	Genotype 8915 8920;9010 9035	AGL15 ectopically overexpressed
+T204	Regulatory_Network 8930 8955	somatic embryo production
+T205	Tissue 8938 8944	embryo
+T206	Tissue 8965 8986	shoot apical meristem
+T207	Environmental_Factor 8987 9004	in liquid culture
+T209	Protein 9095 9100	AGL15
+T208	Genotype 9095 9123	AGL15-overexpressing tissues
+T210	Tissue 9116 9123	tissues
+T211	Protein 9157 9162	SERK1
+T212	Protein 9205 9210	AGL15
+T213	Protein 9438 9443	AGL15
+T215	Gene 9491 9495	SERK
+T214	Promoter 9491 9495;9528 9536	SERK promoter
+T216	Protein 9579 9584	SERK1
+T217	Protein 9589 9594	AGL15
+T218	Protein_Complex 9695 9708	SERK1 complex
+T219	Protein 9695 9700	SERK1
+T220	Protein_Family 9738 9779	CO-like zinc finger transcription factors
+T222	Protein 9738 9740	CO
+T221	Protein 9738 9745	CO-like
+T223	Genotype 9874 9880	animal
+T224	Protein 9969 9971	CO
+T225	Development_Phase 10033 10042	flowering
+T226	Genotype 10102 10113	Arabidopsis
+T227	Tissue 10114 10123	seedlings
+T228	Protein 10151 10156	SERK1
+T229	Regulatory_Network 10191 10201	BR pathway
+T230	Tissue 10255 10270	plasma membrane
+T231	Protein 10349 10354	AGL15

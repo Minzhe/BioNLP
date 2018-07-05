@@ -1,0 +1,257 @@
+T1	Tissue 4 8	seed
+T2	Genotype 45 56	land plants
+T3	Development_Phase 99 110	germination
+T4	Tissue 159 171	Mature seeds
+T5	Pathway 217 233	storage products
+T6	Tissue 261 269	seedling
+T7	Development_Phase 270 287	after germination
+T8	Tissue 325 342	developing embryo
+T9	Regulatory_Network 348 366	maturation program
+T10	Development_Phase 348 358	maturation
+T11	Development_Phase 394 421	later part of embryogenesis
+T12	Gene_Family 461 470	LEC genes
+T13	Protein_Family 461 464	LEC
+T14	Regulatory_Network 490 525	induction of the maturation program
+T15	Development_Phase 507 517	maturation
+T16	Development_Phase 622 641	early embryogenesis
+T18	Genotype 664 675	Arabidopsis
+T17	Genotype 664 675;699 747	Arabidopsis embryos mutant for strong alleles of DICER-LIKE1
+T19	Genotype 677 697	Arabidopsis thaliana
+T20	Tissue 699 706	embryos
+T21	Gene 736 747	DICER-LIKE1
+T22	Pathway 780 805	biosynthesis of microRNAs
+T23	RNA 796 805	microRNAs
+T24	RNA 807 813	miRNAs
+T25	Genotype 842 851	wild-type
+T26	RNA 910 916	miRNAs
+T27	Regulatory_Network 943 975	timing of the maturation program
+T28	Development_Phase 957 967	maturation
+T29	RNA 997 1003	miRNAs
+T30	Gene 1056 1072	LEAFY COTYLEDON2
+T31	Gene 1077 1083	FUSCA3
+T32	Gene 1132 1173	ARABIDOPSIS 6B-INTERACTING PROTEIN1-LIKE1
+T33	Gene 1175 1180	ASIL1
+T34	Gene 1186 1191	ASIL2
+T35	Gene_Family 1200 1219	histone deacetylase
+T36	Gene 1220 1224	HDA6
+T37	Gene 1225 1229	SIL1
+T38	RNA 1267 1273	miRNAs
+T39	Regulatory_Network 1289 1307	maturation program
+T40	Development_Phase 1289 1299	maturation
+T41	Development_Phase 1308 1330	early in embryogenesis
+T42	Gene 1337 1342	ASIL1
+T43	Gene 1347 1351	HDA6
+T44	Gene 1352 1356	SIL1
+T45	Regulatory_Network 1389 1429	expression of embryonic maturation genes
+T46	Development_Phase 1430 1447	after germination
+T47	Development_Phase 1537 1550	embryogenesis
+T48	Development_Phase 1609 1619	maturation
+T49	Development_Phase 1627 1646	early embryogenesis
+T51	Tissue 1651 1659	seedling
+T50	Development_Phase 1651 1671	seedling development
+T52	Genotype 1724 1735	seed plants
+T53	Tissue 1724 1728	seed
+T54	Regulatory_Network 1745 1786	ability to generate a resistant structure
+T55	Tissue 1792 1796	seed
+T56	Genotype 1907 1918	Arabidopsis
+T57	Genotype 1920 1940	Arabidopsis thaliana
+T58	Genotype 1943 1952	wild-type
+T59	Tissue 1953 1960	embryos
+T60	Development_Phase 2058 2077	shape of the embryo
+T61	Tissue 2071 2077	embryo
+T62	Development_Phase 2079 2090	preglobular
+T63	Development_Phase 2092 2100	globular
+T64	Development_Phase 2102 2112	transition
+T65	Development_Phase 2114 2119	heart
+T66	Development_Phase 2121 2128	torpedo
+T67	Development_Phase 2130 2150	bent green cotyledon
+T68	Tissue 2141 2150	cotyledon
+T69	Development_Phase 2156 2162	mature
+T70	Development_Phase 2250 2277	first part of embryogenesis
+T71	Development_Phase 2289 2300	heart stage
+T72	Tissue 2343 2357	embryonic axes
+T73	Tissue 2359 2368	meristems
+T74	Tissue 2374 2386	tissue types
+T76	Development_Phase 2413 2418	heart
+T75	Development_Phase 2413 2449	heart-to-late-heart stage transition
+T77	Development_Phase 2422 2438	late-heart stage
+T78	Development_Phase 2469 2489	embryonic maturation
+T80	Tissue 2564 2573	epidermis
+T79	Tissue 2564 2590	epidermis of the hypocotyl
+T81	Tissue 2581 2590	hypocotyl
+T82	Development_Phase 2606 2656	beginning of proplastid maturation to chloroplasts
+T83	Tissue 2619 2629	proplastid
+T84	Tissue 2644 2656	chloroplasts
+T85	Tissue 2692 2699	embryos
+T86	Pathway 2743 2759	storage products
+T87	Development_Phase 2767 2786	early torpedo stage
+T88	Pathway 2792 2815	photosynthetic activity
+T89	Tissue 2823 2845	embryonic chloroplasts
+T90	Pathway 2868 2898	biosynthesis of storage lipids
+T91	Genotype 2925 2936	Arabidopsis
+T92	Pathway 2942 2958	storage products
+T95	Tissue 2967 2971	seed
+T94	Pathway 2967 2971;2993 3007	seed storage lipids
+T93	Pathway 2967 2988	seed storage proteins
+T96	Tissue 3118 3125	embryos
+T97	Tissue 3135 3139	seed
+T98	Pathway 3154 3175	desiccation tolerance
+T99	Development_Phase 3192 3206	enter dormancy
+T100	Regulatory_Network 3279 3297	maturation program
+T101	Development_Phase 3279 3289	maturation
+T103	Tissue 3306 3310	seed
+T102	Development_Phase 3306 3319	seed dormancy
+T104	Development_Phase 3372 3388	midembryogenesis
+T105	Development_Phase 3406 3423	after germination
+T106	Development_Phase 3465 3475	maturation
+T108	Tissue 3483 3489	embryo
+T107	Development_Phase 3483 3501	embryo development
+T109	Development_Phase 3536 3546	maturation
+T110	Development_Phase 3554 3570	midembryogenesis
+T111	Development_Phase 3601 3612	germination
+T112	Regulatory_Network 3631 3655	repressors of maturation
+T113	Development_Phase 3645 3655	maturation
+T114	Development_Phase 3659 3678	early embryogenesis
+T115	Regulatory_Network 3842 3865	seed maturation program
+T117	Tissue 3842 3846	seed
+T116	Development_Phase 3842 3857	seed maturation
+T118	Gene_Family 3875 3884	LEC genes
+T119	Protein_Family 3875 3878	LEC
+T120	Protein_Family 3891 3922	B3 domain transcription factors
+T121	Protein 3923 3939	LEAFY-COTYLEDON2
+T122	Protein 3941 3945	LEC2
+T123	Protein 3951 3957	FUSCA3
+T124	Protein 3959 3963	FUS3
+T125	Protein_Family 3973 4041	B subunits of the NF-Y family of trimeric transcription factors LEC1
+T126	Protein_Family 3991 4002	NF-Y family
+T127	Protein_Complex 4006 4036	trimeric transcription factors
+T128	Protein 4037 4041	LEC1
+T129	Protein 4055 4061	NF-YB9
+T130	Protein 4067 4076	LEC1-LIKE
+T131	Protein 4067 4071	LEC1
+T132	Protein 4078 4081	L1L
+T133	Protein 4083 4089	NF-YB6
+T134	Protein_Family 4100 4130	B3 domain transcription factor
+T135	Protein 4131 4147	ABA INSENSITIVE3
+T137	Gene_Family 4149 4153	ABI3
+T136	Protein 4149 4153	ABI3
+T138	Genotype 4156 4189	Single loss-of-function mutations
+T139	Regulatory_Network 4212 4274	result in deficiencies in the accumulation of storage products
+T140	Pathway 4242 4274	accumulation of storage products
+T141	Regulatory_Network 4276 4299	desiccation intolerance
+T142	Regulatory_Network 4310 4361	heterochronic change of cotyledons into true leaves
+T143	Tissue 4334 4344	cotyledons
+T144	Tissue 4355 4361	leaves
+T145	Tissue 4429 4436	embryos
+T146	Hormone 4505 4518	abscisic acid
+T147	Hormone 4520 4523	ABA
+T148	Hormone 4529 4531	GA
+T149	Hormone 4600 4603	ABA
+T150	Hormone 4607 4609	GA
+T151	Development_Phase 4618 4628	maturation
+T152	Protein 4633 4637	ABI3
+T153	Protein 4642 4646	ABI5
+T154	Environmental_Factor 4678 4686	In vitro
+T155	Protein 4715 4719	LEC1
+T156	Protein 4724 4727	L1L
+T158	Protein_Family 4742 4747;4759 4760	NY-YC 6
+T157	Protein_Family 4742 4748	NY-YC1
+T159	Protein_Family 4742 4747;4751 4752	NY-YC 2
+T160	Pathway 4793 4808	storage product
+T161	Hormone 4818 4821	ABA
+T162	Gene_Family 4969 4978	LEC genes
+T163	Protein_Family 4969 4972	LEC
+T165	Promoter 4998 5010;5053 5086	promoters of genes involved in seed maturation
+T164	Promoter 4998 5042	promoters of genes encoding storage proteins
+T166	Pathway 5026 5042	storage proteins
+T167	Regulatory_Network 5053 5086	genes involved in seed maturation
+T169	Tissue 5071 5075	seed
+T168	Development_Phase 5071 5086	seed maturation
+T170	Protein_Family 5088 5114	bZIP transcription factors
+T171	Protein_Complex 5139 5153	NF-Y complexes
+T172	Protein 5155 5159	ABI5
+T173	Protein 5161 5167	bZIP10
+T174	Protein 5169 5175	bZIP25
+T175	Protein 5177 5183	bZIP53
+T176	Protein 5189 5195	bZIP67
+T177	Protein_Family 5266 5291	MYB transcription factors
+T178	Protein 5293 5301	AtMYB115
+T179	Protein 5306 5314	AtMYB118
+T180	Protein_Family 5360 5390	MADS box transcription factors
+T181	Protein 5392 5406	AGAMOUS-LIKE15
+T182	Protein 5408 5413	AGL15
+T183	Protein 5419 5424	AGL18
+T184	Regulatory_Network 5480 5545	prevent the expression of embryonic traits after seed germination
+T186	Tissue 5529 5533	seed
+T185	Development_Phase 5529 5545	seed germination
+T187	Protein_Family 5655 5673	B3 domain proteins
+T188	Protein 5674 5677	VP1
+T189	Protein 5678 5687	ABI3-LIKE
+T190	Protein 5691 5736	HIGH-LEVEL EXPRESSION OF SUGAR-INDUCIBLE GENE
+T191	Protein 5738 5742	VAL1
+T192	Protein 5743 5747	HSI2
+T193	Protein 5753 5757	VAL2
+T194	Protein 5758 5762	HSL1
+T195	Protein 5788 5829	ARABIDOPSIS 6B-INTERACTING PROTEIN1-LIKE1
+T196	Protein 5831 5836	ASIL1
+T197	Regulatory_Network 5839 5906	Epigenetic factors also repress the maturation program in seedlings
+T198	Development_Phase 5875 5885	maturation
+T199	Tissue 5897 5906	seedlings
+T200	Protein_Family 5918 5938	histone deacetylases
+T201	Protein 5940 5944	HDA6
+T202	Protein 5945 5949	SIL1
+T203	Protein 5954 5959	HDA19
+T204	Protein_Family 5962 5985	Polycomb group proteins
+T205	Protein 5987 5994	SWINGER
+T206	Protein 5996 6006	CURLY LEAF
+T207	Protein 6012 6017	MEDEA
+T208	Protein_Family 6024 6044	chromatin remodelers
+T209	Protein 6046 6052	BRAHMA
+T210	Protein 6054 6061	AtSWI3c
+T211	Protein 6063 6066	BSH
+T212	Protein 6072 6078	PICKLE
+T213	Hormone 6202 6204	GA
+T214	Regulatory_Network 6209 6248	prevent the expression of the LEC genes
+T215	Regulatory_Network 6209 6231;6253 6291	prevent the expression of the genes encoding storage products
+T216	Gene_Family 6239 6248	LEC genes
+T217	Protein_Family 6239 6242	LEC
+T218	Pathway 6275 6291	storage products
+T219	Regulatory_Network 6382 6410	repression of the maturation
+T220	Development_Phase 6400 6410	maturation
+T221	Development_Phase 6411 6433	early in embryogenesis
+T222	RNA 6435 6444	MicroRNAs
+T223	RNA 6446 6452	miRNAs
+T224	RNA 6543 6548	mRNAs
+T225	Pathway 6593 6604	translation
+T226	RNA 6638 6644	miRNAs
+T227	RNA 6686 6691	miRNA
+T228	Protein_Family 6723 6732	RNase III
+T229	Protein 6733 6744	DICER-LIKE1
+T230	Protein 6746 6750	DCL1
+T231	Protein_Family 6757 6792	double-stranded RNA-binding protein
+T232	Protein 6793 6811	HYPONASTIC LEAVES1
+T233	Protein 6813 6817	HYL1
+T234	Protein_Family 6828 6852	C2H2-zinc finger protein
+T235	Protein 6853 6860	SERRATE
+T236	Protein 6862 6864	SE
+T237	RNA 6881 6887	miRNAs
+T238	Protein 6911 6924	HUA-ENHANCER1
+T239	Protein 6926 6930	HEN1
+T240	Protein_Complex 6957 6986	RNA-induced silencing complex
+T241	RNA 7004 7009	miRNA
+T242	Regulatory_Network 7043 7051	cleavage
+T243	Regulatory_Network 7055 7080	repression of translation
+T244	Protein_Family 7082 7100	ARGONAUTE proteins
+T245	Protein 7109 7113	AGO1
+T246	Protein 7118 7123	AGO10
+T247	Protein 7124 7130	ZWILLE
+T248	Protein 7131 7138	PINHEAD
+T250	RNA 7165 7170	miRNA
+T249	Protein_Complex 7165 7202	miRNA RNA-induced silencing complexes
+T251	Genotype 7204 7224	Null alleles of dcl1
+T252	Regulatory_Network 7229 7245	embryonic lethal
+T253	Genotype 7251 7305	embryos mutant for other elements of the miRNA pathway
+T254	Tissue 7251 7258	embryos
+T255	Pathway 7292 7305	miRNA pathway
+T256	Genotype 7318 7343	nonoverlapping phenotypes
+T257	Genotype 7347 7370	no observable phenotype

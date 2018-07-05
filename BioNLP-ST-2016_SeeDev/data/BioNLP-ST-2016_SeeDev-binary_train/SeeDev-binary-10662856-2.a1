@@ -1,0 +1,58 @@
+T1	Protein 26 31	AGL15
+T2	Development_Phase 89 105	vegetative phase
+T3	Tissue 139 146	nuclear
+T4	Protein 157 162	AGL15
+T5	Tissue 194 207	young embryos
+T6	Development_Phase 224 260	earliest stages of vegetative growth
+T7	Tissue 268 278	shoot apex
+T8	Genotype 282 293	Arabidopsis
+T9	Development_Phase 317 335	reproductive phase
+T11	Gene 337 342	AGL15
+T10	Promoter 337 351	AGL15 promoter
+T14	Tissue 375 393	meristematic cells
+T13	Tissue 375 426	meristematic cells at the apex of the inflorescence
+T12	Tissue 375 426	meristematic cells at the apex of the inflorescence
+T15	Tissue 401 426	apex of the inflorescence
+T16	Gene 482 487	AGL15
+T17	Gene_Family 512 533	floral MADS box genes
+T18	Gene 545 548	AP1
+T19	Gene 575 584	FRUITFULL
+T20	Gene 585 589	AGL8
+T21	Development_Phase 682 700	reproductive phase
+T22	Development_Phase 743 766	transition to flowering
+T23	Gene 813 818	AGL15
+T24	Gene_Family 842 850	MADS box
+T25	Gene 856 873	FLOWERING LOCUS C
+T26	Development_Phase 904 913	flowering
+T27	Development_Phase 947 970	transition to flowering
+T28	Development_Phase 1011 1029	reproductive phase
+T30	Gene 1031 1036	AGL15
+T29	Promoter 1031 1045	AGL15 promoter
+T31	Tissue 1079 1099	young immature cells
+T32	Development_Phase 1101 1116	Cell maturation
+T33	Tissue 1162 1175	floral organs
+T34	Tissue 1191 1197	leaves
+T35	Tissue 1245 1251	leaves
+T36	Tissue 1256 1269	floral organs
+T38	Gene 1342 1347	AGL15
+T37	Promoter 1342 1356	AGL15 promoter
+T39	Tissue 1392 1413	young organ primordia
+T40	Tissue 1404 1413	primordia
+T41	Tissue 1449 1476	base of the maturing organs
+T44	Gene 1500 1505	AGL15
+T43	RNA 1500 1505;1528 1532	AGL15 mRNA
+T42	Promoter 1500 1514	AGL15 promoter
+T45	Protein 1576 1581	AGL15
+T46	Tissue 1626 1648	shoot apical meristems
+T47	Tissue 1658 1681	young vegetative organs
+T48	Development_Phase 1693 1731	juvenile stage of the vegetative phase
+T49	Tissue 1787 1800	floral organs
+T50	Genotype 1931 2012	transgenic plants that express AGL15 under the control of a heterologous promoter
+T51	Gene 1962 1967	AGL15
+T53	Gene 2025 2030	AGL15
+T52	Genotype 2025 2054	AGL15 Constitutive Expression
+T54	Genotype 2081 2113	constitutive expression of AGL15
+T55	Gene 2108 2113	AGL15
+T56	Genotype 2128 2194	transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15
+T57	Promoter 2167 2184	CaMV 35S promoter
+T58	Gene 2189 2194	AGL15

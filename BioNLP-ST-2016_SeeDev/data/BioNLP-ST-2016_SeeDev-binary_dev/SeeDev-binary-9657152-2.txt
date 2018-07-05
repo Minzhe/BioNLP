@@ -1,0 +1,64 @@
+Higher
+plant embryogenesis is divided conceptually into two distinct phases:
+early morphogenetic processes that give rise to embryonic cell types,
+tissues, and organ systems, and late maturation events that allow the
+fully developed embryo to enter a desiccated and metabolically quiescent
+state ([52] and [13]).
+Upon reception of the appropriate signals, the dormant embryo
+germinates, and seedling development begins. Thus, seed maturation and
+metabolic quiescence interrupt the morphogenetic processes that occur
+during embryogenesis and seedling development. This unique form of
+development underlies, in part, a plant's ability to make seeds, a trait
+that has conferred significant selective advantages to higher plants (Steeves 1983).
+Because lower plants do not make seeds and do not undergo embryo
+maturation, this bipartite mode of embryogenesis is thought to have
+resulted from the insertion of maturation events into the higher plant
+life cycle (reviewed by
+[51],
+[47] and [16]).
+Little is known at the mechanistic level about how distinct processes
+that occur during the morphogenesis and seed maturation phases are
+coordinated.Genetic strategies employed to identify regulators of Arabidopsis thaliana embryo development have distinguished several gene classes that affect embryogenesis. One class of mutations, including raspberry, tinman, and abnormal suspensor ([41],
+[56],
+[7] and [49];
+T. L. et al, unpublished data), causes the arrest of embryo
+morphogenesis. Many of the corresponding proteins are involved in basic
+cellular functions and probably do not perform direct regulatory roles. A
+second class of genes predicted to play a role in embryonic pattern
+formation has been identified (Mayer et al. 1991). The expression patterns of two such genes, EMB30 (GNOM) and KNOLLE, suggest that they do not function specifically during embryogenesis ([42] and [23]). Another class, including SHOOTMERISTEMLESS and SCARECROW, is active in the developing shoot or root apical meristems ([9] and [22]).
+Although these genes play key roles in meristem function, they are
+required for meristem formation during both embryogenesis and
+postembryonic development. ABSCISIC ACID INSENSITIVE3 (ABI3), a fourth gene class, encodes an embryo-specific transcription factor that regulates genes expressed during seed maturation ([20] and [38]).
+However, its function is limited to the late stages of embryogenesis.
+Although each of these gene classes is essential for embryo development,
+none appears to act specifically during embryogenesis to control both
+the morphogenesis and maturation phases.The LEAFY COTYLEDON1 (LEC1) gene, by contrast, controls many distinct aspects of embryogenesis (Meinke 1992Meinke, 1992, 1994;
+[53] and [39]). As summarized in Figure 1, the lec1 mutation is pleiotropic, indicating several roles in late embryo development. LEC1 is required for specific aspects of seed maturation. lec1
+mutant embryos are intolerant of desiccation and show defects in the
+expression of some, but not all, maturation-specific genes ([28],
+[53] and [39]). LEC1 is also involved in inhibiting premature germination. lec1
+mutant embryos exhibit morphological and molecular characteristics of
+both embryogenesis and postgerminative seedling development, showing
+that aspects of both programs can occur simultaneously (Meinke 1992Meinke, 1992, 1994; West et al. 1994). LEC1 plays a role in the specification of embryonic organ identity as well. Embryonic leaves or cotyledons of lec1 mutants possess trichomes, epidermal hairs, which normally form only on leaves and stems in Arabidopsis ([28] and [53]). The anatomy of lec1 mutant cotyledons is intermediate between those of a wild-type cotyledon and a leaf (West et al. 1994). Finally, LEC1 appears to act only during embryo development. Desiccation-intolerant lec1
+embryos can be rescued from plants before desiccation and germinated to
+produce homozygous mutant plants that are fertile and that do not
+display any obvious vegetative or floral mutant phenotypes ([28] and [53]). Two other LEC class genes, LEC2 and FUSCA3 (FUS3), are thought to share similar or overlapping functions with LEC1, including the specification or cotyledon identity and the maintenance of maturation ([2],
+[18] and [29]). Although nothing has been reported about how LEC
+class genes act at the molecular level, their involvement in many
+diverse aspects of embryogenesis suggests that these genes serve as
+regulators of higher plant embryonic processes.Figure 1. Pleiotropic Effects of the lec1 Mutation on Embryo DevelopmentMajor differences between wild-type and lec1
+mutant embryos are as follows. Embryo shape: the axes of mutant embryos
+are short, and their cotyledons are round and do not curl. Anthocyanin
+generally accumulates at the tips of mutant cotyledons. Precocious
+germination: the shoot apical meristems of lec1 embryos are
+activated in that they are domed and possess leaf primordia, unlike
+their wild-type counterparts that are flat and do not contain leaf
+primordia. Defects in seed maturation: lec1 mutant embryos are intolerant of desiccation and normally die if dried on the plant. However, lec1
+embryos isolated before desiccation can be germinated to produce
+fertile homozygous mutant plants. The promoter of a 7S storage protein
+gene that is normally active during wild-type embryogenesis is not
+active in the lec1 mutant. Incomplete specification of cotyledon identity: lec1 seedlings possess trichomes on cotyledons. Trichomes are present on Arabidopsis leaves and stems but not on wild-type cotyledons. a, axis; c, cotyledon; SAM, shoot apical meristem.View thumbnail imagesView high quality image (116K)In this paper, we report the isolation of the LEC1 gene and show that it encodes a homolog of a conserved eukaryotic transcription factor. Expression studies showed that the LEC1 gene is active only within seeds during both early and late seed development. Ectopic expression of the LEC1
+gene induces embryonic programs and embryo development in vegetative
+cells. We suggest that LEC1 is an important transcriptional regulator
+required for both early and late embryogenesis that controls and
+coordinates higher plant embryo development.

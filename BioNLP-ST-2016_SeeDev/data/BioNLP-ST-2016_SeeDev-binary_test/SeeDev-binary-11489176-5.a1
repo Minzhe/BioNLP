@@ -1,0 +1,204 @@
+T2	Tissue 86 90	seed
+T1	Development_Phase 86 102	seed development
+T4	Hormone 107 110	ABA
+T3	Regulatory_Network 107 120	ABA signaling
+T5	Gene_Family 126 129	ABI
+T6	Genotype 138 149	Arabidopsis
+T7	Protein_Family 243 263	protein phosphatases
+T8	Protein 265 269	ABI1
+T9	Protein 274 278	ABI2
+T10	Protein 308 312	ABI3
+T11	Gene_Family 308 312	ABI3
+T12	Protein 314 318	ABI4
+T13	Protein 323 327	ABI5
+T15	Hormone 424 427	ABA
+T14	Regulatory_Network 424 439	ABA sensitivity
+T16	Genotype 466 473	mutants
+T17	Genotype 478 507	transgenic ectopic expression
+T18	Protein 711 715	ABI3
+T19	Protein 717 721	ABI4
+T20	Protein 726 730	ABI5
+T32	Genotype 1245 1251	abi1-1
+T34	Hormone 1275 1278	ABA
+T33	Regulatory_Network 1275 1295	ABA hypersensitivity
+T35	Genotype 1308 1330	overexpression of ABI3
+T36	Gene 1326 1330	ABI3
+T37	Protein 1417 1421	ABI1
+T38	Protein 1423 1427	ABI3
+T39	Protein 1429 1433	ABI4
+T40	Protein 1438 1442	ABI5
+T41	Gene_Family 1592 1600	ABI gene
+T42	Protein_Family 1592 1595	ABI
+T43	Environmental_Factor 1613 1629	yeast two-hybrid
+T44	Genotype 1736 1741	plant
+T45	Gene 1843 1847	ABI3
+T46	Gene 1849 1853	ABI4
+T47	Gene 1858 1862	ABI5
+T48	Protein_Family 1880 1883	ABI
+T49	Protein 1917 1921	ABI3
+T50	Protein 1926 1930	ABI5
+T51	Protein 1963 1967	ABI5
+T52	Hormone 1999 2002	ABA
+T53	Protein 2020 2023	VP1
+T54	Gene 2044 2050	Em-GUS
+T55	Promoter 2044 2046	Em
+T56	Environmental_Factor 2063 2091	transfected rice protoplasts
+T57	Genotype 2075 2079	rice
+T58	Tissue 2080 2091	protoplasts
+T59	Genotype 2170 2175	plant
+T60	Protein 2221 2225	ABI1
+T61	Environmental_Factor 2382 2406	phosphorylated substrate
+T62	Genotype 2459 2464	yeast
+T63	Protein 2498 2502	ABI4
+T64	Protein_Family 2524 2528	ABIs
+T66	Protein 2785 2789	ABI3
+T67	Protein 2785 2789	ABI3
+T65	Protein_Complex 2785 2794	ABI3–ABI5
+T68	Protein 2790 2794	ABI5
+T69	Protein_Domain 2814 2832	B1 domain of ABI3
+T70	Protein 2827 2831	ABI3
+T71	Protein 2848 2852	ABI5
+T72	Protein 2963 2967	ABI5
+T73	Protein_Domain 3086 3097	bZIP domain
+T74	Protein_Family 3086 3090	bZIP
+T75	Protein 3099 3103	ABI5
+T76	Protein_Domain 3104 3111	AtDPBF1
+T77	Environmental_Factor 3162 3170	in vitro
+T79	Gene_Family 3186 3189	Dc3
+T78	Promoter 3186 3198	Dc3 promoter
+T80	Protein 3286 3290	ABI3
+T81	Protein 3326 3329	VP1
+T82	Genotype 3342 3349	cereals
+T83	Protein_Domain 3484 3493	B2 domain
+T84	Gene_Family 3528 3555;3582 3587	late embryogenesis-abundant genes
+T85	Development_Phase 3528 3546	late embryogenesis
+T86	Gene_Family 3557 3560	LEA
+T87	Protein_Family 3657 3669	bZIP factors
+T88	Protein_Domain 3746 3755	B3 domain
+T90	Hormone 3825 3828	ABA
+T89	Regulatory_Network 3825 3854	ABA-dependent gene regulation
+T91	Protein_Domain 3887 3889;3897 3904	B2 domains
+T92	Protein_Domain 3894 3904	B3 domains
+T93	Genotype 3961 3975	Brassica napus
+T94	Gene 4010 4015	napin
+T95	Protein_Domain 4107 4109	B2
+T96	Protein 4118 4122	ABI3
+T98	Tissue 4128 4132	seed
+T97	Box 4128 4146	seed-specific ABRE
+T99	Genotype 4253 4256	oat
+T100	Protein 4257 4260	VP1
+T101	Genotype 4264 4275	Arabidopsis
+T102	Protein 4276 4280	ABI3
+T103	Protein_Domain 4323 4325;4333 4340	B2 domains
+T104	Protein_Domain 4330 4340	B3 domains
+T105	Protein 4421 4425	ABI5
+T106	Environmental_Factor 4490 4500	two-hybrid
+T107	Protein_Domain 4518 4520;4528 4535	B1 domains
+T108	Protein_Domain 4525 4535	B2 domains
+T109	Genotype 4543 4547	rice
+T110	Protein 4548 4553	OSVP1
+T111	Protein 4587 4593	TRAB-1
+T112	Genotype 4617 4621	rice
+T113	Protein_Family 4622 4626	bZIP
+T114	Protein 4658 4662	ABI5
+T115	Protein 4714 4720	TRAB-1
+T116	Protein 4725 4730	OSVP1
+T117	Protein_Domain 4817 4826	B1 domain
+T118	Protein 4873 4877	ABI5
+T119	Protein 4907 4911	ABI5
+T120	Protein_Family 4942 4946	bZIP
+T121	Environmental_Factor 5082 5092	one-hybrid
+T122	Box 5121 5131	ABRE motif
+T123	Box 5175 5203	fragment of the Dc3 promoter
+T125	Gene_Family 5191 5194	Dc3
+T124	Promoter 5191 5203	Dc3 promoter
+T126	Environmental_Factor 5229 5239	two-hybrid
+T127	Protein 5252 5257	OSVP1
+T128	Tissue 5371 5375	seed
+T129	Tissue 5383 5401	vegetative tissues
+T130	Regulatory_Network 5405 5422	induction by salt
+T132	Regulatory_Network 5405 5417;5435 5438	induction by ABA
+T131	Regulatory_Network 5405 5417;5424 5431	induction by drought
+T133	Environmental_Factor 5418 5422	salt
+T134	Environmental_Factor 5424 5431	drought
+T135	Hormone 5435 5438	ABA
+T137	Hormone 5471 5474	ABA
+T136	Regulatory_Network 5471 5483	ABA response
+T138	Gene 5566 5570	ABI5
+T139	Genotype 5640 5646	abi5-1
+T140	Genotype 5742 5748	abi5-4
+T141	Protein_Domain 5813 5824	bZIP domain
+T142	Protein_Family 5813 5817	bZIP
+T144	Hormone 5947 5950	ABA
+T143	Regulatory_Network 5947 5961	ABA resistance
+T146	Tissue 5988 5992	seed
+T145	Regulatory_Network 5988 6008	seed gene expression
+T147	Protein_Domain 6088 6099	bZIP domain
+T148	Protein_Family 6088 6092	bZIP
+T149	Genotype 6278 6287	sunflower
+T151	Protein_Domain 6288 6294	DPBF-1
+T150	Protein_Family 6288 6302	DPBF-1 protein
+T152	Environmental_Factor 6319 6327	in vitro
+T153	Protein_Domain 6489 6548	region of DPBF-1 corresponding to amino acids 1–248 of ABI5
+T154	Protein_Domain 6499 6505	DPBF-1
+T155	Protein 6544 6548	ABI5
+T156	Genotype 6599 6608	sunflower
+T157	Protein_Domain 6609 6615	DPBF-1
+T158	Protein 6656 6660	ABI5
+T159	Genotype 6709 6720	Arabidopsis
+T160	Protein_Family 6721 6738	ABF/AREB proteins
+T161	Protein 6750 6754	ABI5
+T162	Protein_Domain 6871 6902	transcription-activation domain
+T163	Protein 7196 7201	AREB1
+T164	Protein 7206 7211	AREB2
+T165	Hormone 7234 7237	ABA
+T166	Environmental_Factor 7270 7289	in-gel kinase assay
+T167	Tissue 7360 7371	protoplasts
+T168	Protein_Family 7405 7409	AREB
+T169	Hormone 7414 7417	ABA
+T170	Environmental_Factor 7443 7468	protein kinase inhibitors
+T171	Hormone 7484 7487	ABA
+T172	Protein_Family 7547 7552	AREBs
+T173	Environmental_Factor 7563 7570	in vivo
+T174	Protein_Family 7594 7599	AREBs
+T175	Protein_Domain 7718 7757	transcription-activation domain of ABI5
+T176	Protein 7753 7757	ABI5
+T177	Genotype 8175 8180	yeast
+T178	Protein 8278 8282	ABI3
+T179	Protein 8278 8282	ABI3
+T180	Protein 8416 8420	ABI5
+T181	Genotype 8436 8441	yeast
+T182	Hormone 8481 8484	ABA
+T183	Protein 8575 8579	ABI5
+T186	Protein 8893 8897	ABI3
+T185	Protein 8893 8897	ABI3
+T184	Protein_Domain 8893 8917	ABI3-interacting domains
+T187	Protein_Domain 8959 8982	GAL4 DNA-binding domain
+T188	Promoter 9055 9079	GAL4-responsive promoter
+T189	Protein_Family 9113 9116	ABI
+T191	Gene 9176 9179	ABI
+T190	Promoter 9176 9205	ABI-responsive plant promoter
+T192	Gene 9282 9293	AtEm6::lacZ
+T193	Genotype 9304 9309	yeast
+T194	Box 9376 9383	ACACNNG
+T195	Genotype 9393 9402	sunflower
+T196	Protein 9415 9419	ABI5
+T197	Protein 9536 9540	ABI5
+T198	Protein 9594 9598	ABI3
+T199	Protein 9603 9606	VP1
+T200	Protein 9672 9676	ABI3
+T201	Protein 9672 9676	ABI3
+T202	Protein 9751 9755	ABI4
+T203	Protein_Family 9771 9795	EREBP/DREB/CBF subfamily
+T204	Protein_Family 9771 9776	EREBP
+T205	Protein_Family 9777 9781	DREB
+T206	Protein_Family 9782 9785	CBF
+T209	Protein 9803 9811	APETALA2
+T208	Protein_Domain 9803 9818	APETALA2 domain
+T207	Protein_Family 9803 9825	APETALA2 domain family
+T210	Protein 9938 9942	ABI4
+T211	Protein 9987 9991	ABI4
+T212	Gene 10013 10024	AtEm6::lacZ
+T214	Protein 10051 10055	ABI4
+T213	Box 10051 10068	ABI4 binding site
+T215	Protein_Family 10193 10207	RNA polymerase

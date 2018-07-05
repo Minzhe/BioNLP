@@ -1,0 +1,19 @@
+T1	Regulatory_Network 13 42	defect in mucilage production
+T2	Pathway 23 42	mucilage production
+T3	Gene 92 96	MUM4
+T4	Protein_Family 103 121	NDP-l-Rha synthase
+T5	Tissue 147 156	columella
+T6	Development_Phase 241 259	cell morphogenesis
+T7	Pathway 263 281	mucilage synthesis
+T8	Tissue 304 320	apoplastic space
+T9	Tissue 325 343	cytoplasmic column
+T10	Pathway 390 398	mucilage
+T11	Tissue 406 428	extracytoplasmic space
+T12	Tissue 574 581	vacuole
+T13	Development_Phase 624 642	cell morphogenesis
+T14	Tissue 722 740	cytoplasmic column
+T15	Pathway 806 827	synthesis of mucilage
+T16	Pathway 857 896	production of an oligosaccharide signal
+T17	Development_Phase 917 946	cell to undergo morphogenesis
+T18	Genotype 1081 1142	mutants affected specifically in the shaping of the columella
+T19	Tissue 1133 1142	columella

@@ -1,0 +1,66 @@
+T1	Pathway 47 66	mucilage production
+T4	Tissue 74 83	seed coat
+T3	Tissue 74 98	seed coat secretory cell
+T2	Development_Phase 74 114	seed coat secretory cell differentiation
+T5	Protein 116 119	AP2
+T6	Protein 126 130	TTG1
+T7	Protein_Family 146 158	bHLH protein
+T8	Protein_Domain 146 150	bHLH
+T9	Protein 179 183	EGL3
+T10	Protein 191 194	TT8
+T11	Protein_Family 218 242	MYB transcription factor
+T12	Protein_Family 218 221	MYB
+T13	Gene 252 255	GL2
+T14	Gene 260 264	TTG2
+T15	Gene 266 269	GL2
+T16	Gene 287 291	MUM4
+T17	Gene 311 315	TTG2
+T18	Gene 320 325	MYB61
+T19	Pathway 354 373	mucilage production
+T20	Gene 391 395	MUM4
+T21	Gene 442 446	MUM4
+T22	Development_Phase 468 495	time of mucilage production
+T23	Pathway 476 495	mucilage production
+T24	Gene 513 517	TTG2
+T25	Gene 521 526	MYB61
+T26	Gene 547 551	TTG1
+T27	Gene 576 580	TTG2
+T28	Tissue 588 597	seed coat
+T29	Gene 672 676	TTG2
+T30	Gene 693 697	TTG1
+T31	Pathway 732 753	mucilage biosynthesis
+T32	Tissue 761 776	developing seed
+T33	Gene 835 840	MYB61
+T34	Pathway 900 913	RGI synthesis
+T35	Protein_Family 927 950	NDP-d-GlcUA 4-epimerase
+T36	Protein_Family 1031 1063	RGI-backbone glycosyltransferase
+T37	Gene 1080 1085	MYB61
+T38	Gene 1090 1094	TTG2
+T39	Pathway 1118 1152	transport of newly synthesized RGI
+T40	Tissue 1160 1175	plasma membrane
+T41	Regulatory_Network 1186 1247	inhibition of mucilage production in the absence of secretion
+T42	Pathway 1200 1219	mucilage production
+T43	Tissue 1277 1286	root caps
+T44	Genotype 1294 1299;1311 1328	maize mutant Ageotropic
+T45	Genotype 1294 1299	maize
+T46	Genotype 1301 1309	Zea mays
+T47	Gene 1355 1358	AP2
+T48	Development_Phase 1424 1480	differentiation of the outer two layers of the seed coat
+T49	Tissue 1447 1480	outer two layers of the seed coat
+T50	Tissue 1471 1480	seed coat
+T51	Genotype 1523 1532	ap2 seeds
+T52	Pathway 1538 1546	mucilage
+T53	Gene 1568 1572	MUM4
+T54	Gene 1647 1650	AP2
+T55	Gene 1675 1678	GL2
+T56	RNA 1675 1678;1688 1698	GL2 transcript
+T58	Gene 1683 1687	TTG2
+T57	RNA 1683 1698	TTG2 transcript
+T59	Gene 1734 1738	TTG1
+T60	Gene 1743 1748	MYB61
+T61	Gene 1768 1771	AP2
+T62	Protein 1841 1844	AP2
+T63	Protein 1872 1876	TTG1
+T64	Gene 1889 1892	GL2
+T65	Gene 1897 1901	TTG2
+T66	Tissue 1909 1928	seed coat epidermis

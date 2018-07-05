@@ -1,0 +1,29 @@
+T1	Development_Phase 46 65	early embryogenesis
+T2	RNA 76 82	miRNAs
+T3	RNA 109 114	miRNA
+T4	Development_Phase 182 192	maturation
+T5	Development_Phase 194 224	Later in embryonic development
+T6	RNA 247 253	miRNAs
+T7	Regulatory_Network 267 290	induction of maturation
+T8	Development_Phase 280 290	maturation
+T9	RNA 362 367	miRNA
+T10	RNA 449 454	miRNA
+T11	Development_Phase 595 609	globular stage
+T12	Genotype 610 616	dcl1-5
+T13	Tissue 617 624	embryos
+T14	Regulatory_Network 630 659	heterochronic gene expression
+T15	RNA 730 736	miR156
+T16	Gene 745 785	SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE10
+T17	Gene 787 792	SPL10
+T18	Gene 798 803	SPL11
+T19	Regulatory_Network 834 871	early onset of the maturation program
+T20	Development_Phase 853 863	maturation
+T21	Development_Phase 974 987	embryogenesis
+T22	Gene_Family 1040 1048	SPL gene
+T23	Protein_Family 1040 1043	SPL
+T24	Gene 1050 1054	SPL5
+T25	Development_Phase 1105 1118	embryogenesis
+T26	RNA 1187 1193	miR156
+T27	Gene_Family 1204 1207	SPL
+T28	Gene 1288 1292	SPL5
+T29	Development_Phase 1335 1345	maturation

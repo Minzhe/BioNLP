@@ -1,0 +1,11 @@
+To gain insight into possible relationships in gene coexpression and regulation, we
+first identified the expression patterns for several TFs known to regulate the accumulation
+of seed storage reserves (Figure 6). AGL15 (AGAMOUS-LIKE 15), GL2 (GLABRA2), LEC1, L1L, and WRI1 exhibited similar expression patterns with most genes encoding proteins involved in
+FA biosynthesis (Figure 6A) whereas ABI3, EEL, and FUS3 all have similar expression profiles with genes encoding oleosins and SSPs (Figure
+6B). Two repressors of seed maturation genes, ASIL1 (ARABIDOPSIS 6B-INTERACTING PROTEIN 1-LIKE 1) [69] and PICKLE (PKL) [70], were modestly expressed and exhibited a stable expression pattern throughout seed
+maturation (Figure 6C). Surprisingly, LEC2, a TF gene known to regulate oil accumulation in leaves and somatic embryogenesis
+[10,14,16], was barely detectable in these developing seeds. Although this result requires verification
+with other molecular methods, it was previously reported that LEC2 might be only expressed during early embryo morphogenesis [15]. Additionally, based on phenotype descriptions of LEC1, LEC2 mutants in the Arabidopsis Information Resource (TAIR) [71], the accumulation of storage compounds in the mature lec2 mutant seeds is only slightly defective when compared to lec1 mutant seeds. Therefore, the role of LEC2 as a regulator in the synthesis of seed storage reserves during late stages of zygotic
+embryo development might not be as important as currently thought. Likewise, ABI4 was also essentially unexpressed in these seed samples. The expression similarity
+between genes encoding TFs and their target genes is suggestive of regulatory relationships.
+Both LEC1 and WRI1 were clustered with most FA biosynthetic genes, while ABI5 was clustered with the majority of LATE-EMBRYOGENESIS ABUNDANT (LEA) genes (Figure 3 Cluster 3). LEC1 and WRI1 are known to regulate many FA biosynthetic genes [25-27], and ABI5 regulates a subset of LEAs [72].

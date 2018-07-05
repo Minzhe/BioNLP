@@ -1,0 +1,4 @@
+While Nodine and Bartel (2010) demonstrated, as we did, that DCL1 regulates the onset of maturation and identified some of the miRNA targets involved in the process, they did not explore
+their connection with the components of the maturation pathway. We, on the other hand, placed several known and novel regulators
+of maturation downstream of unidentified miRNA targets. If their inferences about the SPL genes are correct, it is possible that these proteins positively regulate maturation by repressing ASIL1 and other negative regulators, since SPL10 and SPL11 (and nine other miRNA targets) are predicted to contain transcriptional
+repression domains (Mitsuda and Ohme-Takagi, 2009).

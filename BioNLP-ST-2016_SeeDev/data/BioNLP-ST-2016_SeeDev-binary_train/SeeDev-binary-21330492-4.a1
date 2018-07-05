@@ -1,0 +1,35 @@
+T1	Regulatory_Network 35 53	maturation program
+T2	Development_Phase 35 45	maturation
+T3	Gene_Family 62 71	LEC genes
+T4	Protein_Family 62 65	LEC
+T5	Protein_Family 102 106;115 136	bZIP transcription factors
+T6	Protein_Family 111 136	MYB transcription factors
+T8	Promoter 183 195;227 276	promoters of genes involved in the synthesis of storage lipids
+T7	Promoter 183 222	promoters of seed storage protein genes
+T10	Tissue 196 200	seed
+T9	Pathway 196 216	seed storage protein
+T11	Pathway 249 276	synthesis of storage lipids
+T12	Genotype 434 441	dcl1-15
+T13	Gene 450 454	FUS3
+T14	Gene 456 460	LEC2
+T15	Gene 462 465	L1L
+T16	Protein_Family 479 483	MYBs
+T17	Protein_Family 488 493	bZIPs
+T18	Gene 518 522	ABI3
+T19	Gene_Family 518 522	ABI3
+T20	Gene 542 546	LEC1
+T21	Genotype 591 600	wild type
+T22	Gene 606 610	FUS3
+T23	Gene 615 619	LEC2
+T24	Tissue 673 686	embryo proper
+T25	Development_Phase 687 714	until the early heart stage
+T26	Development_Phase 721 755	before the beginning of maturation
+T27	Genotype 760 767	dcl1-15
+T28	Tissue 795 808	embryo proper
+T29	Development_Phase 825 845	early globular stage
+T30	Pathway 876 900	chlorophyll accumulation
+T31	Genotype 908 914	mutant
+T32	Genotype 932 946	lec2-1 dcl1-15
+T33	Genotype 951 965	fus3-3 dcl1-15
+T34	Development_Phase 1030 1046	early maturation
+T35	RNA 1106 1112	miRNAs

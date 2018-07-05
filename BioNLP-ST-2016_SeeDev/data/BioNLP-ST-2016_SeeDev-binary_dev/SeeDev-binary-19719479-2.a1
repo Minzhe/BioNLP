@@ -1,0 +1,166 @@
+T1	Pathway 10 55	biochemical pathways producing storage lipids
+T2	Genotype 59 74	oilseed species
+T3	Genotype 80 94	Brassica napus
+T4	Genotype 98 118	Arabidopsis thaliana
+T5	Regulatory_Network 193 220	regulation of oil synthesis
+T6	Pathway 207 220	oil synthesis
+T7	Tissue 318 334	developing seeds
+T8	Tissue 342 349	embryos
+T10	Pathway 376 402;418 424	biosynthetic pathways for lipids
+T9	Pathway 376 413	biosynthetic pathways for fatty acids
+T11	Genotype 548 559	A. thaliana
+T12	Pathway 693 716	fatty-acid biosynthesis
+T13	Pathway 721 737	lipid metabolism
+T15	Tissue 745 749	seed
+T14	Development_Phase 745 760	seed maturation
+T16	Pathway 805 817;830 849	biosynthesis of triacylglycerols
+T17	Pathway 822 849	storage of triacylglycerols
+T18	Pathway 950 970	fatty acid synthesis
+T19	Development_Phase 1030 1059	onset of the maturation phase
+T20	Protein_Family 1120 1128	oleosins
+T21	RNA 1197 1275	mRNAs of several genes encoding enzymes of the fatty acid biosynthetic pathway
+T22	Pathway 1244 1275	fatty acid biosynthetic pathway
+T23	Protein 1528 1537	WRINKLED1
+T24	Protein 1539 1543	WRI1
+T25	Protein 1640 1644	WRI1
+T26	Protein 1667 1683	LEAFY COTYLEDON2
+T27	Protein 1685 1689	LEC2
+T29	Tissue 1756 1760	seed
+T28	Development_Phase 1756 1771	seed maturation
+T30	Pathway 1780 1801	fatty acid metabolism
+T31	Protein 1844 1848	WRI1
+T32	Pathway 1867 1882	late glycolysis
+T33	Pathway 1888 1908	fatty acid synthesis
+T34	Pathway 1926 1932;1949 1970	biotin biosynthetic pathways
+T35	Pathway 1937 1970	lipoic acid biosynthetic pathways
+T36	Protein 2014 2018	WRI1
+T38	Protein 2038 2046	APETALA2
+T37	Protein_Family 2038 2082;2095 2103	APETALA2/ethylene-responsive element binding proteins
+T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins
+T41	Protein 2084 2087	AP2
+T40	Protein_Family 2084 2093	AP2/EREBP
+T42	Protein_Family 2088 2093	EREBP
+T43	Genotype 2157 2168	A. thaliana
+T44	Protein_Domain 2241 2251	AP2 domain
+T45	Protein 2241 2244	AP2
+T47	Protein 2418 2421	AP2
+T46	Protein_Family 2418 2427	AP2/EREBP
+T48	Protein_Family 2422 2427	EREBP
+T49	Genotype 2469 2475	plants
+T50	Protein_Domain 2515 2525	AP2 domain
+T51	Protein 2515 2518	AP2
+T52	Genotype 2550 2563	cyanobacteria
+T53	Genotype 2565 2573	ciliates
+T54	Genotype 2578 2585	viruses
+T55	Protein_Domain 2747 2763	AP2-like domains
+T56	Protein 2747 2750	AP2
+T58	Protein 2814 2817	AP2
+T57	Protein_Family 2814 2823	AP2/EREBP
+T59	Protein_Family 2818 2823	EREBP
+T60	Genotype 2834 2845	A. thaliana
+T62	Protein 2871 2874	AP2
+T61	Protein_Family 2871 2880	AP2/EREBP
+T63	Protein_Family 2875 2880	EREBP
+T64	Protein_Domain 2944 2955	AP2 domains
+T65	Protein 2944 2947	AP2
+T66	Protein_Family 2995 3000	EREBP
+T67	Protein_Domain 3042 3052	AP2 domain
+T68	Protein 3042 3045	AP2
+T69	Protein_Family 3095 3098	ERF
+T70	Protein_Family 3116 3120	DREB
+T71	Protein_Family 3163 3166	RAV
+T72	Protein_Domain 3200 3210	AP2 domain
+T73	Protein 3200 3203	AP2
+T74	Protein_Domain 3248 3262	B3-like domain
+T76	Protein 3269 3272	AP2
+T75	Protein_Family 3269 3279	AP2 family
+T77	Protein_Domain 3308 3319	AP2 domains
+T78	Protein 3308 3311	AP2
+T79	Protein_Family 3374 3387	APETALA2-like
+T80	Protein_Family 3392 3404;3410 3415	AINTEGUMENTA -like
+T81	Protein_Family 3406 3409;3410 3415	ANT -like
+T83	Protein 3459 3463	WRI1
+T82	Protein_Family 3459 3468	WRI1-like
+T84	Protein 3488 3492	WRI1
+T85	Gene 3494 3503	At2g41710
+T86	Gene 3505 3514	At1g16060
+T87	Gene 3519 3528	At1g79700
+T89	Protein 3587 3590	AP2
+T88	Protein_Family 3587 3597	AP2 family
+T90	Protein_Family 3645 3653	ANT-like
+T91	Protein_Domain 3759 3769	AP2 repeat
+T92	Protein 3759 3762	AP2
+T93	Protein_Family 3787 3790	ERF
+T94	Box 3809 3835	ethylene response elements
+T95	Box 3837 3840	ERE
+T96	Box 3845 3854	GCC boxes
+T97	Box 3896 3908	TAAGAGGCCGCC
+T98	Box 3923 3929	GCCGCC
+T99	Protein_Domain 4069 4079	AP2 domain
+T100	Protein 4069 4072	AP2
+T101	Protein 4083 4089	AtERF1
+T102	Box 4103 4110	GCC box
+T103	Protein_Family 4169 4183	DREB subfamily
+T104	Box 4192 4221	dehydration response elements
+T105	Box 4223 4227	DREs
+T106	Box 4268 4273	CCGAC
+T107	Protein_Domain 4307 4317	AP2 repeat
+T108	Protein 4307 4310	AP2
+T109	Protein 4325 4329	RAV1
+T110	Box 4379 4384	CAACA
+T111	Protein_Domain 4404 4413	B3 domain
+T112	Box 4425 4431	CACCTG
+T114	Protein 4526 4529	AP2
+T113	Protein_Family 4526 4536	AP2 family
+T115	Protein 4594 4606	AINTEGUMENTA
+T116	Protein 4608 4611	ANT
+T117	Environmental_Factor 4632 4640	in vitro
+T118	Box 4644 4682	5′-gCAC(A/G)N(A/T)TcCC(a/g)ANG(c/t)-3′
+T119	Protein_Domain 4799 4809	AP2 repeat
+T120	Protein 4799 4802	AP2
+T121	Protein_Domain 4816 4826	AP2 repeat
+T122	Protein 4816 4819	AP2
+T123	Protein 4830 4833	ANT
+T124	Protein 4913 4916	ANT
+T125	Protein_Domain 5008 5018	AP2 domain
+T126	Protein 5008 5011	AP2
+T128	Protein 5122 5125	AP2
+T127	Protein_Family 5122 5130	AP2-like
+T130	Protein 5135 5139	WRI1
+T129	Protein_Family 5135 5144	WRI1-like
+T132	Protein 5239 5242	AP2
+T131	Protein_Family 5239 5249	AP2 family
+T133	Protein 5323 5327	WRI1
+T134	Tissue 5345 5349	seed
+T135	Gene_Family 5404 5414;5430 5448	glycolytic biosynthetic genes
+T136	Gene_Family 5419 5448	fatty acid biosynthetic genes
+T137	Protein 5547 5551	WRI1
+T138	Genotype 5572 5581	in planta
+T139	Gene 5602 5607	BCCP2
+T140	Promoter 5602 5607;5619 5628	BCCP2 promoters
+T142	Gene 5612 5618	PKp-β1
+T141	Promoter 5612 5628	PKp-β1 promoters
+T143	Environmental_Factor 5685 5701	yeast one-hybrid
+T144	Protein 5724 5728	WRI1
+T146	Gene 5758 5763	BCCP2
+T145	Promoter 5758 5772	BCCP2 promoter
+T147	Protein 5810 5814	WRI1
+T148	Gene_Family 5846 5860	lipogenic gene
+T149	Tissue 5875 5880	seeds
+T150	Development_Phase 5952 5981	onset of the maturation phase
+T151	Gene 6013 6019	PKp-β1
+T152	Promoter 6013 6019;6030 6039	PKp-β1 promoters
+T154	Gene 6024 6029	BCCP2
+T153	Promoter 6024 6039	BCCP2 promoters
+T155	Protein 6124 6128	WRI1
+T156	Protein 6246 6250	WRI1
+T158	Gene 6259 6264	BCCP2
+T157	Promoter 6259 6273	BCCP2 promoter
+T159	Environmental_Factor 6280 6288	in vitro
+T160	Genotype 6296 6301	yeast
+T161	Genotype 6343 6352	in planta
+T162	Pathway 6474 6484;6500 6521	glycolytic biosynthetic pathways
+T163	Pathway 6489 6521	fatty acid biosynthetic pathways
+T164	Genotype 6525 6536	A. thaliana
+T165	Pathway 6637 6653	oil accumulation
+T166	Tissue 6657 6662	seeds

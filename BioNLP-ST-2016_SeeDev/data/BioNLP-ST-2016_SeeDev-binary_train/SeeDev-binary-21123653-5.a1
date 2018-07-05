@@ -1,0 +1,199 @@
+T1	Gene 23 27	DCL1
+T2	Development_Phase 45 75	embryonic cell differentiation
+T3	Genotype 132 138	dcl1-5
+T4	Tissue 139 146	embryos
+T6	Gene 148 173	WUSCHEL-related HOMEOBOX2
+T5	RNA 148 174;180 192	WUSCHEL-related HOMEOBOX2 transcripts
+T7	Gene 175 179	WOX2
+T8	RNA 175 179;181 192	WOX2 transcripts
+T9	Tissue 214 236;259 266	apical cell lineage of embryos
+T10	Genotype 237 266	wild-type preglobular embryos
+T11	Development_Phase 247 258	preglobular
+T12	Tissue 259 266	embryos
+T13	Development_Phase 290 319	After the two/four-cell stage
+T15	Gene 321 325	WOX2
+T14	RNA 321 337	WOX2 transcripts
+T16	Development_Phase 378 388	eight-cell
+T17	Development_Phase 393 409	dermatogen stage
+T18	Tissue 410 417	embryos
+T19	Genotype 464 495	self-pollinated dcl1-5/+ plants
+T20	Genotype 526 532	dcl1-5
+T21	Tissue 533 540	embryos
+T22	Gene 558 562	WOX2
+T23	Gene 586 590	WOX2
+T24	Gene 592 599	PINHEAD
+T25	RNA 592 599;619 630	PINHEAD transcripts
+T26	Gene 600 606	ZWILLE
+T27	RNA 600 606;619 630	ZWILLE transcripts
+T29	Gene 607 618	ARGONAUTE10
+T28	RNA 607 630	ARGONAUTE10 transcripts
+T30	Gene_Family 657 660	PNH
+T31	Tissue 683 702	apical cell lineage
+T32	Development_Phase 706 717	preglobular
+T33	Tissue 718 725	embryos
+T34	Development_Phase 778 788	eight-cell
+T35	Development_Phase 793 809	dermatogen stage
+T36	Tissue 810 817	embryos
+T37	Genotype 823 845	selfed dcl1-5/+ plants
+T39	Gene 871 874	PNH
+T38	RNA 871 886	PNH transcripts
+T41	Tissue 904 915	apical cell
+T40	Regulatory_Network 904 920	apical cell fate
+T42	Development_Phase 956 967	preglobular
+T43	Genotype 968 972	dcl1
+T44	Tissue 973 980	embryos
+T45	Gene 1019 1023	WOX2
+T46	RNA 1019 1023;1038 1049	WOX2 transcripts
+T47	Gene 1028 1031	PNH
+T48	RNA 1028 1031;1038 1049	PNH transcripts
+T50	Gene 1033 1037	WOX8
+T49	RNA 1033 1049	WOX8 transcripts
+T51	Tissue 1071 1089	basal cell lineage
+T52	Development_Phase 1093 1104	preglobular
+T53	Genotype 1105 1114	wild-type
+T54	Tissue 1115 1122	embryos
+T56	Gene 1146 1150	WOX8
+T55	RNA 1146 1162	WOX8 transcripts
+T57	Development_Phase 1198 1208	eight-cell
+T58	Development_Phase 1213 1229	dermatogen stage
+T59	Tissue 1230 1237	embryos
+T60	Genotype 1243 1265	selfed dcl1-5/+ plants
+T62	Tissue 1283 1301	basal cell lineage
+T61	Regulatory_Network 1283 1317	basal cell lineage differentiation
+T63	Development_Phase 1342 1353	preglobular
+T64	Genotype 1354 1358	dcl1
+T65	Tissue 1359 1366	embryos
+T66	Genotype 1384 1388	dcl1
+T67	Tissue 1389 1396	embryos
+T68	Regulatory_Network 1412 1457	defects in the differentiation of apical cell
+T69	Regulatory_Network 1412 1445;1466 1476	defects in the differentiation of basal cell
+T70	Tissue 1446 1457	apical cell
+T71	Tissue 1466 1476	basal cell
+T72	Development_Phase 1505 1521	eight-cell stage
+T73	Gene 1539 1543	DCL1
+T74	Development_Phase 1560 1577	radial patterning
+T75	Gene 1668 1695	A. thaliana MERISTEM LAYER1
+T76	RNA 1668 1695;1735 1746	A. thaliana MERISTEM LAYER1 transcripts
+T77	Genotype 1668 1679	A. thaliana
+T78	Gene 1697 1702	ATML1
+T79	RNA 1697 1702;1735 1746	ATML1 transcripts
+T80	Gene 1708 1727	PROTODERMAL FACTOR1
+T81	RNA 1708 1727;1735 1746	PROTODERMAL FACTOR1 transcripts
+T82	Gene 1729 1733	PDF1
+T83	RNA 1729 1733;1735 1746	PDF1 transcripts
+T84	Tissue 1769 1778	protoderm
+T85	Tissue 1792 1804	subprotoderm
+T86	Development_Phase 1809 1823	globular stage
+T87	Tissue 1824 1831	embryos
+T88	Gene 1867 1872	ATML1
+T89	RNA 1867 1872;1882 1893	ATML1 transcripts
+T91	Gene 1877 1881	PDF1
+T90	RNA 1877 1893	PDF1 transcripts
+T92	Tissue 1930 1939	protoderm
+T93	Development_Phase 1943 1957	globular stage
+T94	Genotype 1958 1964	dcl1-5
+T95	Tissue 1965 1972	embryos
+T96	Tissue 2012 2022	suspensors
+T97	Genotype 2026 2032	dcl1-5
+T98	Tissue 2033 2040	embryos
+T99	Genotype 2047 2056	wild-type
+T100	Development_Phase 2078 2095	early heart stage
+T101	Tissue 2213 2219	embryo
+T102	Pathway 2236 2249	starch grains
+T103	Pathway 2254 2268	protein bodies
+T104	Tissue 2276 2286	suspensors
+T105	Development_Phase 2290 2300;2311 2318	late stage embryos
+T106	Genotype 2301 2305	sus1
+T107	Genotype 2306 2310	dcl1
+T108	Tissue 2311 2318	embryos
+T109	Development_Phase 2381 2410	subprotodermal cell divisions
+T110	Genotype 2414 2418	dcl1
+T112	Development_Phase 2419 2432	late globular
+T111	Development_Phase 2419 2450	late globular/early heart stage
+T113	Development_Phase 2433 2450	early heart stage
+T114	Tissue 2451 2458	embryos
+T116	Gene 2490 2495	RPS5A
+T115	RNA 2490 2507	RPS5A transcripts
+T117	Tissue 2715 2724	protoderm
+T118	Tissue 2740 2749	suspensor
+T119	Development_Phase 2751 2759	globular
+T120	Genotype 2760 2766	dcl1-5
+T121	Tissue 2767 2777	suspensors
+T123	Gene 2800 2804	WOX8
+T122	RNA 2800 2816	WOX8 transcripts
+T124	Tissue 2841 2851	hypophysis
+T125	Genotype 2883 2887	dcl1
+T126	Development_Phase 2888 2896	globular
+T127	Tissue 2897 2904	embryos
+T128	Regulatory_Network 2966 3001	defective hypophysis cell divisions
+T129	Development_Phase 2976 3001	hypophysis cell divisions
+T130	Genotype 3014 3018	dcl1
+T131	Tissue 3019 3026	embryos
+T132	Tissue 3040 3050	hypophysis
+T134	Tissue 3078 3088	hypophysis
+T133	Regulatory_Network 3078 3104	hypophysis is misspecified
+T135	Genotype 3108 3112	dcl1
+T136	Tissue 3113 3120	embryos
+T137	Genotype 3126 3131	plant
+T138	Hormone 3140 3145	auxin
+T139	Tissue 3170 3183	embryo proper
+T140	Tissue 3191 3213	presumptive hypophysis
+T141	Regulatory_Network 3233 3257	hypophysis specification
+T142	Hormone 3330 3335	auxin
+T143	Gene 3357 3385	DR5rev promoter fused to GFP
+T144	Promoter 3357 3372	DR5rev promoter
+T145	Gene 3382 3385	GFP
+T146	Gene 3387 3397	DR5rev∷GFP
+T147	Promoter 3387 3393	DR5rev
+T148	Gene 3394 3397	GFP
+T149	Tissue 3429 3475	hypophysis cells of wild-type globular embryos
+T150	Genotype 3449 3458	wild-type
+T151	Development_Phase 3459 3467	globular
+T152	Tissue 3468 3475	embryos
+T153	Regulatory_Network 3501 3525	hypophysis specification
+T154	Genotype 3542 3546	dcl1
+T155	Tissue 3547 3554	embryos
+T156	Gene 3584 3594	DR5rev∷GFP
+T157	Promoter 3584 3590	DR5rev
+T158	Gene 3591 3594	GFP
+T159	Genotype 3598 3604	dcl1-5
+T160	Tissue 3605 3612	embryos
+T161	Gene 3629 3633	DCL1
+T162	Regulatory_Network 3663 3678	auxin signaling
+T163	Hormone 3663 3668	auxin
+T164	Tissue 3689 3700;3708 3724	presumptive hypophysis cells
+T165	Genotype 3701 3707	dcl1-5
+T166	Gene 3741 3751	DR5rev∷GFP
+T167	Promoter 3741 3747	DR5rev
+T168	Gene 3748 3751	GFP
+T169	Tissue 3777 3799	presumptive hypophysis
+T170	Genotype 3800 3832	ectopically expressed DR5rev∷GFP
+T171	Gene 3822 3832	DR5rev∷GFP
+T172	Promoter 3822 3828	DR5rev
+T173	Gene 3829 3832	GFP
+T174	Gene 3855 3859	DCL1
+T176	Tissue 3880 3890	hypophysis
+T175	Regulatory_Network 3880 3927	hypophysis-specific increase in auxin signaling
+T177	Hormone 3912 3917	auxin
+T179	Tissue 3946 3960	subprotodermal
+T178	Regulatory_Network 3946 3968	subprotodermal defects
+T180	Genotype 3981 3985	dcl1
+T181	Tissue 3986 3993	embryos
+T182	Regulatory_Network 3999 4028	inappropriate auxin signaling
+T183	Hormone 4013 4018	auxin
+T184	Genotype 4041 4045	dcl1
+T185	Tissue 4046 4053	embryos
+T186	Regulatory_Network 4076 4099;4123 4146	incorrect expression of auxin signaling factors
+T188	Hormone 4100 4105	auxin
+T187	Pathway 4100 4115	auxin transport
+T189	Hormone 4123 4128	auxin
+T190	Regulatory_Network 4163 4185	auxin response defects
+T191	Hormone 4163 4168	auxin
+T192	Genotype 4198 4202	dcl1
+T193	Tissue 4203 4210	embryos
+T196	Tissue 4251 4263	subprotoderm
+T195	Development_Phase 4251 4284	subprotoderm cell differentiation
+T194	Regulatory_Network 4251 4292	subprotoderm cell differentiation defects
+T198	Tissue 4333 4352	apical cell lineage
+T197	Regulatory_Network 4333 4360	apical cell lineage defects
+T199	Development_Phase 4377 4395	preglobular stages

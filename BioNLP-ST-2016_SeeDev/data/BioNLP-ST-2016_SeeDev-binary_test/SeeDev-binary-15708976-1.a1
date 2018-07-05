@@ -1,0 +1,60 @@
+T1	Genotype 0 11	Arabidopsis
+T2	Gene 12 20	APETALA2
+T3	Gene 22 25	AP2
+T4	Protein_Family 51 60	AP2/EREBP
+T5	Protein 51 54	AP2
+T6	Protein_Family 55 60	EREBP
+T7	Protein_Family 62 105	ethylene responsive element binding protein
+T8	Regulatory_Network 161 199	specification of floral organ identity
+T9	Development_Phase 178 199	floral organ identity
+T10	Regulatory_Network 201 242	establishment of floral meristem identity
+T11	Development_Phase 218 242	floral meristem identity
+T12	Regulatory_Network 244 289	suppression of floral meristem indeterminancy
+T13	Development_Phase 259 289	floral meristem indeterminancy
+T15	Regulatory_Network 295 313;324 333	development of the seed coat
+T14	Regulatory_Network 295 319	development of the ovule
+T16	Tissue 314 319	ovule
+T18	Tissue 324 333	seed coat
+T17	Tissue 324 333	seed coat
+T19	Genotype 354 374	loss-of-function ap2
+T21	Tissue 406 410	seed
+T20	Regulatory_Network 406 415	seed mass
+T22	Genotype 436 445	wild-type
+T23	Tissue 446 451	seeds
+T24	Genotype 486 489	ap2
+T26	Tissue 525 529	seed
+T25	Regulatory_Network 525 534	seed mass
+T27	Regulatory_Network 569 596	defects in flower structure
+T28	Tissue 580 586	flower
+T29	Gene 614 617	AP2
+T31	Tissue 647 651	seed
+T30	Regulatory_Network 647 656	seed mass
+T32	Genotype 675 694	male-sterile plants
+T33	Genotype 699 726	deflowered wild-type plants
+T34	Regulatory_Network 747 756	fertility
+T35	Genotype 760 777	ap2 mutant plants
+T36	Regulatory_Network 785 810	abnormal flower structure
+T37	Tissue 794 800	flower
+T39	Tissue 854 858	seed
+T38	Regulatory_Network 854 863	seed mass
+T40	Genotype 874 899	strong ap2 mutant alleles
+T41	Gene 942 945	AP2
+T43	Tissue 973 977	seed
+T42	Regulatory_Network 973 982	seed mass
+T44	Gene 1007 1010	AP2
+T46	Tissue 1014 1018	seed
+T45	Regulatory_Network 1014 1023	seed mass
+T48	Regulatory_Network 1037 1050;1056 1074	regulation of embryo cell number
+T47	Regulatory_Network 1037 1050;1079 1088	regulation of cell size
+T49	Tissue 1056 1062	embryo
+T50	Genotype 1111 1114	ap2
+T51	Pathway 1146 1172	ratio of hexose to sucrose
+T53	Tissue 1180 1184	seed
+T52	Development_Phase 1180 1196	seed development
+T54	Gene 1227 1230	AP2
+T56	Tissue 1243 1247	seed
+T55	Regulatory_Network 1243 1252	seed mass
+T57	Pathway 1276 1292	sugar metabolism
+T58	Gene 1338 1341	AP2
+T60	Tissue 1357 1361	seed
+T59	Regulatory_Network 1357 1366	seed mass

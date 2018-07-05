@@ -1,0 +1,87 @@
+T1	Protein 0 4	WRI1
+T2	Box 18 24	AW-box
+T4	Protein 50 54	WRI1
+T3	Box 50 68	WRI1 binding sites
+T5	Promoter 76 103	upstream regions of Pl-PKβ1
+T6	Promoter 76 95;105 109	upstream regions of KAS1
+T8	Promoter 76 95;122 126	upstream regions of SUS2
+T7	Promoter 76 95;111 116	upstream regions of BCCP2
+T9	Gene 96 103	Pl-PKβ1
+T10	Gene 105 109	KAS1
+T11	Gene 111 116	BCCP2
+T12	Gene 122 126	SUS2
+T13	Box 151 157	AW-box
+T14	Box 167 188	5′-[CnTnG](n)7[CG]-3′
+T15	Box 240 257	AW-box of Pl-PKβ1
+T16	Gene 250 257	Pl-PKβ1
+T17	Protein 328 332	WRI1
+T18	Genotype 382 393	Arabidopsis
+T19	Protein 394 397	ANT
+T20	Protein 508 511	ANT
+T22	Protein 542 545	AP2
+T21	Protein_Domain 542 553	AP2 domains
+T23	Box 625 663	5′-gCAC(A/G)N(A/T)TcCC(a/g)ANG(c/t)-3′
+T24	Box 709 715	AW-box
+T26	Protein 803 806	ANT
+T25	Box 803 807;817 829	ANT- binding site
+T28	Protein 812 816	WRI1
+T27	Box 812 829	WRI1-binding site
+T30	Protein 905 908	AP2
+T29	Protein_Domain 905 915	AP2 domain
+T31	Box 921 962	3′-half of the 16-bp ANT-binding sequence
+T32	Protein 942 945	ANT
+T33	Box 981 994	DRE sequences
+T34	Box 996 1001	CCGAC
+T36	Protein 1013 1018	EREBP
+T35	Protein_Family 1013 1023	EREBP-like
+T38	Protein 1031 1034	AP2
+T37	Protein_Domain 1031 1041	AP2 domain
+T40	Protein 1077 1080	AP2
+T39	Protein_Domain 1077 1088	AP2 domains
+T41	Protein 1092 1095	ANT
+T42	Box 1182 1244	opposite strand sequence of the ANT-binding consensus sequence
+T44	Protein 1214 1217	ANT
+T43	Box 1214 1244	ANT-binding consensus sequence
+T45	Box 1246 1285	5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′
+T46	Box 1297 1304	[CnTnG]
+T47	Box 1317 1323	AW-box
+T48	Box 1377 1379	TG
+T49	Box 1392 1394	CG
+T50	Box 1402 1408	AW-box
+T52	Protein 1414 1417	AP2
+T51	Protein_Family 1414 1444	AP2-type transcription factors
+T54	Tissue 1505 1513	meristem
+T53	Regulatory_Network 1505 1522	meristem function
+T55	Development_Phase 1527 1544	organ development
+T56	Tissue 1527 1532	organ
+T57	Protein 1559 1562	AP2
+T59	Tissue 1700 1704	seed
+T58	Regulatory_Network 1700 1709	seed size
+T60	Protein 1731 1734	ANT
+T61	Development_Phase 1745 1762	ovule development
+T62	Tissue 1745 1750	ovule
+T63	Development_Phase 1767 1786	floral organ growth
+T64	Tissue 1767 1779	floral organ
+T65	Protein 1843 1852	PLETHORA1
+T66	Protein 1854 1858	PLT1
+T67	Protein 1864 1868	PLT2
+T69	Tissue 1886 1895	stem cell
+T68	Regulatory_Network 1886 1909	stem cell specification
+T70	Regulatory_Network 1886 1895;1914 1925	stem cell maintenance
+T71	Tissue 1933 1946	root meristem
+T72	Protein_Family 1972 2003	AP-2 type transcription factors
+T73	Genotype 2017 2022	plant
+T74	Protein 2102 2106	WRI1
+T75	Protein 2138 2142	WRI1
+T76	Protein 2143 2148	ASML1
+T77	Protein 2164 2168	WAT1
+T78	Gene 2170 2179	At1g16060
+T79	Protein 2189 2193	WAT2
+T80	Gene 2195 2204	At1g79700
+T81	Genotype 2210 2221	Arabidopsis
+T82	Protein 2260 2263	ANT
+T84	Protein 2330 2333	AP2
+T83	Protein_Family 2330 2338	AP2-type
+T85	Protein_Family 2437 2476	double AP2 domain transcription factors
+T87	Protein 2444 2447	AP2
+T86	Protein_Domain 2444 2454	AP2 domain

@@ -1,0 +1,31 @@
+Membrane-located leucine-rich repeat receptor-like kinases (LRR-RLKs) play important roles in plant signaling pathways. For
+example, the Arabidopsis thaliana CLAVATA1 (CLV1), BRASSINOSTEROID-INSENSITIVE1 (BRI1), ERECTA, rice (Oryza sativa) Xa21, HAESA-RLK5, and FLS2 genes were shown to function in shoot meristem maintenance, hormone perception, organ elongation,
+disease resistance, abscission, and flagellin signaling, respectively (reviewed in Torii, 2004). Extensive genetic and biochemical studies have been undertaken to identify additional components of different signaling
+pathways. For example, negative and positive regulators of brassinosteroid (BR) signaling were identified as the GSK-3/Shaggy-like
+kinase called BRASSINOSTEROID-INSENSITIVE2 (BIN2) (Li and Nam, 2002) and the nucleus-localized Ser/Thr phosphatase bri1 Suppressor1 family (Mora-Garcia et al., 2004), respectively. Their potential substrates are the nuclear proteins BRASSINAZOLE-RESISTANT1 (BZR1) (Wang et al., 2002b) and bri1-EMS-SUPPRESSOR1 (BES1) (Yin et al., 2002).
+We previously identified Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1 (SERK1), an LRR-RLK that marks the formation of embryogenic cells in culture
+and is expressed in ovule primordia and in both male and female gametophytes. In sporophytic tissues, SERK1 has a complex
+expression pattern, with expression being highest in the vascular tissue of all organs (Hecht et al., 2001; Albrecht et al., 2005; Kwaaitaal et al., 2005). Ectopic expression of SERK1 does not result in an obvious phenotype in Arabidopsis plants but increases somatic embryo formation in culture (Hecht et al., 2001). SERK1 is a member of a small family of five related RLKs, all of which have five LRRs and a typical Ser-Pro–rich juxtamembrane
+region (Hecht et al., 2001). The SERK1 knockout alleles serk1-1 and serk1-2 did not have a morphological phenotype but in combination with a serk2 null mutant resulted in complete male-sterile plants (Albrecht et al., 2005; Colcombet et al., 2005). SERK3 or BRI1-ASSOCIATED RECEPTOR KINASE1 (BAK1) is part of the BR receptor complex and is proposed to function as a coreceptor
+of the BRI1 protein (Li et al., 2002; Nam and Li, 2002). Recently, we showed that in living plant cells BRI1 and SERK3 interaction occurred in restricted areas of the membrane
+and recycled upon internalization by endocytosis (Russinova et al., 2004).
+SERK1 was shown to interact with the KINASE-ASSOCIATED PROTEIN PHOSPHATASE (KAPP) that is postulated to play a role in receptor
+internalization (Shah et al., 2002). Using a yeast two-hybrid screen, two additional SERK1-interacting proteins, CDC48A and 14-3-3λ, were found (Rienties et
+al., 2005). These interactions suggested analogy with the mammalian CDC48 homologue p97/VCP complex, in which p97/VCP can be phosphorylated
+by the JAK-2 kinase and dephosphorylated by the phosphatase PTPH1 that associates with a 14-3-3 protein (Zhang et al., 1997, 1999). KAPP has also been reported to interact with other LRR-RLKs such as HAESA, WALL-ASSOCIATED KINASE1, FLS2, and CLV1 (reviewed
+in Becraft, 2002). Transgenic studies indicate that KAPP functions as a negative regulator of CLV1 and FLS2 signaling (Williams et al., 1997; Stone et al., 1998; Gomez-Gomez et al., 2001).
+Identification of proteins can now be performed at high sensitivity by specific proteolytic digestion and determination of
+the peptide masses by mass spectrometry. This technique has been used for a systematic study of multiprotein complexes. For
+the epidermal growth factor receptor, a human receptor Tyr kinase, immunoprecipitation combined with matrix-assisted laser
+desorption ionization–time of flight/mass spectrometry (MALDI-TOF/MS) was used to identify components of the epidermal growth
+factor receptor signaling complex (Pandey et al., 2000). For only a few plant RLKs, the signaling complex has been defined. One example is the 105-kD CLV1 receptor that is found
+in two distinct protein complexes of 450 and 185 kD. The larger 450-kD complex requires functional CLV1 and CLV3 proteins
+for assembly and includes KAPP and a Rho GTPase-related protein (Trotochaud et al., 1999).
+In this study, we have determined the composition of the SERK1 complex(es) in vivo. We combined immunoprecipitation of cyan
+fluorescent protein (CFP)–tagged SERK1 with rapid liquid chromatography (LC)/MALDI-TOF/MS–based protein identification. Using
+this method, we confirmed the presence in the SERK1 signaling complex of CDC48A (Rienties et al., 2005) and KAPP (Shah et al., 2002). Additional proteins were also found, such as another member of the 14-3-3 family, 14-3-3ν, SERK3 (BAK1) and BRI1, the MADS
+box transcription factor AGAMOUS-LIKE15 (AGL15), and an uncharacterized zinc finger protein.
+In particular, the interaction between SERK1 and BRI1 was confirmed by a genetic experiment and fluorescence lifetime imaging
+microscopy (FLIM) to determine Förster resonance energy transfer (FRET) between fluorescently tagged receptors. Our data show
+that the method used here can distinguish between individual isoforms of related members of the same protein family, confirming
+and extending previous screens performed using the more commonly applied yeast two-hybrid method to find interacting partners.

@@ -1,0 +1,175 @@
+T1	Genotype 4 15	Arabidopsis
+T2	Gene 16 32	LEAFY COTYLEDON2
+T3	Gene 34 38	LEC2
+T4	Development_Phase 110 115;132 150	early embryo development
+T5	Development_Phase 120 124;132 150	late embryo development
+T6	Gene 152 156	LEC2
+T7	Regulatory_Network 177 212	maintenance of suspensor morphology
+T8	Tissue 192 201	suspensor
+T9	Regulatory_Network 214 249	specification of cotyledon identity
+T11	Tissue 231 240	cotyledon
+T10	Development_Phase 231 249	cotyledon identity
+T12	Regulatory_Network 251 291	progression through the maturation phase
+T13	Development_Phase 275 291	maturation phase
+T14	Regulatory_Network 312 333	premature germination
+T15	Development_Phase 322 333	germination
+T16	Gene 349 353	LEC2
+T17	Protein_Domain 453 462	B3 domain
+T18	Genotype 494 500	plants
+T19	RNA 573 581	LEC2 RNA
+T20	Development_Phase 611 627	seed development
+T21	Protein 662 666	LEC2
+T23	Protein_Domain 703 712	B3 domain
+T22	Protein_Family 703 734	B3 domain transcription factors
+T24	Tissue 757 773	developing seeds
+T25	Protein 775 786	VIVIPAROUS1
+T26	Protein 787 803	ABA INSENSITIVE3
+T27	Protein 808 814	FUSCA3
+T28	Genotype 816 823;825 878	Ectopic postembryonic expression of LEC2 in transgenic plants
+T29	Development_Phase 825 838	postembryonic
+T30	Gene 853 857	LEC2
+T32	Regulatory_Network 891 903;930 951	formation of organ-like structures
+T31	Regulatory_Network 891 919	formation of somatic embryos
+T33	Tissue 904 919	somatic embryos
+T34	Tissue 930 951	organ-like structures
+T35	Regulatory_Network 962 1008	confers embryonic characteristics to seedlings
+T36	Tissue 999 1008	seedlings
+T37	Protein 1047 1051	LEC2
+T38	Development_Phase 1146 1164	embryo development
+T39	Development_Phase 1166 1179	Embryogenesis
+T40	Genotype 1183 1199	flowering plants
+T41	Development_Phase 1216 1242	double fertilization event
+T42	Tissue 1256 1262	zygote
+T43	Tissue 1267 1276	endosperm
+T44	Tissue 1304 1315	sperm cells
+T46	Tissue 1325 1333	egg cell
+T45	Tissue 1325 1333;1351 1376	egg cell of the female gametophyte
+T48	Tissue 1338 1350	central cell
+T47	Tissue 1338 1376	central cell of the female gametophyte
+T49	Tissue 1358 1376	female gametophyte
+T50	Tissue 1396 1405	endosperm
+T51	Development_Phase 1426 1447	syncytial development
+T52	Tissue 1466 1493	nuclear-cytoplasmic domains
+T53	Tissue 1527 1544	developing embryo
+T54	Tissue 1565 1574	endosperm
+T55	Genotype 1588 1594	plants
+T56	Tissue 1605 1638	peripheral layer of the endosperm
+T57	Tissue 1629 1638	endosperm
+T58	Tissue 1654 1665	mature seed
+T59	Development_Phase 1667 1715	Development of the zygote into the mature embryo
+T60	Tissue 1686 1692	zygote
+T61	Tissue 1702 1715	mature embryo
+T62	Development_Phase 1781 1806	early morphogenesis phase
+T63	Genotype 1835 1840	plant
+T64	Regulatory_Network 1861 1904	expression of polarity as a shoot–root axis
+T65	Tissue 1889 1894	shoot
+T66	Tissue 1895 1899	root
+T67	Regulatory_Network 1906 1962	specification of morphological domains within the embryo
+T68	Tissue 1956 1962	embryo
+T69	Regulatory_Network 1968 1997	formation of embryonic tissue
+T70	Regulatory_Network 1968 1980;2002 2015	formation of organ systems
+T71	Tissue 1981 1997	embryonic tissue
+T72	Tissue 2002 2015	organ systems
+T73	Development_Phase 2027 2046	morphogenesis phase
+T74	Development_Phase 2064 2084	period of maturation
+T76	Tissue 2117 2121	seed
+T75	Development_Phase 2117 2131	seed formation
+T78	Pathway 2187 2194;2208 2214	storage lipids
+T77	Pathway 2187 2203	storage proteins
+T79	Tissue 2267 2271	seed
+T80	Development_Phase 2295 2311	maturation phase
+T81	Tissue 2321 2327	embryo
+T82	Regulatory_Network 2341 2373	ability to withstand desiccation
+T83	Development_Phase 2381 2412	final stage of seed development
+T84	Development_Phase 2421 2441	end of embryogenesis
+T85	Development_Phase 2428 2441	embryogenesis
+T86	Tissue 2447 2451	seed
+T87	Tissue 2474 2491	desiccated embryo
+T88	Development_Phase 2550 2563	embryogenesis
+T90	Tissue 2671 2677	embryo
+T89	Development_Phase 2671 2689	embryo development
+T91	Genotype 2695 2706	Arabidopsis
+T92	Gene_Family 2707 2722	LEAFY COTYLEDON
+T93	Gene_Family 2724 2727	LEC
+T94	Gene 2736 2740	LEC1
+T95	Gene 2742 2746	LEC2
+T96	Gene 2752 2758	FUSCA3
+T97	Gene 2760 2764	FUS3
+T99	Tissue 2797 2803	embryo
+T98	Development_Phase 2797 2815	embryo development
+T100	Development_Phase 2900 2913	embryogenesis
+T101	Gene_Family 2922 2925	LEC
+T102	Regulatory_Network 2973 2991	normal development
+T103	Development_Phase 3008 3021	morphogenesis
+T104	Development_Phase 3026 3043	maturation phases
+T105	Development_Phase 3045 3067	Early in embryogenesis
+T106	Development_Phase 3054 3067	embryogenesis
+T107	Gene_Family 3069 3072	LEC
+T108	Regulatory_Network 3103 3122	suspensor cell fate
+T109	Development_Phase 3127 3145	cotyledon identity
+T110	Development_Phase 3155 3176	Late in embryogenesis
+T111	Development_Phase 3163 3176	embryogenesis
+T112	Gene_Family 3178 3181	LEC
+T113	Development_Phase 3210 3226	maturation phase
+T114	Regulatory_Network 3235 3271	acquisition of desiccation tolerance
+T115	Pathway 3250 3271	desiccation tolerance
+T116	Development_Phase 3391 3401	maturation
+T117	Development_Phase 3411 3422	germination
+T118	Genotype 3428 3431	lec
+T119	Tissue 3439 3446	embryos
+T120	Regulatory_Network 3447 3495	prematurely activate the postgermination program
+T121	Gene_Family 3520 3523	LEC
+T122	Development_Phase 3581 3594	embryogenesis
+T123	Development_Phase 3654 3667	morphogenesis
+T124	Development_Phase 3672 3689	maturation phases
+T125	Gene_Family 3726 3729	LEC
+T126	Development_Phase 3771 3784	embryogenesis
+T127	Protein 3828 3832	LEC1
+T128	Protein_Family 3879 3929	HAP3 subunit of CCAAT-binding transcription factor
+T129	Protein_Family 3879 3891	HAP3 subunit
+T130	Protein_Complex 3895 3929	CCAAT-binding transcription factor
+T131	Box 3895 3900	CCAAT
+T132	Protein 3943 3947	LEC1
+T133	Genotype 3985 4011	Ectopic expression of LEC1
+T134	Gene 4007 4011	LEC1
+T135	Regulatory_Network 4020 4058	embryonic characteristics to seedlings
+T136	Tissue 4049 4058	seedlings
+T137	Regulatory_Network 4078 4139	formation of embryo-like structures on the surfaces of leaves
+T138	Tissue 4091 4139	embryo-like structures on the surfaces of leaves
+T139	Tissue 4091 4113	embryo-like structures
+T140	Tissue 4133 4139	leaves
+T141	Regulatory_Network 4193 4224	embryogenic competence to cells
+T142	Tissue 4219 4224	cells
+T143	Protein 4258 4262	LEC1
+T145	Tissue 4312 4318	embryo
+T144	Development_Phase 4312 4330	embryo development
+T146	Development_Phase 4373 4386	morphogenesis
+T147	Development_Phase 4391 4408	maturation phases
+T148	Gene 4410 4414	FUS3
+T149	Protein 4452 4482	B3 domain transcription factor
+T150	Protein_Domain 4452 4461	B3 domain
+T152	Tissue 4517 4521	seed
+T151	Development_Phase 4517 4533	seed development
+T153	Protein 4569 4573	FUS3
+T154	Development_Phase 4631 4641	maturation
+T155	Gene_Family 4658 4661	LEC
+T157	Tissue 4703 4709	embryo
+T156	Development_Phase 4703 4721	embryo development
+T158	Gene 4799 4803	LEC2
+T160	Tissue 4834 4840	embryo
+T159	Development_Phase 4834 4852	embryo development
+T161	Gene 4891 4895	LEC1
+T162	Gene 4900 4904	LEC2
+T163	Protein 4974 4978	LEC2
+T164	Regulatory_Network 5001 5011;5029 5050	initiation of embryo development
+T165	Regulatory_Network 5016 5050	coordination of embryo development
+T167	Tissue 5032 5038	embryo
+T166	Development_Phase 5032 5050	embryo development
+T168	Gene 5066 5070	LEC2
+T169	Development_Phase 5130 5143	embryogenesis
+T170	Tissue 5191 5195	seed
+T171	Genotype 5303 5357	transgenic plants expressing the LEC2 gene ectopically
+T172	Gene 5336 5340	LEC2
+T173	Regulatory_Network 5363 5378	somatic embryos
+T174	Gene 5418 5422	LEC2
+T175	Regulatory_Network 5447 5469	embryogenic competence

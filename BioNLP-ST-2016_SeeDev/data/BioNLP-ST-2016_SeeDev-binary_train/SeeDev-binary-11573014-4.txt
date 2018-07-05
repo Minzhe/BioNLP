@@ -1,0 +1,78 @@
+Role of LEC2 in Seed Development.
+Two consequences of expressing the LEC2 gene
+postembryonically provide insight into its role in embryo development
+and strongly support the conclusion that LEC2 is a key regulator of
+embryogenesis. First, although seedlings expressing the
+35S∷LEC2 gene exhibited a range of
+morphologies (Fig. 5), approximately one-third possessed embryonic
+rather than postgerminative characteristics. Cotyledons of these
+seedlings remained fleshy and did not expand, and their roots and
+hypocotyls did not extend, suggesting that ectopic LEC2
+expression can extend embryonic development.
+35S∷LEC2 seedlings at the other end of the
+phenotypic spectrum initially resembled wild type. The reason for this
+range of phenotypes is not clear, but one possibility is that it
+relates to differences in transgene expression levels. Second,
+regardless of their initial morphology,
+35S∷LEC2 seedlings gave rise to somatic
+embryos as indicated by their morphological similarities with zygotic
+embryos, their expression of embryo-specific genes, and their
+establishment of functional apical meristems (Figs. 5 and 6). Together,
+these results suggest that ectopic LEC2 expression is
+sufficient to establish an embryonic environment that promotes somatic
+embryo formation. In this regard, it is possible that LEC2
+RNA accumulation is regulated posttranscriptionally, thereby accounting
+for the ability of somatic embryos to “germinate” and, in some
+cases, give rise to masses of vegetatively growing plantlets.
+Transgenic seedlings ectopically expressing a different LEC
+gene, LEC1, have embryonic characteristics that are
+substantially similar to those of 35S∷LEC2
+embryo-like seedlings (12). Moreover, postembryonic expression of
+LEC1 is sufficient to induce somatic embryogenesis in
+transgenic plants as occurs with 35S∷LEC2
+seedlings, although somatic embryo formation is more robust with
+LEC2. Recessive mutations in the Arabidopsis
+PICKLE (PKL) gene also induce somatic embryogenesis in
+postgerminative roots cultured on hormone-free medium (40). However,
+LEC1 is expressed in the roots of pkl mutant but
+not wild-type seedlings (41). This result suggests that the
+chromodomain protein PKL acts normally to repress LEC1 in
+postgerminative roots, and therefore that LEC1, at least in part,
+mediates somatic embryo formation in pkl mutants. Given our
+results, we hypothesize that LEC2 may also be derepressed in
+pkl mutants.
+The ability of LEC2 and LEC1 to induce somatic
+embryogenesis suggests a role for the genes in the establishment of
+embryogenic competence. Somatic plant cells generally must be induced
+to become competent for somatic embryogenesis (42–44). Embryogenic
+competence is often induced by culturing cells with the hormone auxin
+and, sometimes cytokinin, although completion of somatic embryogenesis
+usually requires removal of the hormone(s). LEC2 and LEC1 obviate the
+need for hormone treatments in the acquisition of embryogenic
+competence, suggesting the two LEC transcription factors activate genes
+that play roles in the initiation of somatic embryogenesis. Our finding
+that both LEC2 and LEC1 RNAs are detected at the
+earliest embryonic stages tested (Fig. 4; ref. 12) opens the
+possibility that both genes are involved in establishing embryogenic
+competence during zygotic embryogenesis. Thus, the role of LEC2 and
+LEC1 in somatic embryogenesis may reflect their function in zygotic
+embryogenesis. Similarities in the expression patterns and
+overexpression phenotypes of LEC2 and LEC1
+suggest that they may have partially overlapping roles early in zygotic
+embryogenesis to induce embryo formation. This interpretation is
+consistent with analyses showing that lec1 lec2 double
+mutants arrest at an earlier embryonic stage than either single mutant,
+which indicates partial genetic redundancy (12, 15).
+Although LEC1 and LEC2 are each sufficient to
+induce embryogenic competence in somatic cells, they have similar but
+not identical functions. Mutations in each gene result in distinct
+phenotypes, and the double mutant displays a synergistic phenotype (12,
+15, 16). Furthermore, the vast majority of
+35S∷LEC1 seedlings arrest as embryo-like
+seedlings and fail to develop further, although cotyledon-like organs
+sometimes form in place of the first true leaves (12). By contrast,
+35S∷LEC2 embryo-like seedlings continued to
+proliferate, producing callus, cotyledon-like and leaf-like organs in
+addition to somatic embryos. Thus, LEC1 and LEC2 may have complementary
+but partially redundant functions in embryo formation. The precise
+roles of LEC1 and LEC2 in embryo development remain to be determined.

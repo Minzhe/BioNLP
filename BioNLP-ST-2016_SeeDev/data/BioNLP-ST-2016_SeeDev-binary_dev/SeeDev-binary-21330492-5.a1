@@ -1,0 +1,12 @@
+T1	Development_Phase 15 36	after the heart stage
+T2	Development_Phase 25 36	heart stage
+T3	Genotype 38 52	fus3-3 dcl1-15
+T4	Genotype 57 71	lec2-1 dcl1-15
+T5	Tissue 72 79	embryos
+T6	Gene 116 126	pAt2S3:GFP
+T7	Genotype 157 163	fus3-3
+T8	Genotype 167 173	lec2-1
+T9	Tissue 174 181	embryos
+T10	RNA 281 286	miRNA
+T11	Gene 339 343	LEC2
+T12	Gene 347 351	FUS3

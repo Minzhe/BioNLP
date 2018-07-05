@@ -1,0 +1,15 @@
+We identified gene coexpression networks in the transcriptome of developing Arabidopsis
+(Arabidopsis thaliana) seeds from the globular to mature embryo stages by analyzing publicly accessible
+microarray datasets. Genes encoding the known enzymes in the fatty acid biosynthesis
+pathway were found in one coexpression subnetwork (or cluster), while genes encoding
+oleosins and seed storage proteins were identified in another subnetwork with a distinct
+expression profile. In the triacylglycerol assembly pathway, only the genes encoding
+diacylglycerol acyltransferase 1 (DGAT1) and a putative cytosolic "type 3" DGAT exhibited
+a similar expression pattern with genes encoding oleosins. We also detected a large
+number of putative cis-acting regulatory elements in the promoter regions of these genes, and promoter motifs
+for LEC1 (LEAFY COTYLEDON 1), DOF (DNA-binding-with-One-Finger), GATA, and MYB transcription
+factors (TF), as well as SORLIP5 (Sequences Over-Represented in Light-Induced Promoters
+5), are overrepresented in the promoter regions of fatty acid biosynthetic genes.
+The conserved CCAAT motifs for B3-domain TFs and binding sites for bZIP (basic-leucine
+zipper) TFs are enriched in the promoters of genes encoding oleosins and seed storage
+proteins.

@@ -1,0 +1,191 @@
+T2	Tissue 6 12	embryo
+T1	Development_Phase 6 24	embryo development
+T3	Gene 89 106	LEAFY COTYLEDON 1
+T4	Gene 108 112	LEC1
+T5	Gene 115 124	LEC1-LIKE
+T6	Gene 115 119	LEC1
+T7	Gene 126 129	L1L
+T8	Gene_Family 136 153	B3 domain factors
+T9	Gene 155 172	LEAFY COTYLEDON 2
+T10	Gene 174 178	LEC2
+T11	Gene 181 187	FUSCA3
+T12	Gene 189 193	FUS3
+T13	Gene 200 227	ABSCISIC ACID INSENSITIVE 3
+T14	Gene_Family 229 233	ABI3
+T15	Genotype 238 249	Arabidopsis
+T16	Genotype 251 271	Arabidopsis thaliana
+T17	Development_Phase 382 392;409 420	maturation of the seed
+T18	Development_Phase 397 420	desiccation of the seed
+T19	Tissue 416 420	seed
+T20	Gene 428 441	VP1/ABI3-LIKE
+T21	Gene_Family 443 446	VAL
+T22	Protein_Family 461 472	B3 proteins
+T23	Protein_Domain 486 508	plant homeodomain-like
+T24	Protein_Domain 513 523	CW domains
+T25	Genotype 567 588	val monogenic mutants
+T26	Genotype 616 625	wild type
+T27	Genotype 627 650	val1 val2 double-mutant
+T28	Tissue 651 660	seedlings
+T29	Tissue 669 675	leaves
+T32	Tissue 688 714	embryo-like proliferations
+T31	Regulatory_Network 688 717;727 742	embryo-like proliferations in apical meristem
+T30	Regulatory_Network 688 722	embryo-like proliferations in root
+T33	Tissue 718 722	root
+T34	Tissue 727 742	apical meristem
+T35	Genotype 757 761	val1
+T36	Genotype 774 778	val2
+T37	Genotype 783 787	val3
+T38	Tissue 820 824	leaf
+T39	Gene_Family 847 850	VAL
+T40	Development_Phase 863 885	vegetative development
+T42	Gene 906 912	pickle
+T41	Genotype 906 912;919 925	pickle mutant
+T43	Gene 914 917	pkl
+T44	Regulatory_Network 927 965	inhibition of gibberellin biosynthesis
+T45	Pathway 941 965	gibberellin biosynthesis
+T46	Development_Phase 973 984	germination
+T47	Genotype 1017 1021	val1
+T48	Tissue 1022 1031	seedlings
+T49	Gene 1083 1087	LEC1
+T50	Gene 1089 1092	L1L
+T51	Gene 1094 1098	ABI3
+T52	Gene 1104 1108	FUS3
+T53	Genotype 1129 1138	val1 val2
+T54	Tissue 1139 1148	seedlings
+T55	Development_Phase 1227 1259	late-torpedo-stage embryogenesis
+T56	Development_Phase 1246 1259	embryogenesis
+T57	Protein_Family 1268 1271	VAL
+T59	Gene 1317 1321	LEC1
+T58	Gene_Family 1317 1336	LEC1/B3 gene system
+T60	Protein 1372 1376	ABI3
+T61	Protein 1377 1381	FUS3
+T62	Protein 1382 1386	LEC2
+T63	Protein_Domain 1387 1408	B3 DNA-binding domain
+T64	Box 1410 1416	Sph/RY
+T65	Promoter 1446 1455;1474 1496	promoters of VAL-repressed genes
+T66	Promoter 1460 1496	first introns of VAL-repressed genes
+T67	Gene_Family 1477 1480	VAL
+T68	Gene 1525 1529	LEC1
+T69	Gene 1534 1537	L1L
+T70	Gene_Family 1561 1564	VAL
+T71	Box 1573 1579	Sph/RY
+T72	Pathway 1616 1645	chromatin-mediated repression
+T73	Protein_Family 1670 1715	PKL-related CHD3 chromatin-remodeling factors
+T75	Tissue 1717 1723	Embryo
+T74	Development_Phase 1717 1735	Embryo development
+T76	Genotype 1739 1745	plants
+T77	Gene 1814 1831	LEAFY COTYLEDON 1
+T78	Gene 1833 1837	LEC1
+T79	Gene 1843 1852	LEC1-LIKE
+T80	Gene 1843 1847	LEC1
+T81	Gene 1854 1857	L1L
+T82	Gene_Family 1882 1893	HAP3 family
+T84	Box 1894 1899	CCAAT
+T83	Gene_Family 1894 1915	CCAAT-binding factors
+T86	Protein_Domain 1953 1962	B3 domain
+T85	Gene_Family 1953 1977	B3 domain protein family
+T87	Gene 1994 1998	LEC2
+T88	Gene 2000 2006	FUSCA3
+T89	Gene 2008 2012	FUS3
+T90	Gene_Family 2019 2032	ABSCISIC ACID
+T91	Gene_Family 2019 2032;2039 2052	ABSCISIC ACID INSENSITIVE 3
+T92	Gene_Family 2034 2037	ABA
+T93	Gene_Family 2054 2058	ABI3
+T95	Tissue 2342 2348	embryo
+T94	Development_Phase 2342 2358	embryo formation
+T96	Gene 2542 2546	LEC1
+T97	Gene 2551 2554	L1L
+T98	Development_Phase 2559 2581	early in embryogenesis
+T99	Protein_Family 2620 2643	B3 transcription factor
+T100	Development_Phase 2675 2732	transition from embryo morphogenesis to embryo maturation
+T102	Tissue 2691 2697	embryo
+T101	Development_Phase 2691 2711	embryo morphogenesis
+T104	Tissue 2715 2721	embryo
+T103	Development_Phase 2715 2732	embryo maturation
+T105	Regulatory_Network 2737 2773	acquisition of desiccation tolerance
+T106	Pathway 2752 2773	desiccation tolerance
+T107	Genotype 2775 2798	RNA interference of L1L
+T108	Gene 2795 2798	L1L
+T110	Tissue 2832 2838	embryo
+T109	Regulatory_Network 2832 2845	embryo arrest
+T111	Development_Phase 2853 2866	morphogenesis
+T112	Genotype 2897 2901	lec1
+T113	Tissue 2902 2909	embryos
+T114	Development_Phase 2919 2932	morphogenesis
+T115	Development_Phase 3004 3027	desiccation of the seed
+T116	Tissue 3023 3027	seed
+T118	Genotype 3069 3090;3099 3102	Ectopic expression of L1L
+T117	Genotype 3069 3095	Ectopic expression of LEC1
+T119	Gene 3091 3095	LEC1
+T120	Gene 3099 3102	L1L
+T122	Tissue 3127 3133	embryo
+T121	Regulatory_Network 3127 3164	embryo formation in vegetative organs
+T123	Tissue 3147 3164	vegetative organs
+T124	Genotype 3211 3215	lec1
+T125	Genotype 3217 3221	fus3
+T126	Genotype 3227 3231	lec2
+T127	Regulatory_Network 3256 3304	transformation of cotyledons to leaf-like organs
+T128	Tissue 3274 3284	cotyledons
+T129	Tissue 3288 3292	leaf
+T130	Genotype 3370 3374	fus3
+T131	Tissue 3382 3389	embryos
+T133	Genotype 3462 3479;3488 3492	Overexpression of FUS3
+T132	Genotype 3462 3484	Overexpression of LEC2
+T134	Gene 3480 3484	LEC2
+T135	Gene 3488 3492	FUS3
+T136	Regulatory_Network 3500 3560	ectopic expression of embryonic traits in vegetative tissues
+T137	Tissue 3542 3560	vegetative tissues
+T139	Gene 3599 3603	LEC1
+T138	Genotype 3599 3603;3611 3624	LEC1 misexpression
+T141	Gene 3607 3610	L1L
+T140	Genotype 3607 3624	L1L misexpression
+T143	Gene 3679 3683	ABI3
+T142	Gene_Family 3679 3683	ABI3
+T144	Regulatory_Network 3757 3789	establishment of embryo dormancy
+T145	Tissue 3774 3780	embryo
+T146	Development_Phase 3781 3789	dormancy
+T147	Development_Phase 3797 3827	mid-to-late embryo development
+T148	Tissue 3809 3815	embryo
+T149	Genotype 3854 3870	Null abi3 mutant
+T150	Tissue 3871 3878	embryos
+T151	Development_Phase 3944 3955	desiccation
+T152	Genotype 4009 4045	Plants that ectopically express ABI3
+T153	Genotype 4009 4040;4079 4082	Plants that ectopically express VP1
+T154	Gene_Family 4041 4045	ABI3
+T155	Genotype 4053 4058	maize
+T156	Genotype 4060 4068	Zea mays
+T157	Gene 4079 4082	VP1
+T158	Regulatory_Network 4123 4160	altered ABA-dependent gene expression
+T159	Hormone 4131 4134	ABA
+T160	Tissue 4164 4182	vegetative tissues
+T161	Gene 4250 4254	LEC2
+T162	Gene 4256 4260	FUS3
+T164	Gene 4266 4270	ABI3
+T163	Gene_Family 4266 4270	ABI3
+T165	Gene_Family 4271 4295	B3 transcription factors
+T167	Pathway 4331 4346;4367 4381	accumulation of lipid reserves
+T166	Pathway 4331 4362	accumulation of storage protein
+T168	Tissue 4389 4395	embryo
+T170	Tissue 4403 4407	seed
+T169	Development_Phase 4403 4418	seed maturation
+T171	Protein_Domain 4490 4499	B3 domain
+T172	Box 4615 4621	Sph/RY
+T173	Protein 4779 4783	ABI3
+T175	Hormone 4793 4796	ABA
+T174	Regulatory_Network 4793 4822	ABA-regulated gene expression
+T176	Tissue 4830 4834	seed
+T177	Protein_Family 4869 4907	basic Leu-zipper transcription factors
+T179	Hormone 4918 4921	ABA
+T178	Box 4918 4939	ABA response elements
+T180	Gene 4968 4972	FUS3
+T181	Gene 4977 4981	LEC2
+T183	Hormone 5014 5016	GA
+T182	Pathway 5014 5029	GA biosynthesis
+T185	Tissue 5037 5041	seed
+T184	Development_Phase 5037 5053	seed development
+T186	Protein_Family 5106 5116	B3 factors
+T187	Tissue 5238 5244	embryo
+T189	Gene 5318 5322	LEC1
+T188	Regulatory_Network 5318 5333	LEC1/B3 network
+T190	Development_Phase 5356 5367	germination
+T191	Development_Phase 5372 5408	resumption of vegetative development

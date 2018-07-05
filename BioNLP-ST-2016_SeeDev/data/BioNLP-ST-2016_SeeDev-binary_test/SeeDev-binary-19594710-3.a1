@@ -1,0 +1,58 @@
+T1	Pathway 30 45	synthesis of FA
+T2	Tissue 49 57	plastids
+T4	Gene 118 122	WRI1
+T3	Genotype 118 137	WRI1 overexpression
+T5	Pathway 207 241	uptake of glycolytic intermediates
+T6	Tissue 247 255	plastids
+T7	Pathway 257 281	conversion to acetyl-CoA
+T8	Pathway 257 270;286 297	conversion to malonyl-CoA
+T9	Pathway 307 323	synthesis of FAs
+T10	Pathway 370 394	synthesis of lipoic acid
+T11	Protein 410 413	PDH
+T12	Genotype 442 450;464 470	Enh-WRI1 plants
+T13	Protein 446 450	WRI1
+T14	Genotype 455 470	35S-WRI1 plants
+T15	Protein 459 463	WRI1
+T17	Gene 566 570	WRI1
+T16	RNA 566 575	WRI1 mRNA
+T18	Pathway 630 642	FA synthesis
+T19	Genotype 665 673	Enh-WRI1
+T20	Protein 669 673	WRI1
+T21	Genotype 688 696	35S-WRI1
+T22	Protein 692 696	WRI1
+T23	RNA 729 733;741 774	mRNA of genes involved in FA synthesis
+T24	Pathway 762 774	FA synthesis
+T25	Genotype 791 798	wri1-10
+T26	Protein 818 821	LUC
+T28	Promoter 846 875;901 905	proximal upstream regions of KAS1
+T30	Promoter 846 875;891 895	proximal upstream regions of ACP1
+T27	Promoter 846 882	proximal upstream regions of Pl-PKβ1
+T29	Promoter 846 875;884 889	proximal upstream regions of BCCP2
+T31	Gene 875 882	Pl-PKβ1
+T32	Gene 884 889	BCCP2
+T33	Gene 891 895	ACP1
+T34	Gene 901 905	KAS1
+T35	Tissue 909 920	protoplasts
+T36	Genotype 943 964	co-expression of WRI1
+T37	Protein 960 964	WRI1
+T38	Protein 994 998	WRI1
+T39	Box 1047 1053	AW-box
+T40	Genotype 1095 1154	Mutations in two AW-boxes in the upstream region of Pl-PKβ1
+T41	Box 1112 1120	AW-boxes
+T42	Promoter 1128 1154	upstream region of Pl-PKβ1
+T43	Gene 1147 1154	Pl-PKβ1
+T44	Protein 1169 1173	WRI1
+T45	Environmental_Factor 1182 1190	in vitro
+T46	Protein 1211 1215	WRI1
+T47	Tissue 1219 1230	protoplasts
+T48	Development_Phase 1254 1270	seed development
+T49	Tissue 1254 1258	seed
+T50	Pathway 1341 1353	FA synthesis
+T51	Tissue 1357 1365	plastids
+T52	Protein 1398 1402	WRI1
+T53	Development_Phase 1410 1426	seed development
+T54	Tissue 1410 1414	seed
+T55	Pathway 1475 1487	FA synthesis
+T56	Development_Phase 1495 1511	seed development
+T57	Tissue 1495 1499	seed
+T58	Gene 1541 1545	WRI1

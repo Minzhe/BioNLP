@@ -1,0 +1,50 @@
+Training Data for BioNLP'16 Shared Task on Event Extraction -- Genetic and molecular mechanisms involved in plant seed development (SeeDev-binary)
+
+
+- Contains 39 documents with manual annotations of entities, and binary events
+
+- For more information about the SeeDev tasks (full and binary), see:
+
+  http://2016.bionlp-st.org/tasks/seedev
+
+- For format details, please refer to the following address:
+
+  http://2013.bionlp-st.org/file-formats
+
+
+
+
+Contents
+--------
+
+  ** `.txt' files: each file contains the text contents of a document. Each document is a passage from the full text of an article concerning the regulation mechanisms of the seed development of Arabidopsis thaliana. The `.txt' files are encoded in UTF-8. The name of the files follow the pattern:
+
+        SeeDev-binary-PMID-PID.txt
+
+     where PMID is the PubMed identifier of the article from which the passage is extracted, and PID is an ordinal that distinguishes different passages extracted from the same article.
+
+  ** `.a1' files: for each document, the corresponding `.a1' file contains the text-bound entities manually annotated. In this task the text-bound entities are given as input and will not be predicted. The annotations are expressed using the BioNLP-ST format (http://2013.bionlp-st.org/file-formats). The SeeDev annotation schema (http://2016.bionlp-st.org/tasks/seedev) defines the  entity types. Like in the `.txt' file, the surface form control is encoded in UTF-8. The unit of text-bound entity offsets are characters (and not bytes); UTF-8 multibyte characters (like characers with diacritics) count as one.
+
+  ** `.a2' files: for each document, the corresponding `.a2' file contains the biological binary events. In this task events are the target result and must be predicted. The events are expressed using the BioNLP-ST format (http://2013.bionlp-st.org/file-formats). In the `binary' sub-task all events are binary and do not have modifiers. The SeeDev annotation schema (http://2016.bionlp-st.org/tasks/seedev) defines event types and constraints on their arguments.
+
+
+
+
+History
+-------
+
+12 January 2016, training and development data release
+
+
+
+
+Authors
+-------
+
+BioNLP'13 Shared Task organizers,
+bionlpsharedtask@gmail.com
+http://2016.bionlp-st.org/
+
+For questions and remarks concerning specifically the SeeDev task:
+Robert Bossy
+Robert.Bossy@jouy.inra.fr

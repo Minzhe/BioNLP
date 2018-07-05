@@ -1,0 +1,27 @@
+AGL15 (AGAMOUS-like 15) is a member of the MADS domain family, a large, diverse family of regulatory factors. All of the members
+of this family contain a highly conserved 55– to 60–amino acid domain, known as the MADS domain, which binds DNA through contacts
+in the minor groove and interactions with the phosphate backbone (Pellegrini et al. 1995). MADS domain proteins also have more divergent regions, which contribute to structural and functional specificity. MADS
+domain–containing regulatory factors are found in all eukaryotic organisms and play pivotal roles in regulating many different
+kinds of developmental events, including mating-type specification in yeast, muscle development in Drosophila and mammals,
+and responses to the environment in humans. MADS domain factors form a particularly large and diverse group in plants. In
+addition to the MADS domain, the plant proteins have another, less highly conserved domain, the K domain, which is thought
+to serve as a protein–protein interaction domain (reviewed in Riechmann and Meyerowitz 1997).
+The MADS domain family consists of at least 36 members in Arabidopsis (Liljegren et al. 1998), including the well-known floral organ identity regulators AGAMOUS (AG), APETALA3 (AP3), and PISTILLATA; meristem identity
+regulators APETALA1 (AP1) and CAULIFLOWER; silique tissue identity regulators FRUITFULL/AGL8, AGL1, and AGL5; and a set of
+other AGL factors of unknown function expressed in flowers. Family members that are preferentially expressed in developmental
+contexts other than the flower have also been identified (Rounsley et al. 1995) and include such factors as ANR1, which plays a role in control of root architecture in response to nutrient availability
+(Zhang and Forde 1998), and FLOWERING LOCUS C, a recently identified repressor of flowering (Michaels and Amasino 1999). Based on its expression pattern and divergent sequence, AGL15 belongs to this latter group; however, its developmental
+role is undefined.
+Our previous findings have led us to suggest that AGL15 is likely to play an important regulatory role at the beginning of
+the plant life cycle. We initially isolated AGL15 as a low-abundance mRNA that preferentially accumulates in developing embryos (Heck et al. 1995); Rounsley et al. 1995 independently isolated it from a floral cDNA library. AGL15 is a single-copy gene in Arabidopsis, and thus far, genome sequencing efforts have not revealed any genes likely to represent
+recent duplications of the AGL15 locus. The only members of the MADS domain family in Arabidopsis that are known to be expressed in embryos are AGL15 and AGL2 (Flanagan and Ma 1994). AGL15 shows strong preferential expression in embryos, whereas AGL2 is predominantly expressed in floral tissues (Heck et al. 1995). Using AGL15-specific antibodies, we have shown that AGL15 accumulates in the nuclei of young embryos, endosperm, and suspensor
+cells but only in the cytoplasm of the egg cell (Perry et al. 1996). More recently, we found that AGL15 is similarly regulated in a wide variety of embryogenic situations (Perry et al. 1999).
+Although AGL15 accumulates preferentially in embryos, its accumulation is clearly not restricted to the embryonic phase. AGL15 transcripts have been detected in young Arabidopsis seedlings by using in situ hybridization (Rounsley et al. 1995) and in various tissues (including flowers) in Brassica by using RNA gel blot analyses (Heck et al. 1995). These findings, plus an awareness that expression patterns have provided important insights into the developmental roles
+of MADS domain factors in past investigations, motivated us to look more closely at AGL15 expression in postembryonic phases. We combined an analysis of AGL15 promoter activity with an examination of mRNA and protein accumulation to examine both qualitative and quantitative aspects
+of AGL15 expression. Because the cellular localization of AGL15 is regulated in embryos (Perry et al. 1996 , Perry et al. 1999), we also performed immunolocalization analyses to determine whether the protein accumulated in the cytoplasm or the nuclei.
+Because we found that AGL15 accumulates transiently in nuclei in a selected set of tissues during the vegetative and reproductive
+phases, this raises the possibility that it plays multiple roles during the plant life cycle. To investigate these roles,
+we have examined whether altering the expression pattern of AGL15 has any effect on postembryonic development. The results were striking and unexpected. The combination of effects on the
+transition to flowering, perianth longevity, and fruit maturation defines a new kind of developmental role for a MADS domain
+factor. Specifically, AGL15 may play a role in controlling age-dependent developmental programs, particularly in reproductive
+tissues.

@@ -1,0 +1,4 @@
+E1	Regulates_Process Agent:T7 Process:T2
+E2	Regulates_Process Agent:T7 Process:T4
+E3	Regulates_Process Agent:T1 Process:T2
+E4	Regulates_Process Agent:T1 Process:T4

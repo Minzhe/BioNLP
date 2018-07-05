@@ -1,0 +1,31 @@
+AGL15 (AGAMOUS-like 15), a member of the MADS-domain family of regulatory factors, accumulates preferentially in the organs and tissues derived
+from double fertilization in flowering plants (i.e. the embryo, suspensor, and endosperm). The developmental role of AGL15
+is still undefined. If it is involved in embryogenesis rather than some other aspect of seed biology, then AGL15 protein should
+accumulate whenever development proceeds in the embryonic mode, regardless of the origin of those embryos or their developmental
+context. To test this, we used AGL15-specific antibodies to analyze apomictic embryogenesis in dandelion (Taraxacum officinale), microspore embryogenesis in oilseed rape (Brassica napus), and somatic embryogenesis in alfalfa (Medicago sativa). In every case, AGL15 accumulated to relatively high levels in the nuclei of the embryos. AGL15 also accumulated in cotyledon-like
+organs produced by thextc2(extracotyledon2) mutant of Arabidopsis and during precocious germination in oilseed rape. Furthermore, the subcellular localization of AGL15
+appeared to be developmentally regulated in all embryogenic situations. AGL15 was initially present in the cytoplasm of cells
+and became nuclear localized before or soon after embryogenic cell divisions began. These results support the hypothesis that
+AGL15 participates in the regulation of programs active during the early stages of embryo development.
+In seed plants, the sporophyte generation initiates with a unique developmental phase: the seed or embryo phase. During this
+phase, morphogenetic programs operate to establish the correct embryo form, storage reserves accumulate, desiccation tolerance
+is acquired, and a quiescent state is established that can be exited in a controlled manner at a later point. The early stages
+of embryo development have been difficult to study because the cells constituting the embryo are small, few in number, and
+embedded in several layers of maternal tissues. Much progress has been made recently in isolating genes encoding regulatory
+factors expressed during early embryogenesis (Li and Thomas, 1998; Lotan et al., 1998; Luerssen et al., 1998; for reviews of other genes, see Mordhorst et al., 1997; Berleth, 1998); however, relatively little is known about the corresponding gene products in terms of activity and/or regulation.
+Although it is not restricted to embryos, the MADS-box regulatory factor AGL15(AGAMOUS-like15) is expressed at approximately 10-fold higher levels during the embryonic phase than during any other phase of the life cycle
+(Heck et al., 1995; Rounsley et al., 1995). Members of the MADS-domain family contain a highly conserved, 55- to 60-amino acid motif (the MADS domain) that functions
+as both a DNA-binding and dimerization domain (for review, see Riechmann and Meyerowitz, 1997). MADS-domain proteins are found in plants, animals, and fungi and often play critical roles in the control of development.
+In Arabidopsis and snapdragon, for example, proteins such as APETALA1/SQUAMOSA, AGAMOUS/PLENA, APETALA3/DEFICIENS,andPISTILLATA/GLOBOSA
+play central roles in the specification of meristem and floral organ identity (for review, see Riechmann and Meyerowitz, 1997). MADS-box gene families are quite large in plants but not in animals and fungi. At least 15 different members may be present
+in ferns (Münster et al., 1997) and more than 28 have already been identified in Arabidopsis (Riechmann and Meyerowitz, 1997). AGL15 is one of the most divergent members of the family in Arabidopsis (Rounsley et al., 1995) and is the only member isolated to date that is expressed preferentially during embryogenesis.
+AGL15-specific antibodies and immunohistochemistry were used previously to demonstrate that AGL15 accumulation and localization
+are developmentally regulated during zygotic embryogenesis. AGL15 accumulates in the cytoplasm of cells of the female germ
+unit before fertilization and moves into the nuclei after the first few cell divisions in the embryo, suspensor, and endosperm
+(Perry et al., 1996). Relatively high levels of AGL15 are maintained in the embryo nuclei throughout the period of morphogenesis and then decline
+as the embryo matures. Based on this accumulation pattern and the fact that it is similar in dicot and monocot embryos, we
+have proposed that AGL15 plays a conserved regulatory role during the early stages of the embryonic phase (Heck et al., 1995; Perry et al., 1996). If this role is important for the process of embryogenesis, AGL15 should accumulate in the nuclei in all young embryos
+and new embryonic organs regardless of when and how they initiate. To test this idea, we used AGL15-specific antibodies to
+examine a variety of developmental situations in a variety of flowering plants in which embryos or embryonic organs arise
+outside of the seed context or by means other than the fertilization of an egg. In every case we found that whenever embryos
+or embryonic organs were present, relatively high levels of AGL15 could be detected in the nuclei.

@@ -1,0 +1,44 @@
+T1	Protein 4 13	WRINKLED1
+T2	Protein 15 19	WRI1
+T3	Pathway 58 74	oil accumulation
+T4	Tissue 78 86;99 104	maturing seeds
+T5	Genotype 87 98	Arabidopsis
+T6	Protein 106 110	WRI1
+T8	Protein 176 179	AP2
+T7	Protein_Family 176 185	AP2/EREBP
+T9	Protein_Family 180 185	EREBP
+T10	Protein_Domain 258 268	AP2 domain
+T11	Protein 258 261	AP2
+T12	Protein 293 297	WRI1
+T13	Pathway 354 371	carbon metabolism
+T14	Genotype 375 385	transgenic
+T15	Tissue 386 391	seeds
+T16	Gene 434 440	PKp-β1
+T17	Gene 445 450	BCCP2
+T18	Pathway 486 496	glycolysis
+T19	Pathway 501 532	fatty acid biosynthetic pathway
+T20	Protein 613 617	WRI1
+T21	Gene 663 667	uidA
+T22	Genotype 700 709	in planta
+T23	Protein 715 719	WRI1
+T24	Gene 751 757	PKp-β1
+T25	Promoter 751 757;768 777	PKp-β1 promoters
+T27	Gene 762 767	BCCP2
+T26	Promoter 762 777	BCCP2 promoters
+T28	Environmental_Factor 821 837	yeast one-hybrid
+T29	Protein 862 866	WRI1
+T31	Gene 897 902	BCCP2
+T30	Promoter 897 911	BCCP2 promoter
+T32	Gene 1031 1037	PKp-β1
+T33	Promoter 1031 1037;1048 1057	PKp-β1 promoters
+T35	Gene 1042 1047	BCCP2
+T34	Promoter 1042 1057	BCCP2 promoters
+T36	Tissue 1208 1246	oil-accumulating tissues of the embryo
+T37	Tissue 1240 1246	embryo
+T38	Promoter 1331 1348	promoters of WRI1
+T39	Protein 1344 1348	WRI1
+T41	Gene 1389 1394	BCPP2
+T40	Promoter 1389 1403	BCPP2 promoter
+T42	Protein 1459 1463	WRI1
+T43	Genotype 1485 1490	yeast
+T44	Genotype 1524 1533	in planta

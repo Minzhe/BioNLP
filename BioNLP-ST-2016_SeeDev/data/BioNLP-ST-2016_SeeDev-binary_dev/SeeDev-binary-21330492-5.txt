@@ -1,0 +1,1 @@
+Interestingly, after the heart stage, fus3-3 dcl1-15 and lec2-1 dcl1-15 embryos have high levels of chlorophyll and pAt2S3:GFP, something not seen in either fus3-3 or lec2-1 embryos (Meinke et al., 1994; Kroj et al., 2003; To et al., 2006), suggesting that after that stage, other miRNA-regulated factors can compensate for the absence of LEC2 or FUS3.

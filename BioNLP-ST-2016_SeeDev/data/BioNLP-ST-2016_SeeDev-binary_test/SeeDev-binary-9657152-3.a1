@@ -1,0 +1,31 @@
+T1	Protein 23 27	LEC1
+T2	Protein_Family 61 90	HAP3 subunit of the CBF class
+T3	Protein 61 65	HAP3
+T4	Genotype 94 104	eukaryotic
+T5	Protein_Family 146 150	NF-Y
+T6	Protein 152 155	CP1
+T8	Protein 161 164;168 169	HAP 4
+T10	Protein 161 164;170 171	HAP 5
+T9	Protein 161 164;166 167	HAP 3
+T7	Protein 161 165	HAP2
+T11	Protein 233 237	LEC1
+T12	Protein_Family 248 261	HAP3 subunits
+T13	Protein_Domain 283 291	B domain
+T14	Genotype 420 425	yeast
+T15	Genotype 430 439	mammalian
+T16	Protein_Family 440 453	HAP3 subunits
+T17	Protein_Family 511 523	CBF subunits
+T18	Protein 541 545	LEC1
+T19	Genotype 604 609	yeast
+T20	Genotype 614 623	mammalian
+T21	Protein_Family 624 636	CBF subunits
+T22	Protein_Family 782 786	CBFs
+T23	Genotype 862 867	plant
+T24	Protein_Family 868 871	CBF
+T25	Genotype 892 897	yeast
+T26	Protein 944 948	HAP2
+T27	Protein 944 947;953 954	HAP 4
+T29	Protein 944 947;960 961	HAP 5
+T28	Protein 944 947;950 951	HAP 3
+T30	Genotype 993 1002	mammalian
+T31	Protein_Family 1003 1006	CBF

@@ -1,0 +1,64 @@
+T1	Gene 28 32	MUM4
+T3	Tissue 40 64	Seed Coat Secretory Cell
+T2	Development_Phase 40 80	Seed Coat Secretory Cell Differentiation
+T4	Protein 84 87	AP2
+T5	Protein 89 93	TTG1
+T6	Protein 99 102	GL2
+T8	Gene 103 107	MUM4
+T7	RNA 103 118	MUM4 transcript
+T9	Development_Phase 132 156	differentiating siliques
+T10	Tissue 148 156	siliques
+T11	Pathway 172 191	mucilage production
+T12	Tissue 261 280	seed coat epidermis
+T13	Pathway 292 313	mucilage biosynthesis
+T14	Genotype 360 371	mum4 plants
+T15	Tissue 386 405	seed coat epidermis
+T16	Gene 415 419	MUM4
+T17	Tissue 457 465	siliques
+T18	Genotype 469 472	ap2
+T19	Regulatory_Network 494 545	differentiate the outer two layers of the seed coat
+T20	Tissue 512 545	outer two layers of the seed coat
+T21	Tissue 536 545	seed coat
+T22	Protein_Family 591 609	NDP-l-Rha synthase
+T23	Pathway 655 694	production of the large quantity of RGI
+T24	Pathway 708 726	mucilage synthesis
+T25	Pathway 792 808	Rha biosynthesis
+T26	Pathway 852 868	RGI biosynthesis
+T27	Gene 893 897	MUM4
+T28	Genotype 928 932	ttg1
+T29	Genotype 937 940	gl2
+T30	Genotype 968 977	wild type
+T31	Genotype 981 985	ttg2
+T32	Genotype 990 995	myb61
+T34	Tissue 1063 1086	mucilage secretory cell
+T33	Development_Phase 1063 1102	mucilage secretory cell differentiation
+T35	Pathway 1156 1177	mucilage biosynthesis
+T36	Tissue 1185 1194	seed coat
+T37	Protein 1238 1242	TTG1
+T38	Protein 1247 1250	GL2
+T39	Gene 1280 1284	MUM4
+T40	Tissue 1304 1321	epidermal systems
+T41	Tissue 1331 1340	trichomes
+T42	Tissue 1345 1355	root hairs
+T43	Protein 1357 1361	TTG1
+T44	Protein_Family 1412 1415	MYB
+T45	Protein_Family 1436 1448	bHLH protein
+T46	Protein_Domain 1436 1440	bHLH
+T47	Protein 1449 1456	GLABRA3
+T48	Gene 1510 1513	GL2
+T49	Tissue 1554 1572	seed coat-specific
+T51	Protein 1584 1588	TTG1
+T50	Protein_Complex 1584 1597	TTG1-bHLH-MYB
+T52	Protein_Domain 1589 1593	bHLH
+T53	Protein_Family 1594 1597	MYB
+T54	Gene 1619 1622	GL2
+T55	Gene 1659 1663	MUM4
+T56	Development_Phase 1671 1690	mucilage production
+T57	Protein 1729 1733	EGL3
+T58	Protein 1735 1754	ENHANCER OF GLABRA3
+T59	Protein 1763 1766	TT8
+T60	Protein 1768 1786	TRANSPARENT TESTA8
+T61	Protein_Family 1796 1809	bHLH proteins
+T62	Protein_Domain 1796 1800	bHLH
+T63	Protein 1822 1826	TTG1
+T64	Tissue 1834 1843	seed coat

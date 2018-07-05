@@ -1,0 +1,175 @@
+T1	Protein 8 12	LEC2
+T3	Tissue 16 20	Seed
+T2	Development_Phase 16 32	Seed Development
+T4	Gene 69 73	LEC2
+T6	Tissue 130 136	embryo
+T5	Development_Phase 130 148	embryo development
+T7	Protein 190 194	LEC2
+T8	Development_Phase 217 230	embryogenesis
+T10	Tissue 248 257	seedlings
+T9	Genotype 248 286	seedlings expressing the 35S∷LEC2 gene
+T12	Promoter 273 276	35S
+T11	Gene 273 281	35S∷LEC2
+T13	Gene 277 281	LEC2
+T14	Regulatory_Network 365 374;403 418	embryonic characteristics
+T15	Regulatory_Network 387 418	postgerminative characteristics
+T17	Tissue 420 430	Cotyledons
+T16	Regulatory_Network 420 433;440 465	Cotyledons of seedlings remained fleshy
+T18	Tissue 440 449	seedlings
+T19	Tissue 496 501	roots
+T20	Regulatory_Network 496 501;517 531	roots did not extend
+T22	Tissue 506 516	hypocotyls
+T21	Regulatory_Network 506 531	hypocotyls did not extend
+T23	Genotype 549 572	ectopic LEC2 expression
+T24	Gene 557 561	LEC2
+T25	Regulatory_Network 577 605	extend embryonic development
+T26	Development_Phase 584 605	embryonic development
+T29	Promoter 607 610	35S
+T27	Genotype 607 625	35S∷LEC2 seedlings
+T28	Gene 607 615	35S∷LEC2
+T30	Gene 611 615	LEC2
+T31	Tissue 616 625	seedlings
+T32	Genotype 690 699	wild type
+T35	Promoter 889 892	35S
+T33	Genotype 889 907	35S∷LEC2 seedlings
+T34	Gene 889 897	35S∷LEC2
+T36	Gene 893 897	LEC2
+T37	Tissue 898 907	seedlings
+T38	Tissue 921 936	somatic embryos
+T39	Tissue 991 1006	zygotic embryos
+T40	Tissue 1028 1034	embryo
+T41	Regulatory_Network 1061 1105	establishment of functional apical meristems
+T42	Tissue 1089 1105	apical meristems
+T43	Genotype 1160 1183	ectopic LEC2 expression
+T44	Gene 1168 1172	LEC2
+T46	Tissue 1250 1264	somatic embryo
+T45	Regulatory_Network 1250 1274	somatic embryo formation
+T47	RNA 1312 1320	LEC2 RNA
+T48	Gene 1312 1316	LEC2
+T49	Regulatory_Network 1397 1438	ability of somatic embryos to “germinate”
+T50	Tissue 1408 1423	somatic embryos
+T51	Tissue 1503 1512	plantlets
+T52	Genotype 1514 1557;1580 1584	Transgenic seedlings ectopically expressing LEC1
+T53	Tissue 1525 1534	seedlings
+T54	Gene_Family 1570 1573	LEC
+T55	Gene 1580 1584	LEC1
+T56	Regulatory_Network 1591 1616	embryonic characteristics
+T59	Promoter 1660 1663	35S
+T57	Genotype 1660 1690	35S∷LEC2 embryo-like seedlings
+T58	Gene 1660 1668	35S∷LEC2
+T60	Gene 1664 1668	LEC2
+T61	Tissue 1669 1690	embryo-like seedlings
+T62	Genotype 1707 1739	postembryonic expression of LEC1
+T63	Gene 1735 1739	LEC1
+T64	Development_Phase 1764 1785	somatic embryogenesis
+T65	Genotype 1789 1806	transgenic plants
+T68	Promoter 1822 1825	35S
+T66	Genotype 1822 1840	35S∷LEC2 seedlings
+T67	Gene 1822 1830	35S∷LEC2
+T69	Gene 1826 1830	LEC2
+T70	Tissue 1831 1840	seedlings
+T71	Tissue 1851 1865	somatic embryo
+T72	Gene 1896 1900	LEC2
+T73	Genotype 1902 1947	Recessive mutations in the Arabidopsis PICKLE
+T74	Genotype 1929 1940	Arabidopsis
+T75	Gene 1941 1947	PICKLE
+T76	Gene 1949 1952	PKL
+T77	Regulatory_Network 1971 2017	somatic embryogenesis in postgerminative roots
+T78	Development_Phase 1971 1992	somatic embryogenesis
+T79	Tissue 2012 2017	roots
+T80	Environmental_Factor 2030 2049	hormone-free medium
+T81	Gene 2065 2069	LEC1
+T82	Tissue 2090 2095	roots
+T83	Genotype 2099 2102;2128 2137	pkl seedlings
+T84	Genotype 2118 2137	wild-type seedlings
+T85	Tissue 2128 2137	seedlings
+T86	Protein 2195 2198	PKL
+T87	Gene 2224 2228	LEC1
+T88	Development_Phase 2232 2247	postgerminative
+T89	Tissue 2248 2253	roots
+T90	Protein 2274 2278	LEC1
+T91	Regulatory_Network 2307 2331	somatic embryo formation
+T92	Tissue 2315 2321	embryo
+T93	Genotype 2335 2338	pkl
+T94	Gene 2387 2391	LEC2
+T95	Genotype 2419 2422	pkl
+T96	Gene 2447 2451	LEC2
+T97	Gene 2456 2460	LEC1
+T98	Regulatory_Network 2464 2492	induce somatic embryogenesis
+T99	Development_Phase 2479 2492	embryogenesis
+T100	Regulatory_Network 2530 2569	establishment of embryogenic competence
+T101	Regulatory_Network 2571 2590	Somatic plant cells
+T102	Tissue 2579 2590	plant cells
+T103	Regulatory_Network 2641 2662	somatic embryogenesis
+T104	Development_Phase 2649 2662	embryogenesis
+T105	Regulatory_Network 2672 2694	Embryogenic competence
+T106	Tissue 2715 2730	culturing cells
+T107	Hormone 2748 2753	auxin
+T108	Hormone 2769 2778	cytokinin
+T109	Regulatory_Network 2789 2824	completion of somatic embryogenesis
+T110	Development_Phase 2811 2824	embryogenesis
+T111	Environmental_Factor 2857 2864	hormone
+T112	Protein 2869 2873	LEC2
+T113	Protein 2878 2882	LEC1
+T114	Regulatory_Network 2930 2967	acquisition of embryogenic competence
+T115	Protein_Family 2988 3013	LEC transcription factors
+T116	Regulatory_Network 3023 3087	genes that play roles in the initiation of somatic embryogenesis
+T117	Development_Phase 3052 3087	initiation of somatic embryogenesis
+T119	RNA 3111 3115;3125 3129	LEC2 RNAs
+T118	Gene 3111 3115	LEC2
+T120	RNA 3120 3129	LEC1 RNAs
+T121	Gene 3120 3124	LEC1
+T122	Development_Phase 3150 3175	earliest embryonic stages
+T123	Regulatory_Network 3255 3290	establishing embryogenic competence
+T124	Development_Phase 3298 3319	zygotic embryogenesis
+T125	Protein 3339 3343	LEC2
+T126	Protein 3348 3352	LEC1
+T127	Regulatory_Network 3356 3377	somatic embryogenesis
+T128	Development_Phase 3364 3377	embryogenesis
+T129	Development_Phase 3408 3429	zygotic embryogenesis
+T130	Genotype 3475 3508	overexpression phenotypes of LEC2
+T131	Genotype 3475 3503;3513 3517	overexpression phenotypes of LEC1
+T132	Gene 3504 3508	LEC2
+T133	Gene 3513 3517	LEC1
+T134	Development_Phase 3573 3603	early in zygotic embryogenesis
+T135	Regulatory_Network 3607 3630	induce embryo formation
+T137	Tissue 3614 3620	embryo
+T136	Development_Phase 3614 3630	embryo formation
+T138	Genotype 3693 3702	lec1 lec2
+T139	Regulatory_Network 3718 3754	arrest at an earlier embryonic stage
+T140	Development_Phase 3731 3754	earlier embryonic stage
+T141	Gene 3844 3848	LEC1
+T142	Gene 3853 3857	LEC2
+T143	Regulatory_Network 3881 3927	induce embryogenic competence in somatic cells
+T144	Tissue 3914 3927	somatic cells
+T145	Genotype 4038 4051	double mutant
+T148	Promoter 4133 4136	35S
+T146	Genotype 4133 4151	35S∷LEC1 seedlings
+T147	Gene 4133 4141	35S∷LEC1
+T149	Gene 4137 4141	LEC1
+T150	Tissue 4142 4151	seedlings
+T152	Tissue 4162 4168	embryo
+T151	Tissue 4162 4183	embryo-like seedlings
+T154	Tissue 4222 4231	cotyledon
+T153	Tissue 4222 4243	cotyledon-like organs
+T155	Tissue 4286 4292	leaves
+T158	Promoter 4312 4315	35S
+T156	Genotype 4312 4342	35S∷LEC2 embryo-like seedlings
+T157	Gene 4312 4320	35S∷LEC2
+T159	Gene 4316 4320	LEC2
+T161	Tissue 4321 4327	embryo
+T160	Tissue 4321 4342	embryo-like seedlings
+T162	Tissue 4379 4385	callus
+T163	Tissue 4387 4401;4416 4422	cotyledon-like organs
+T164	Tissue 4387 4396	cotyledon
+T166	Tissue 4406 4410	leaf
+T165	Tissue 4406 4422	leaf-like organs
+T167	Tissue 4438 4453	somatic embryos
+T168	Protein 4461 4465	LEC1
+T169	Protein 4470 4474	LEC2
+T171	Tissue 4535 4541	embryo
+T170	Regulatory_Network 4535 4551	embryo formation
+T172	Protein 4574 4578	LEC1
+T173	Protein 4583 4587	LEC2
+T175	Tissue 4591 4597	embryo
+T174	Development_Phase 4591 4609	embryo development

@@ -1,0 +1,51 @@
+T2	Genotype 13 36;71 73	plants that overexpress AG
+T1	Genotype 13 56	plants that overexpress floral MADS factors
+T4	Genotype 13 36;66 69	plants that overexpress AP1
+T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+T5	Protein_Family 37 56	floral MADS factors
+T6	Protein 66 69	AP1
+T7	Protein 71 73	AG
+T8	Protein 78 81	AP3
+T9	Protein 87 97	PISTILLATA
+T10	Regulatory_Network 116 140	shorter vegetative phase
+T11	Development_Phase 124 140	vegetative phase
+T12	Genotype 149 165	wild-type plants
+T13	Regulatory_Network 180 200	fewer rosette leaves
+T14	Tissue 186 200	rosette leaves
+T15	Regulatory_Network 205 222	earlier flowering
+T16	Protein 280 285	AGL15
+T17	Genotype 289 305	wild-type plants
+T18	Protein 307 312	AGL15
+T19	Regulatory_Network 354 374	early juvenile phase
+T20	Genotype 382 399	transgenic plants
+T21	Development_Phase 457 488	beginning of the juvenile phase
+T22	Regulatory_Network 512 530	delay in flowering
+T23	Development_Phase 521 530	flowering
+T24	Tissue 617 644	partially juvenilized plant
+T25	Development_Phase 712 721	flowering
+T26	Tissue 727 753	petioles of the cotyledons
+T27	Tissue 727 742;758 772	petioles of the rosette leaves
+T28	Tissue 727 735	petioles
+T29	Tissue 743 753	cotyledons
+T30	Tissue 758 772	rosette leaves
+T31	Tissue 807 818	leaf blades
+T32	Genotype 847 879	plants carrying AGL15 transgenes
+T33	Gene 863 868	AGL15
+T34	Genotype 884 905	wild-type Arabidopsis
+T35	Tissue 907 921	rounded leaves
+T36	Development_Phase 946 982	earliest stages of vegetative growth
+T37	Tissue 1005 1021	spatulate leaves
+T38	Regulatory_Network 1084 1104	change in leaf shape
+T39	Tissue 1094 1098	leaf
+T40	Development_Phase 1138 1151	morphogenesis
+T41	Genotype 1159 1176	transgenic plants
+T42	Tissue 1178 1182	leaf
+T43	Regulatory_Network 1213 1237	regulation of leaf shape
+T44	Tissue 1227 1231	leaf
+T45	Genotype 1344 1355	Arabidopsis
+T46	Development_Phase 1389 1403	juvenile phase
+T47	Regulatory_Network 1411 1466	absence of trichomes on the abaxial surface of the leaf
+T49	Tissue 1422 1431	trichomes
+T48	Tissue 1422 1466	trichomes on the abaxial surface of the leaf
+T50	Tissue 1439 1466	abaxial surface of the leaf
+T51	Tissue 1462 1466	leaf

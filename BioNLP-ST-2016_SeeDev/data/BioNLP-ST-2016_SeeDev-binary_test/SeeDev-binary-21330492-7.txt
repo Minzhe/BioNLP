@@ -1,0 +1,9 @@
+Based on our findings, we suggest that during early embryogenesis, specific miRNAs down-regulate one or more miRNA targets
+to both promote the repressors and repress the inducers of maturation. Later in embryonic development, a reduction in those
+miRNAs leads to the induction of maturation. We cannot deduce from our data whether this is a linear pathway (i.e. miRNA targets
+repress the repressors, which in turn silence the activators) or whether miRNA targets act at more than one level.
+In a report published while this article was in preparation, Nodine and Bartel (2010) demonstrated that globular stage dcl1-5 embryos show heterochronic gene expression. Their genetic data also suggest that the increased expression of the miR156 targets
+SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE10 (SPL10) and SPL11 is partly responsible for the early onset of the maturation program in the mutant, despite the fact that the RNA levels of
+these genes do not change significantly during embryogenesis, according to the Goldberg-Harada data set. Another SPL gene,
+SPL5, does significantly increase in expression during embryogenesis in this data set, however. Thus, it might be possible that
+multiple miR156-targetted SPL genes redundantly regulate the same targets, with the developmental increase in SPL5 expression allowing for the threshold for maturation to be crossed.

@@ -1,0 +1,10 @@
+We provide evidence that LEC2 confers maturation characteristics to vegetative plants by directly activating genes involved
+in maturation processes. We and others have shown that ectopic LEC2 activity causes postembryonic organs to assume characteristics
+of maturating embryos that include accumulation of seed storage reserves (refs. 12 and 14, and S.L.S., S. L. Paula, L. W. Kwong, J. E. Meuser, J. Pelletier, R.L.F., R.B.G., and J.J.H., unpublished work). Because
+LEC2 induces somatic embryogenesis (12), it was possible that the onset of maturation processes resulted from progression of somatic embryos through the morphogenesis
+and maturation phases of embryogenesis. However, our demonstration that induction of LEC2 causes rapid increases in the expression
+of many maturation genes indicates that LEC2 can activate maturation processes directly.
+Many LEC2-induced RNAs are directly involved in storage reserve accumulation, a hallmark of the maturation phase. These RNAs
+include 2S and 12S storage proteins, oleosin, and steroleosin, an abundant oil body protein that shares similarity with the
+anchoring hydrophobic domain of oleosin and contains a sterol-binding domain (21, 28). Another LEC2-induced maturation RNA encodes a regulator of reserve accumulation, EEL. This bZIP transcription factor works
+in cooperation with ABI3 and ABI5 to regulate expression of the Em gene that encodes an abundant seed protein (20).

@@ -1,0 +1,13 @@
+Constitutive expression of AGL15 produced a limited number of effects, effects that were distinct from those reported for other MADS domain factors. CaMV
+35S promoter–driven expression of AP1 (Mandel and Yanofsky 1995b) or AG (Mizukami and Ma 1992) or AP3 plus PISTILLATA (Krizek and Meyerowitz 1996) leads to early flowering and the production of leaves with upwardly curling margins; expression of AGL15 by way of this promoter does not. Expression of floral MADS domain factors in inappropriate contexts in reproductive tissues
+leads to changes in the identity of the meristems and floral organs (Mandel et al. 1992a ; Mizukami and Ma 1992 ; Jack et al. 1994 , Jack et al. 1997). In plants with moderate constitutive expression, AGL15 accumulated in nuclei throughout the flower with no apparent effect
+on organ identity or morphogenesis.
+The lack of effects on floral morphogenesis suggests that AGL15 maintains some degree of specificity for regulatory targets
+even when it is overexpressed. If excess AGL15 competed for and indiscriminately occupied the DNA binding sites of the floral
+MADS domain proteins, we would expect to see major perturbations throughout the reproductive phase. Instead, we saw that overexpression
+of AGL15 primarily affected tissues in which we had detected both AGL15 promoter activity and protein accumulation in wild-type plants. We cannot completely eliminate the possibility that some
+aspects of the overexpression phenotype are the result of newly acquired functions (i.e., AGL15 binding to new target genes
+in new tissues). However, given the transient nature of AGL15 expression in most wild-type tissues, at least some of the phenotypic changes may result from temporal extensions of the
+normal functions of the AGL15 gene product (i.e., AGL15 acting on target genes for longer periods).
+When AGL15 was constitutively expressed, the transition to flowering was delayed and the vegetative phase was extended by ~6 days under
+inductive, long-day conditions.

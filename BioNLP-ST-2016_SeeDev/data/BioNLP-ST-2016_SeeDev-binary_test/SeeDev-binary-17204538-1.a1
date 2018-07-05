@@ -1,0 +1,47 @@
+T1	Gene 34 98	Arabidopsis thaliana ethylene-responsive element binding protein
+T2	Genotype 34 54	Arabidopsis thaliana
+T3	Gene 100 105	AtEBP
+T4	Regulatory_Network 122 152	resistance to abiotic stresses
+T5	Environmental_Factor 136 152	abiotic stresses
+T6	Gene_Family 214 240	ethylene-responsive factor
+T7	Gene_Family 242 245	ERF
+T8	Gene 263 268	AtEBP
+T9	Protein 303 311	APETALA2
+T10	Protein 313 316	AP2
+T11	Gene 345 348	AP2
+T12	Gene 431 438	AGAMOUS
+T13	Gene 502 505	AP2
+T14	Gene 510 515	AtEBP
+T15	Genotype 584 587	ap2
+T16	Genotype 597 633	ethylene-related Arabidopsis mutants
+T17	Genotype 638 689	transgenic Arabidopsis plants over-expressing AtEBP
+T18	Genotype 649 660	Arabidopsis
+T19	Gene 684 689	AtEBP
+T20	Genotype 697 730	T-DNA insertional mutant of AtEBP
+T21	Gene 725 730	AtEBP
+T22	Gene_Family 816 819	ERF
+T23	Gene 834 839	AtEBP
+T24	Gene 844 850	AtERF1
+T25	Genotype 869 872	ap2
+T26	Genotype 882 906	Over-expression of AtEBP
+T27	Gene 901 906	AtEBP
+T28	Gene 930 933	AP2
+T29	Tissue 948 954	leaves
+T30	Gene 956 959	AP2
+T31	Genotype 993 1031	null-function of ethylene-insensitive2
+T32	Protein 1010 1031	ethylene-insensitive2
+T33	Protein 1033 1037	EIN2
+T34	Gene 1049 1052	AP2
+T36	Hormone 1084 1092	ethylene
+T35	Environmental_Factor 1084 1102	ethylene treatment
+T37	Genotype 1104 1126	Loss of AtEBP function
+T38	Protein 1112 1117	AtEBP
+T39	Regulatory_Network 1156 1173	number of stamens
+T40	Tissue 1166 1173	stamens
+T41	Protein 1187 1190	AP2
+T42	Protein 1195 1200	AtEBP
+T43	Gene 1253 1256	AP2
+T44	Protein 1284 1288	EIN2
+T45	Protein 1284 1288	EIN2
+T47	Hormone 1314 1322	ethylene
+T46	Environmental_Factor 1314 1332	ethylene treatment

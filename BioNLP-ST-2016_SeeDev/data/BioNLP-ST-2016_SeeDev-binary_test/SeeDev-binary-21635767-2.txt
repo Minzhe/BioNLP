@@ -1,0 +1,29 @@
+Seed storage reserves accumulated during embryogenesis in higher plants are crucial
+for plant propagation, providing carbon and energy during germination prior to seedling
+establishment. In mature Arabidopsis seeds, storage lipids and proteins are the major
+storage compounds, each accounting for 30% - 45% of the seed dry weight [1]. The past decade has witnessed a substantial progress in identification and characterization
+of genes involved in the de novo fatty acid (FA) biosynthesis and triacylglycerol (TAG) assembly pathways [[1,4] and references therein]. This advancement is particularly evident in the model plant
+Arabidopsis, largely owing to the sequencing and release of its relatively compact
+genome in the year 2000 [5]. Moreover, characterization of transcription factors (TFs) has led to the identification
+of several master regulator genes that play critical regulatory roles in this biological
+process, including ABI3 (ABSCISIC ACID INSENSITIVE 3), LEC1 (LEAFY COTYLEDON 1), LEC2 and FUS3 (FUSCA 3) [6-17]. These TFs interact with each other and form complex regulatory networks [18-23], regulating multiple aspects of seed development including storage reserve accumulation
+through interaction with cognate cis-acting DNA elements in the promoter regions of target genes. ABI3, FUS3 and LEC2
+contain a plant-specific 'B3' DNA-binding domain which targets RY-repeat regulatory
+elements, whereas LEC1 and L1L (LEC1-LIKE) contain a NF-YB domain binding to the CCAAT
+boxes in the promoter region [24,25]. Additional TFs such as WRINKLED 1 (WRI1), a member of plant-specific APETALA 2 (AP2)
+- ethylene response element binding factor (EREB) family, is also known to control
+transcription of many FA biosynthetic genes [26], and recent studies show it acts via binding to the AW-box motif present in the promoter
+region of 19 FA biosynthetic genes [27]. Moreover, ABI4 (an AP2 family protein) and various basic-leucine zipper (bZIP) TFs
+including ABI5 or EEL (ENHANCED EM [EMBRYO MORPHORGENESIS] LEVEL) are known regulators
+of the expression of SEED STORAGE PROTEIN (SSP) genes, which act in the same signalling network but downstream of ABI3 [28,29]. Distinct regulatory mechanisms are present in controlling the accumulation processes
+of oils and proteins, perhaps with cross-talk to coordinate the synthesis of seed
+storage compounds. This coordination could help to explain the well-documented negative
+correlation (correlation coefficient ranging from -0.60 to -0.90) between oil and
+protein content in seeds of many oleaginous species [[3] and references therein]. Moreover, several TFs, such as LEC1, ABI3 and FUS3, have
+been demonstrated to regulate many genes in the synthesis of both oils and storage
+proteins in developing seeds [30-32].
+In contrast to the great advancement in characterizing individual genes involved in
+the accumulation of seed storage reserves, the relationship of their expression and
+regulation is not well understood. A more holistic view of this biological process
+at the systems level would prove beneficial in developing strategies to further enhance
+seed yield and oil content, as well as in the modification of oil composition.

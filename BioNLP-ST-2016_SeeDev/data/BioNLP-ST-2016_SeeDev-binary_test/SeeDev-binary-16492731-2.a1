@@ -1,0 +1,89 @@
+T1	Development_Phase 0 13	Embryogenesis
+T2	Genotype 17 30	higher plants
+T3	Development_Phase 85 107	Early in embryogenesis
+T4	Development_Phase 120 139	morphogenesis phase
+T5	Regulatory_Network 296 358	fixation of polarity from specification of the shoot-root axis
+T6	Tissue 343 348	shoot
+T7	Tissue 349 353	root
+T8	Regulatory_Network 364 393	formation of embryonic tissue
+T9	Regulatory_Network 364 376;398 411	formation of organ systems
+T10	Tissue 377 393	embryonic tissue
+T11	Tissue 398 411	organ systems
+T12	Development_Phase 423 442	morphogenesis phase
+T13	Development_Phase 473 489	maturation phase
+T14	Development_Phase 546 562	maturation phase
+T15	Tissue 564 570	embryo
+T16	Tissue 609 621	embryo cells
+T17	Regulatory_Network 634 666	ability to withstand desiccation
+T18	Pathway 645 666	withstand desiccation
+T19	Tissue 672 683	embryo cell
+T22	Pathway 708 723;755 761	accumulation of lipids
+T20	Pathway 708 740	accumulation of storage reserves
+T21	Pathway 708 723;766 774	accumulation of proteins
+T23	Genotype 778 789	Arabidopsis
+T24	Development_Phase 805 832	end of the maturation phase
+T25	Tissue 838 844	embryo
+T26	Tissue 884 888	seed
+T27	Development_Phase 905 921	maturation phase
+T28	Development_Phase 1043 1053	maturation
+T29	Development_Phase 1057 1065	dormancy
+T30	Development_Phase 1081 1101	end of embryogenesis
+T31	Development_Phase 1110 1148	beginning of postembryonic development
+T32	Development_Phase 1187 1200	embryogenesis
+T33	Tissue 1235 1240	seeds
+T34	Tissue 1262 1267	seeds
+T35	Development_Phase 1451 1467	maturation phase
+T36	Protein 1522 1538	LEAFY COTYLEDON2
+T37	Protein 1540 1544	LEC2
+T38	Protein 1558 1574	ABA INSENSITIVE3
+T39	Protein 1576 1580	ABI3
+T40	Protein 1587 1593	FUSCA3
+T41	Protein 1595 1599	FUS3
+T42	Development_Phase 1653 1669	maturation phase
+T43	Protein 1696 1700	LEC2
+T44	Protein_Domain 1732 1741	B3 domain
+T45	Protein 1782 1786	FUS3
+T46	Protein 1791 1795	ABI3
+T47	Gene_Family 1791 1795	ABI3
+T48	Genotype 1809 1813	lec2
+T50	Tissue 1851 1857	embryo
+T49	Pathway 1851 1865	embryo filling
+T52	Tissue 1867 1871	seed
+T51	Pathway 1867 1892	seed protein accumulation
+T53	Regulatory_Network 1898 1919	desiccation tolerance
+T54	Gene 1930 1934	LEC2
+T56	Tissue 1979 1983	seed
+T55	Development_Phase 1979 1995	seed development
+T57	RNA 2006 2014	LEC2 RNA
+T58	Genotype 2089 2115	Ectopic expression of LEC2
+T59	Gene 2111 2115	LEC2
+T64	Tissue 2139 2143	seed
+T62	Pathway 2139 2151;2163 2171	seed storage proteins
+T60	Pathway 2139 2158	seed storage lipids
+T63	Regulatory_Network 2139 2151;2163 2192	seed storage proteins in vegetative organs
+T61	Regulatory_Network 2139 2158;2172 2192	seed storage lipids in vegetative organs
+T65	Tissue 2175 2192	vegetative organs
+T66	Protein 2332 2336	LEC2
+T67	Development_Phase 2359 2375	maturation phase
+T68	Genotype 2381 2385	lec2
+T69	Development_Phase 2421 2440	morphogenesis phase
+T70	Genotype 2446 2469	ectopic LEC2 expression
+T71	Gene 2454 2458	LEC2
+T72	Regulatory_Network 2478 2524	somatic embryo formation from vegetative cells
+T73	Tissue 2486 2492	embryo
+T74	Genotype 2552 2556	lec2
+T75	Regulatory_Network 2591 2646	ability of Arabidopsis explants to form somatic embryos
+T76	Genotype 2602 2613	Arabidopsis
+T77	Tissue 2631 2646	somatic embryos
+T78	Protein 2685 2689	LEC2
+T79	Development_Phase 2717 2730	embryogenesis
+T81	Tissue 2777 2783	embryo
+T80	Development_Phase 2777 2795	embryo development
+T82	Protein 2830 2834	LEC2
+T83	Development_Phase 2838 2851	embryogenesis
+T84	Protein 2895 2899	LEC2
+T85	Protein 2966 2970	LEC2
+T86	Development_Phase 3009 3025	maturation phase
+T87	Regulatory_Network 3059 3079	maturation processes
+T88	Development_Phase 3098 3108	maturation
+T89	Development_Phase 3134 3156	early in embryogenesis

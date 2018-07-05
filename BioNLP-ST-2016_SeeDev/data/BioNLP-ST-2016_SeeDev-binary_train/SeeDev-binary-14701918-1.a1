@@ -1,0 +1,47 @@
+T1	Genotype 4 15	Arabidopsis
+T2	Tissue 16 35	seed coat epidermis
+T3	Regulatory_Network 56 82	process of differentiation
+T4	Development_Phase 67 82	differentiation
+T5	Pathway 101 113;148 172	biosynthesis of pectinaceous mucilage
+T6	Pathway 118 127;148 172	secretion of pectinaceous mucilage
+T7	Regulatory_Network 174 199	cytoplasmic rearrangement
+T8	Pathway 205 237	secondary cell wall biosynthesis
+T9	Genotype 239 256	Mutations in MUM4
+T10	Gene 252 256	MUM4
+T11	Gene 258 276	MUCILAGE-MODIFIED4
+T12	Pathway 300 318	seed coat mucilage
+T13	Tissue 300 309	seed coat
+T14	Regulatory_Network 334 359	cytoplasmic rearrangement
+T15	Gene 374 378	MUM4
+T16	Protein_Family 398 421	NDP-l-rhamnose synthase
+T17	Pathway 450 494	synthesis of the pectin rhamnogalacturonan I
+T18	Genotype 519 530	Arabidopsis
+T19	Pathway 531 539	mucilage
+T20	Pathway 571 609	synthesis of monosaccharide substrates
+T21	Pathway 638 685	biosynthesis of pectinaceous seed coat mucilage
+T22	Tissue 667 676	seed coat
+T23	Regulatory_Network 712 737	cytoplasmic rearrangement
+T24	Pathway 781 800	pectin biosynthesis
+T25	Genotype 804 808	mum4
+T26	Pathway 851 870	mucilage production
+T27	Development_Phase 875 897	cellular morphogenesis
+T28	Genotype 930 934	mum4
+T29	Gene 996 999	AP2
+T30	Gene 1001 1009	APETALA2
+T31	Gene 1012 1016	TTG1
+T32	Gene 1018 1043	TRANSPARENT TESTA GLABRA1
+T33	Gene 1046 1050	TTG2
+T34	Gene 1051 1056	MYB61
+T35	Gene 1062 1065	GL2
+T36	Gene 1067 1074	GLABRA2
+T37	Gene 1110 1114	MUM4
+T38	Tissue 1151 1160	seed coat
+T39	Gene 1164 1167	AP2
+T40	Gene 1169 1173	TTG1
+T41	Gene 1179 1182	GL2
+T42	Gene 1192 1196	TTG2
+T43	Gene 1201 1206	MYB61
+T44	Pathway 1231 1250	mucilage production
+T45	Pathway 1335 1354	mucilage production
+T47	Tissue 1359 1373	secretory cell
+T46	Development_Phase 1359 1389	secretory cell differentiation

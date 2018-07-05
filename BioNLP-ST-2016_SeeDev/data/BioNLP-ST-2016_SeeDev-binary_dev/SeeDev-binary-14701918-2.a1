@@ -1,0 +1,18 @@
+T1	Tissue 4 20	mature seed coat
+T3	Tissue 11 15	seed
+T2	Tissue 11 20	seed coat
+T4	Tissue 75 81	embryo
+T6	Tissue 119 123	seed
+T5	Development_Phase 119 133	seed dispersal
+T7	Development_Phase 138 149	germination
+T8	Pathway 208 230	production of mucilage
+T9	Tissue 238 270	epidermal cells of the seed coat
+T10	Tissue 238 253	epidermal cells
+T11	Tissue 261 270	seed coat
+T12	Genotype 355 367	Brassicaceae
+T13	Genotype 369 379	Solanaceae
+T14	Genotype 381 389	Linaceae
+T15	Genotype 395 409	Plantaginaceae
+T17	Tissue 457 461	Seed
+T16	Development_Phase 457 472	Seed imbibition
+T18	Tissue 540 544	seed

@@ -1,0 +1,11 @@
+Developmental Regulation of MUM4 during Seed Coat Secretory Cell Differentiation by AP2, TTG1, and GL2
+MUM4 transcript increases in differentiating siliques at the time of mucilage production. Two lines of evidence suggest that this
+up-regulation occurs in the seed coat epidermis to support mucilage biosynthesis. First, the only obvious phenotypic defect
+in mum4 plants occurs in the seed coat epidermis. Second, MUM4 expression is severely attenuated in siliques of ap2 mutants that fail to differentiate the outer two layers of the seed coat. Such a specific up-regulation of a putative NDP-l-Rha synthase may be required to provide extra Rha for the production of the large quantity of RGI required for mucilage synthesis.
+If so, the amount of this enzyme must be the limiting factor in Rha biosynthesis and the amount of Rha a limiting factor in
+RGI biosynthesis.
+Our data indicate that MUM4 transcription is decreased in ttg1 and gl2 mutants but is essentially wild type in ttg2 and myb61 mutants (Fig. 7A). This result suggests a regulatory framework for mucilage secretory cell differentiation in which there are at least two
+pathways controlling mucilage biosynthesis in the seed coat. In one of these pathways, it appears that TTG1 and GL2 control
+the transcription of MUM4 (Fig. 8). In other epidermal systems, such as trichomes and root hairs, TTG1 has been shown to interact with a tissue-specific MYB
+protein through the bHLH protein GLABRA3 (Payne et al., 2000; Schiefelbein, 2003) to activate GL2. Therefore, we favor a model in which a seed coat-specific complex of TTG1-bHLH-MYB causes activation of GL2 and the subsequent up-regulation of MUM4 during mucilage production (Fig. 8). Recent results suggest that EGL3 (ENHANCER OF GLABRA3) and/or TT8 (TRANSPARENT TESTA8) are the bHLH proteins acting with
+TTG1 in the seed coat (Zhang et al., 2003).

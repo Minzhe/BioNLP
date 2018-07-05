@@ -1,0 +1,120 @@
+T1	Tissue 0 5	Seeds
+T2	Genotype 9 22	higher plants
+T3	Tissue 94 100	embryo
+T4	Tissue 124 140	vegetative plant
+T5	Tissue 221 230	endosperm
+T6	Development_Phase 285 302	developing embryo
+T7	Tissue 296 302	embryo
+T8	Development_Phase 310 330	germinating seedling
+T9	Tissue 461 470	seed coat
+T10	Tissue 490 496	embryo
+T11	Tissue 501 510	endosperm
+T13	Development_Phase 543 549;566 579	Growth of the embryo
+T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat
+T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm
+T17	Development_Phase 554 572;581 590	development of the endosperm
+T16	Development_Phase 554 572;596 605	development of the seed coat
+T15	Development_Phase 554 579	development of the embryo
+T18	Tissue 573 579	embryo
+T19	Tissue 581 590	endosperm
+T20	Tissue 596 605	seed coat
+T21	Tissue 641 652	mature seed
+T22	Tissue 663 668	seeds
+T24	Tissue 716 720	seed
+T23	Development_Phase 716 732	seed development
+T27	Tissue 797 801	seed
+T26	Regulatory_Network 797 801;810 814	seed mass
+T25	Regulatory_Network 797 806	seed size
+T28	Regulatory_Network 849 862	plant fitness
+T30	Tissue 866 870	seed
+T29	Regulatory_Network 866 875	seed mass
+T32	Tissue 877 881	Seed
+T31	Regulatory_Network 877 886	Seed mass
+T33	Regulatory_Network 921 936	number of seeds
+T34	Regulatory_Network 977 994	seedling survival
+T35	Genotype 1002 1021	Small-seeded plants
+T36	Regulatory_Network 1085 1107	large numbers of seeds
+T37	Tissue 1102 1107	seeds
+T38	Tissue 1117 1126	seedlings
+T39	Genotype 1130 1149	large-seeded plants
+T40	Environmental_Factor 1192 1213	resource restrictions
+T41	Environmental_Factor 1218 1234	abiotic stresses
+T43	Tissue 1246 1250	seed
+T42	Regulatory_Network 1246 1255	seed mass
+T45	Tissue 1421 1425	seed
+T44	Regulatory_Network 1421 1430	seed mass
+T47	Tissue 1511 1515	seed
+T46	Regulatory_Network 1511 1520	seed mass
+T48	Genotype 1553 1564	crop plants
+T49	Genotype 1614 1625	Arabidopsis
+T51	Tissue 1626 1630	seed
+T50	Regulatory_Network 1626 1635	seed mass
+T52	Genotype 1687 1699	small-seeded
+T53	Genotype 1704 1716	large-seeded
+T55	Tissue 1780 1784	seed
+T54	Regulatory_Network 1780 1789	seed mass
+T56	Regulatory_Network 1873 1887	sizes of seeds
+T57	Pathway 2018 2034	sugar metabolism
+T59	Tissue 2076 2080	seed
+T58	Regulatory_Network 2076 2085	seed mass
+T60	Genotype 2117 2126	fava bean
+T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+T61	Pathway 2153 2175	accumulation of hexose
+T64	Tissue 2195 2199	seed
+T63	Development_Phase 2195 2211	seed development
+T66	Tissue 2239 2243	seed
+T65	Regulatory_Network 2239 2248	seed mass
+T69	Tissue 2268 2272	seed
+T68	Regulatory_Network 2268 2272;2289 2298	seed cell size
+T67	Regulatory_Network 2268 2284	seed cell number
+T71	Tissue 2308 2312	Seed
+T70	Regulatory_Network 2308 2317	Seed mass
+T72	Genotype 2375 2431	Interploidy crosses between diploid and polyploid plants
+T73	Tissue 2494 2499	Seeds
+T74	Genotype 2505 2516	Arabidopsis
+T75	Tissue 2579 2584	seeds
+T76	Regulatory_Network 2628 2641	smaller seeds
+T77	Tissue 2636 2641	seeds
+T78	Regulatory_Network 2972 3042	Imprinting of maternal and paternal alleles expressed in the endosperm
+T79	Tissue 3033 3042	endosperm
+T81	Tissue 3093 3097	seed
+T80	Regulatory_Network 3093 3102	seed mass
+T82	Genotype 3169 3180	Arabidopsis
+T83	Gene 3181 3189	APETALA2
+T84	Gene 3191 3194	AP2
+T86	Tissue 3211 3215	seed
+T85	Regulatory_Network 3211 3220	seed mass
+T87	Gene 3222 3225	AP2
+T88	Genotype 3269 3274	plant
+T90	Protein_Family 3323 3332	AP2/EREBP
+T91	Protein 3323 3326	AP2
+T89	Protein_Domain 3323 3332;3379 3385	AP2/EREBP domain
+T92	Protein_Family 3327 3332	EREBP
+T93	Protein_Family 3334 3377	ethylene responsive element binding protein
+T94	Regulatory_Network 3494 3532	specification of flower organ identity
+T96	Tissue 3511 3517	flower
+T95	Development_Phase 3511 3532	flower organ identity
+T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+T99	Tissue 3551 3557	flower
+T98	Development_Phase 3551 3575	flower meristem identity
+T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy
+T102	Tissue 3596 3602	flower
+T101	Development_Phase 3596 3626	flower meristem indeterminancy
+T103	Gene 3640 3643	AP2
+T105	Tissue 3665 3670	ovule
+T104	Development_Phase 3665 3670;3685 3696	ovule development
+T107	Tissue 3675 3684	seed coat
+T106	Development_Phase 3675 3696	seed coat development
+T109	Gene 3753 3756	AP2
+T108	RNA 3753 3756;3787 3798	AP2 transcripts
+T111	Tissue 3763 3769	flower
+T110	Development_Phase 3763 3781	flower development
+T112	Tissue 3821 3828	flowers
+T113	Tissue 3849 3855	leaves
+T114	Tissue 3857 3862	stems
+T115	Tissue 3868 3877	seedlings
+T116	Gene 3947 3950	AP2
+T117	Gene 4008 4011	AP2
+T118	Genotype 4028 4048	loss-of-function ap2
+T119	Regulatory_Network 4065 4087	increases in seed mass
+T120	Tissue 4078 4082	seed

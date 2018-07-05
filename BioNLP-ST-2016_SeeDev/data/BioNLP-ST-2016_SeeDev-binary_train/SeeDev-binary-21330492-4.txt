@@ -1,0 +1,7 @@
+The key positive regulators of the maturation program are the LEC genes, probably assisted by several bZIP and MYB transcription
+factors (Baud et al., 2008). All of these bind to the promoters of seed storage protein genes and genes involved in the synthesis of storage lipids
+(Lara et al., 2003; Kagaya et al., 2005; Braybrook et al., 2006; Santos-Mendoza et al., 2008). We found that several of these genes were up-regulated in the dcl1-15 mutant: FUS3, LEC2, L1L, and several MYBs and bZIPs (Table I). In contrast, ABI3 was unaffected and LEC1 was down-regulated.
+We observed that in the wild type, the FUS3 and LEC2 transcriptional reporter genes are excluded from the embryo proper until the early heart stage, just before the beginning
+of maturation. In dcl1-15, they are expressed in the embryo proper at least by the early globular stage, coinciding with the onset of chlorophyll accumulation
+in the mutant. Our analysis of lec2-1 dcl1-15 and fus3-3 dcl1-15 double mutants confirms that both proteins are required for the early maturation phenotype, further supporting their position
+downstream of miRNAs.

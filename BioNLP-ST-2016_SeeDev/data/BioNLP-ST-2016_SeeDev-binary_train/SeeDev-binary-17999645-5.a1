@@ -1,0 +1,38 @@
+T1	Protein 0 5	AGL15
+T2	Protein 128 133	AGL15
+T3	Protein 212 217	AGL15
+T4	Box 228 238	CArG motif
+T5	Protein_Domain 372 389	C-terminal domain
+T6	Protein 395 398	GUS
+T7	Protein 399 402	LUC
+T8	Protein 478 483	AGL15
+T9	Protein_Domain 510 527	C-terminal domain
+T10	Gene 576 579	GUS
+T11	Protein_Domain 660 675	LENETLNRRQxxELR
+T12	Protein_Domain 690 701	LxLxL motif
+T13	Protein_Domain 707 722	LENETLNRRQxxELR
+T14	Protein 929 934	AGL15
+T15	Environmental_Factor 1077 1093	Yeast two-hybrid
+T16	Protein 1125 1130	AGL15
+T17	Protein 1149 1152	AP1
+T18	Protein 1182 1186	SEP3
+T19	Protein_Domain 1383 1396	LENETLNRRQxxE
+T20	Protein 1430 1435	AGL15
+T21	Protein 1495 1499	SEP3
+T22	Genotype 1503 1508	yeast
+T24	Protein 1780 1784	SIN3
+T23	Protein_Complex 1780 1790	SIN3/HDAC1
+T25	Protein 1785 1790	HDAC1
+T27	Protein 1887 1891	SIN3
+T26	Protein_Complex 1887 1897	SIN3/HDAC1
+T28	Protein 1892 1897	HDAC1
+T29	Protein_Family 1992 1997	HDACs
+T30	Genotype 2075 2081	plants
+T31	Protein 2082 2087	HDA19
+T32	Protein 2120 2125	bnKCP
+T33	Protein 2201 2206	HDA19
+T34	Protein 2244 2250	BnSCL1
+T35	Genotype 2271 2282	Arabidopsis
+T36	Protein 2283 2308	SCARECROW-like protein 15
+T37	Protein 2283 2292	SCARECROW
+T38	Protein 2310 2315	SCL15

@@ -1,0 +1,25 @@
+LEC2 Possesses a B3 Domain Characteristic of Transcription Factors.
+Our findings that the LEC2 gene encodes a B3 domain protein
+(Fig. 3) and is expressed primarily during embryogenesis (Fig. 4)
+suggest that it, like LEC1 and FUS3, is a transcriptional regulator of
+seed development. The B3 domain is an ≈120-amino acid residue region
+defined originally as the third basic region of maize VP1, which shares
+the largest contiguous block of sequence identity with its ortholog,
+Arabidopsis ABI3 (10). Subsequently, this domain was
+identified in other plant proteins, such as AUXIN RESPONSE FACTOR1 (34)
+and RELATED TO ABI3/VP1 (32). Many proteins containing B3 domains,
+including ABI3/VP1, FUS3, and AUXIN RESPONSE FACTOR1, function as
+transcription factors (20, 33, 34). The B3 domain is responsible, at
+least in part, for the DNA-binding activity of ABI3/VP1 and RELATED
+TO ABI3/VP1 (32, 37, 38). To our knowledge, the B3 DNA-binding domain
+is unique to plants.
+Maximum parsimony analysis (39) of the B3 domains of 48 predicted
+Arabidopsis proteins suggests that LEC2, FUS3, and ABI3
+constitute one class, perhaps indicating their common origin (S.L.S.
+and J.J.H., unpublished results). All three genes are expressed
+primarily during embryogenesis and are required genetically for the
+completion of normal seed development. Although they all play roles in
+seed development, their specific functions have diverged. ABI3 is a
+transcription factor that operates primarily during the maturation
+phase, whereas LEC2 and FUS3 are LEAFY COTYLEDON proteins required for
+processes during both the morphogenesis and maturation phases.

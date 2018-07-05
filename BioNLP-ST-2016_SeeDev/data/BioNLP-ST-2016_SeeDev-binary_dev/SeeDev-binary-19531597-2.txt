@@ -1,0 +1,23 @@
+As an outstanding adaptation of terrestrial plants, seed formation favors dispersal of species and allows the interruption
+of the life cycle and its resumption once optimal growth conditions are newly established (for review, see Vicente-Carbajosa
+and Carbonero, 2005; Weber et al., 2005; Santos-Mendoza et al., 2008). Seeds are formed after a double fertilization event, triggering the development of a complex organ, which comprises the
+embryo, the endosperm, and the seed coat derived from the integuments and other surrounding layers of maternal origin. Seed
+development can be divided into three phases: first, embryogenesis is characterized by cell division and differentiation until
+embryo morphology is established. Second, the maturation phase is dominated by storage compound accumulation, growth arrest,
+and acquisition of desiccation tolerance. Third, the embryo can enter into a dormancy state that is broken upon germination.
+With respect to seed morphology, physiology, and gene regulation, considerable variations occur among species. Arabidopsis thaliana has been developed as a well-established model system for dicot seed development, and several similarities and differences
+with monocot model systems have been described (Vicente-Carbajosa and Carbonero, 2005; Santos-Mendoza et al., 2008).
+Important programs of gene expression related to the metabolic changes that occur during seed maturation are highly coordinated
+and tightly regulated (Gutierrez et al., 2007). An understanding of gene expression control in the seed was tackled from early studies in plant molecular biology, with
+maize (Zea mays) Opaque2 (O2) representing a hallmark as one of the first plant transcription factor (TF) genes cloned and characterized
+(Hartings et al., 1989; Schmidt et al., 1990). Similarly, orthologous genes from wheat (Triticum aestivum) (SPA) and barley (Hordeum vulgare) (BLZ2) play the same roles as O2 in their corresponding species (Albani et al., 1997; Oñate et al., 1999). In dicot species, key TFs have been characterized that control gene expression programs during seed maturation.
+The class of maturation genes (MAT) expressed during seed maturation typically includes seed storage protein (SSP) genes,
+such as albumin and cruciferin genes, which are induced in early or mid-maturation phase. The late embryogenesis abundant
+(LEA) genes are induced at later stages of maturation and include genes proposed to be involved in acquisition of desiccation
+tolerance (for review, see Tunnacliffe and Wise, 2007). MAT promoter analyses have revealed several conserved cis-regulatory elements with functional relevance in the control of gene expression during seed maturation. Among them, G-box-related
+ACGT elements, RY (CATGCA), AACA, and CTTT motifs are the best described examples (for review, see Vicente-Carbajosa and Carbonero,
+2005). The corresponding associated TFs belong to the basic leucine zipper (bZIP), B3, MYB, and DOF TF families, respectively.
+Cooperation of these regulatory units in the control of gene expression appears to be an evolutionarily conserved pattern
+that can be traced back to the origins of the Spermaphyta (Vicente-Carbajosa and Carbonero, 2005; Schallau et al., 2008).
+TFs of the bZIP class, related to cereal O2-type TFs, have been identified in Arabidopsis (Lara et al., 2003), namely, bZIP10 and bZIP25, which have been classified into group C of the Arabidopsis bZIP TF family (Jakoby et al., 2002). Expression during seed development, specific binding to G-box-like ACGT elements of the albumin and cruciferin promoters,
+and in vivo regulation of these target genes have been demonstrated (Lara et al., 2003).

@@ -1,0 +1,28 @@
+Seeds of higher plants consist of three major components, each with a different genotype. The embryo that develops into the
+vegetative plant is diploid with a zygotic complement of genomes contributed by its parents. The endosperm, a tissue system
+that serves a nutritive role for the developing embryo and/or germinating seedling, is triploid with two and one genome equivalents,
+respectively, contributed by the maternal and paternal parent. By contrast, the seed coat that surrounds the embryo and endosperm
+is strictly of maternal origin. Growth and development of the embryo, endosperm, and seed coat must be coordinated to produce
+the mature seed. Although seeds have been studied extensively, many aspects of seed development are not well understood, including
+the mechanisms that underlie seed size or mass.
+A critical factor in determining plant fitness is seed mass. Seed mass is negatively correlated with the number of seeds produced
+and positively correlated with seedling survival (1–5). Small-seeded plants are considered to be efficient colonizers because they produce large numbers of seeds, whereas seedlings
+of large-seeded plants are thought to more effectively withstand resource restrictions and abiotic stresses. Moreover, seed
+mass can vary intraspecifically in response to environmental cues, although little is known of the specific regulatory processes
+involved.
+Several factors that influence seed mass have been identified. For example, quantitative trait loci (QTL) that influence seed
+mass have been mapped in a number of crop plants (6–12). An analysis of genetic factors affecting Arabidopsis seed mass used a segregating population from a cross between small-seeded and large-seeded ecotypes to show that both maternal
+and nonmaternal QTL affect seed mass, implicating both the maternal and zygotic genomes in processes that determine the sizes
+of seeds (13). Although the specific genes associated with these QTL have not been identified, other studies implicate enzymes involved
+in sugar metabolism as candidates for factors that influence seed mass (14). A series of studies with fava bean suggest that the relative accumulation of hexose and sucrose during seed development
+plays roles in determining seed mass through changes in seed cell number and cell size (14–16).
+Seed mass is also influenced by parent-of-origin effects (17, 18). Interploidy crosses between diploid and polyploid plants produce offspring with a maternal or paternal genomic excess.
+Seeds from Arabidopsis plants with a paternal genomic excess are larger than diploid seeds resulting from self-fertilization, whereas smaller seeds
+are obtained with a maternal genomic excess. The parental conflict theory (19, 20), proposed to account for these parent-of-origin effects, posits that the maternal plant will attempt to allocate resources
+equally among its progeny, whereas the paternal plant will try to maximize channeling of maternal resources to its progeny.
+Imprinting of maternal and paternal alleles expressed in the endosperm has been implicated to function in the control of seed
+mass (reviewed in refs. 21–23).
+In this study, we focus on the role of Arabidopsis APETALA2 (AP2) in controlling seed mass. AP2 encodes the founding member of a family of plant-specific transcription factors that contains an AP2/EREBP (ethylene responsive
+element binding protein) domain, a conserved region of ≈60 aa involved in DNA binding (24–26). This transcription factor is involved in the specification of flower organ identity, establishment of flower meristem identity,
+and suppression of flower meristem indeterminancy (25, 27–31). AP2 is also required for ovule and seed coat development (24, 32, 33). Although the most conspicuous function of AP2 is in flower development, its transcripts are not restricted to flowers but are detected in leaves, stems, and seedlings
+also (24, 34), opening the possibility of a more global function for AP2. Here, we identify a previously undescribed function for AP2 by showing that loss-of-function ap2 mutations cause increases in seed mass.

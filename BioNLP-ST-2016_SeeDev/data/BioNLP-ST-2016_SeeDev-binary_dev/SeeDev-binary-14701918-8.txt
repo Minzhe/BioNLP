@@ -1,0 +1,9 @@
+Although the defect in mucilage production is readily explained by the putative
+function of MUM4 as an NDP-l-Rha synthase, the connection with the columella shape change is less obvious. At least two hypotheses can explain the dependence
+of cell morphogenesis on mucilage synthesis. The formation of the apoplastic space and cytoplasmic column may be driven by
+the pressure of accumulating mucilage in the extracytoplasmic space and/or the formation of an osmotic gradient between the
+cell and the hydrophilic pectin may lead to the loss of turgor and size reduction of the vacuole. Such passive processes may
+contribute to cell morphogenesis but seem too simple to account for the apparent complexity of the shape of the cytoplasmic
+column. An alternate but not mutually exclusive explanation is that the synthesis of mucilage may represent or lead to the
+production of an oligosaccharide signal that stimulates the cell to undergo morphogenesis (Dumville and Fry, 2000; Ridley et al., 2001). Determination of the exact processes involved would be facilitated by the isolation of mutants affected specifically in
+the shaping of the columella.

@@ -1,0 +1,115 @@
+T1	Protein 0 5	AGL15
+T3	Protein 7 14	AGAMOUS
+T2	Protein 7 22	AGAMOUS-like 15
+T4	Protein_Family 43 61	MADS domain family
+T5	Protein_Domain 213 224	MADS domain
+T6	Protein_Family 350 370	MADS domain proteins
+T7	Protein_Family 464 505	MADS domain–containing regulatory factors
+T8	Genotype 523 543	eukaryotic organisms
+T9	Regulatory_Network 637 662	mating-type specification
+T10	Genotype 666 671	yeast
+T11	Development_Phase 673 691	muscle development
+T12	Genotype 695 705	Drosophila
+T13	Genotype 710 717	mammals
+T14	Regulatory_Network 723 751	responses to the environment
+T15	Genotype 755 761	humans
+T16	Protein_Family 763 782	MADS domain factors
+T17	Genotype 830 836	plants
+T18	Protein_Domain 857 868	MADS domain
+T19	Genotype 874 879	plant
+T20	Protein_Domain 937 945	K domain
+T21	Protein_Domain 978 1012	protein–protein interaction domain
+T22	Protein_Family 1062 1080	MADS domain family
+T23	Genotype 1116 1127	Arabidopsis
+T25	Tissue 1178 1190	floral organ
+T24	Development_Phase 1178 1199	floral organ identity
+T26	Protein 1211 1218	AGAMOUS
+T27	Protein 1220 1222	AG
+T28	Protein 1225 1233	APETALA3
+T29	Protein 1235 1238	AP3
+T30	Protein 1245 1255	PISTILLATA
+T32	Tissue 1257 1265	meristem
+T31	Development_Phase 1257 1274	meristem identity
+T33	Protein 1286 1294	APETALA1
+T34	Protein 1296 1299	AP1
+T35	Protein 1305 1316	CAULIFLOWER
+T37	Tissue 1318 1332	silique tissue
+T36	Development_Phase 1318 1341	silique tissue identity
+T38	Protein 1353 1362	FRUITFULL
+T39	Protein 1363 1367	AGL8
+T40	Protein 1369 1373	AGL1
+T41	Protein 1379 1383	AGL5
+T42	Protein_Family 1404 1415	AGL factors
+T43	Tissue 1449 1456	flowers
+T44	Tissue 1548 1554	flower
+T45	Protein 1632 1636	ANR1
+T47	Tissue 1671 1675	root
+T46	Regulatory_Network 1671 1688	root architecture
+T48	Environmental_Factor 1704 1725	nutrient availability
+T49	Protein 1754 1771	FLOWERING LOCUS C
+T50	Development_Phase 1808 1817	flowering
+T51	Protein 1903 1908	AGL15
+T52	Protein 2035 2040	AGL15
+T53	Development_Phase 2095 2128	beginning of the plant life cycle
+T54	Genotype 2112 2117	plant
+T56	Gene 2152 2157	AGL15
+T55	RNA 2152 2157;2177 2181	AGL15 mRNA
+T57	Development_Phase 2217 2235	developing embryos
+T58	Gene 2331 2336	AGL15
+T59	Genotype 2362 2373	Arabidopsis
+T60	Gene 2490 2495	AGL15
+T61	Protein_Family 2527 2545	MADS domain family
+T62	Genotype 2549 2560	Arabidopsis
+T63	Tissue 2595 2602	embryos
+T64	Gene 2607 2612	AGL15
+T65	Gene 2617 2621	AGL2
+T66	Gene 2646 2651	AGL15
+T67	Tissue 2692 2699	embryos
+T68	Gene 2709 2713	AGL2
+T69	Tissue 2744 2758	floral tissues
+T70	Protein 2785 2790	AGL15
+T71	Protein 2831 2836	AGL15
+T72	Tissue 2856 2879	nuclei of young embryos
+T73	Tissue 2856 2865;2896 2911	nuclei of suspensor cells
+T75	Tissue 2856 2862	nuclei
+T74	Tissue 2856 2865;2881 2890	nuclei of endosperm
+T76	Tissue 2866 2879	young embryos
+T77	Tissue 2881 2890	endosperm
+T78	Tissue 2896 2911	suspensor cells
+T80	Tissue 2928 2937	cytoplasm
+T79	Tissue 2928 2953	cytoplasm of the egg cell
+T81	Tissue 2945 2953	egg cell
+T82	Protein 3004 3009	AGL15
+T83	Protein 3107 3112	AGL15
+T84	Tissue 3143 3150	embryos
+T85	Development_Phase 3202 3217	embryonic phase
+T87	Gene 3219 3224	AGL15
+T86	RNA 3219 3236	AGL15 transcripts
+T88	Tissue 3259 3286	young Arabidopsis seedlings
+T89	Genotype 3265 3276	Arabidopsis
+T90	Tissue 3375 3382	flowers
+T91	Genotype 3387 3395	Brassica
+T92	Protein_Family 3571 3590	MADS domain factors
+T93	Gene 3652 3657	AGL15
+T94	Development_Phase 3672 3692	postembryonic phases
+T96	Gene 3721 3726	AGL15
+T95	Promoter 3721 3735	AGL15 promoter
+T97	Gene 3854 3859	AGL15
+T98	Protein 3909 3914	AGL15
+T99	Tissue 3931 3938	embryos
+T100	Tissue 4078 4087	cytoplasm
+T101	Tissue 4095 4101	nuclei
+T102	Protein 4125 4130	AGL15
+T103	Tissue 4158 4164	nuclei
+T104	Development_Phase 4205 4215;4233 4239	vegetative phases
+T105	Development_Phase 4220 4239	reproductive phases
+T106	Development_Phase 4309 4325	plant life cycle
+T107	Gene 4415 4420	AGL15
+T108	Development_Phase 4439 4464	postembryonic development
+T109	Development_Phase 4542 4565	transition to flowering
+T110	Development_Phase 4567 4585	perianth longevity
+T111	Development_Phase 4591 4607	fruit maturation
+T112	Protein_Family 4655 4673	MADS domain factor
+T113	Protein 4689 4694	AGL15
+T114	Regulatory_Network 4726 4762	age-dependent developmental programs
+T115	Tissue 4780 4800	reproductive tissues

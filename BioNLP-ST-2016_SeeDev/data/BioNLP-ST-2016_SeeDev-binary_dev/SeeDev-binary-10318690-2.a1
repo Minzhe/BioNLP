@@ -1,0 +1,149 @@
+T1	Protein 28 33	AGL15
+T2	Tissue 75 107	products of double fertilization
+T3	Tissue 113 119	embryo
+T4	Tissue 121 130	suspensor
+T5	Tissue 136 145	endosperm
+T6	Development_Phase 147 176	following sexual reproduction
+T7	Genotype 180 191	angiosperms
+T8	Tissue 229 245	immature embryos
+T9	Protein 271 276	AGL15
+T10	Development_Phase 294 326	development in an embryonic mode
+T11	Protein 430 435	AGL15
+T12	Protein_Family 439 461	AGL15-related proteins
+T13	Protein 439 444	AGL15
+T14	Tissue 494 501	embryos
+T15	Tissue 505 533	organs with embryonic tissue
+T16	Tissue 517 533	embryonic tissue
+T17	Tissue 555 559	seed
+T18	Development_Phase 583 607	fertilization of the egg
+T19	Tissue 604 607	egg
+T20	Protein 622 627	AGL15
+T21	Genotype 713 729	flowering plants
+T22	Tissue 755 762	embryos
+T23	Tissue 766 782	embryonic organs
+T24	Protein_Family 823 845	AGL15-related proteins
+T25	Protein 823 828	AGL15
+T26	Genotype 901 910	dandelion
+T27	Tissue 911 918	embryos
+T29	Environmental_Factor 937 963	absence of a fertilization
+T28	Environmental_Factor 937 963	absence of a fertilization
+T30	Development_Phase 950 963	fertilization
+T31	Protein 1004 1009	AGL15
+T32	Genotype 1014 1023	dandelion
+T33	Tissue 1025 1032	embryos
+T34	Development_Phase 1043 1051	apomixis
+T35	Protein_Family 1094 1115	AGL15-related protein
+T36	Protein 1094 1099	AGL15
+T37	Tissue 1157 1172	asexual embryos
+T38	Tissue 1187 1202	zygotic embryos
+T39	Development_Phase 1226 1239	fertilization
+T40	Genotype 1300 1304	xtc2
+T41	Genotype 1315 1326	Arabidopsis
+T42	Protein 1341 1346	AGL15
+T43	Tissue 1362 1392	organs with embryonic features
+T44	Tissue 1399 1409	cotyledons
+T45	Development_Phase 1440 1466	later stages of embryogeny
+T46	Development_Phase 1493 1504	germination
+T47	Genotype 1513 1517	xtc2
+T48	Genotype 1528 1539	Arabidopsis
+T49	Tissue 1541 1561	secondary cotyledons
+T50	Tissue 1551 1561	cotyledons
+T52	Tissue 1618 1624	embryo
+T51	Development_Phase 1618 1624;1639 1651	embryo development
+T54	Tissue 1629 1639	shoot apex
+T53	Development_Phase 1629 1651	shoot apex development
+T55	Genotype 1680 1684	xtc2
+T57	Tissue 1685 1691	embryo
+T56	Development_Phase 1685 1703	embryo development
+T60	Tissue 1720 1730	shoot apex
+T59	Development_Phase 1720 1742	shoot apex development
+T58	Regulatory_Network 1720 1765	shoot apex development initiates precociously
+T61	Development_Phase 1767 1777	Maturation
+T62	Genotype 1783 1787	xtc2
+T63	Tissue 1788 1795	embryos
+T64	Development_Phase 1807 1834	late-heart to early-torpedo
+T65	Development_Phase 1807 1817	late-heart
+T66	Development_Phase 1821 1834	early-torpedo
+T67	Development_Phase 1868 1881	morphogenesis
+T68	Regulatory_Network 1891 1906	large primordia
+T69	Tissue 1897 1906	primordia
+T70	Tissue 1914 1924	shoot apex
+T71	Protein 1967 1972	AGL15
+T72	Tissue 2009 2029	secondary cotyledons
+T73	Tissue 2019 2029	cotyledons
+T74	Tissue 2056 2065	primordia
+T75	Tissue 2074 2080	leaves
+T76	Tissue 2126 2132	organs
+T77	Regulatory_Network 2149 2171	precocious germination
+T78	Development_Phase 2160 2171	germination
+T79	Genotype 2175 2187	oilseed rape
+T80	Protein 2202 2207	AGL15
+T81	Tissue 2228 2289	cotyledons that are initiated outside of the seed environment
+T82	Tissue 2273 2277	seed
+T83	Tissue 2296 2304;2318 2325	immature embryos
+T84	Genotype 2305 2317	oilseed rape
+T85	Tissue 2318 2325	embryos
+T86	Tissue 2403 2409	organs
+T87	Tissue 2411 2431	secondary cotyledons
+T88	Tissue 2433 2439	leaves
+T89	Tissue 2445 2460	chimeric organs
+T90	Tissue 2484 2493	cotyledon
+T91	Tissue 2498 2509	leaf tissue
+T92	Protein 2573 2578	AGL15
+T93	Tissue 2596 2602	organs
+T94	Tissue 2646 2662	cotyledon tissue
+T95	Tissue 2700 2706	organs
+T96	Tissue 2727 2743	maternal tissues
+T97	Regulatory_Network 2843 2864	somatic embryogenesis
+T98	Protein 2879 2884	AGL15
+T99	Tissue 2907 2914	embryos
+T100	Tissue 2934 2939	cells
+T101	Tissue 2975 3008	Immature oilseed rape microspores
+T102	Genotype 2984 2996	oilseed rape
+T103	Tissue 3040 3046	pollen
+T104	Tissue 3048 3053	calli
+T105	Tissue 3058 3065	embryos
+T106	Protein 3067 3072	AGL15
+T109	Tissue 3097 3103	nuclei
+T108	Tissue 3097 3106;3134 3165	nuclei of the cells in unorganized masses
+T107	Tissue 3097 3126	nuclei of fully mature pollen
+T110	Tissue 3113 3126	mature pollen
+T111	Tissue 3138 3165	cells in unorganized masses
+T112	Tissue 3176 3216	cells that took on an embryonic identity
+T113	Development_Phase 3198 3216	embryonic identity
+T114	Protein 3246 3251	AGL15
+T115	Protein_Family 3281 3303	AGL15-related proteins
+T116	Protein 3281 3286	AGL15
+T117	Genotype 3333 3340	alfalfa
+T118	Tissue 3348 3355	embryos
+T119	Tissue 3383 3401	mature leaf tissue
+T120	Tissue 3471 3491	leaf mesophyll cells
+T121	Genotype 3495 3502	alfalfa
+T122	Protein_Family 3526 3548	AGL15-related proteins
+T123	Protein 3526 3531	AGL15
+T124	Tissue 3575 3594	mature leaf tissues
+T125	Genotype 3598 3610	oilseed rape
+T126	Genotype 3612 3623	Arabidopsis
+T127	Genotype 3702 3708	tomato
+T128	Genotype 3748 3753	maize
+T129	Tissue 3826 3845	mature leaf tissues
+T130	Genotype 3849 3852	pea
+T131	Protein_Family 3930 3951	AGL15-related protein
+T132	Protein 3930 3935	AGL15
+T133	Genotype 4012 4019	alfalfa
+T134	Tissue 4020 4030	leaf cells
+T135	Protein 4032 4037	AGL15
+T138	Development_Phase 4096 4114	embryonic identity
+T136	Regulatory_Network 4096 4124	embryonic identity on a cell
+T137	Regulatory_Network 4096 4117;4128 4133	embryonic identity on cells
+T139	Tissue 4139 4152	floral organs
+T140	Genotype 4156 4183	plants overexpressing AGL15
+T141	Protein 4178 4183	AGL15
+T142	Protein 4196 4201	AGL15
+T143	Tissue 4245 4265	reproductive tissues
+T144	Protein 4276 4281	AGL15
+T145	Regulatory_Network 4345 4359	embryonic mode
+T146	Tissue 4375 4383;4397 4408	immature microspores
+T147	Genotype 4384 4396	oilseed rape
+T148	Tissue 4397 4408	microspores
+T149	Protein 4451 4456	AGL15

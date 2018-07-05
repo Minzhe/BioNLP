@@ -1,0 +1,9 @@
+Transcription of Arabidopsis thaliana seed maturation (MAT) genes is controlled by members of several transcription factor families, such as basic leucine zippers
+(bZIPs), B3s, MYBs, and DOFs. In this work, we identify Arabidopsis bZIP53 as a novel transcriptional regulator of MAT genes. bZIP53 expression in developing seeds precedes and overlaps that of its target genes. Gain- and loss-of-function approaches indicate
+a correlation between the amount of bZIP53 protein and MAT gene expression. Specific in vivo and in vitro binding of bZIP53
+protein to a G-box element in the albumin 2S2 promoter is demonstrated. Importantly, heterodimerization with bZIP10 or bZIP25, previously described bZIP regulators of
+MAT gene expression, significantly enhances DNA binding activity and produces a synergistic increase in target gene activation.
+Full-level target gene activation is strongly correlated with the ratio of the correspondent bZIP heterodimerization partners.
+Whereas bZIP53 does not interact with ABI3, a crucial transcriptional regulator in Arabidopsis seeds, ternary complex formation between the bZIP heterodimers and ABI3 increases the expression of MAT genes in planta.
+We therefore propose that heterodimers containing bZIP53 participate in enhanceosome formation to produce a dramatic increase
+in MAT gene transcription.

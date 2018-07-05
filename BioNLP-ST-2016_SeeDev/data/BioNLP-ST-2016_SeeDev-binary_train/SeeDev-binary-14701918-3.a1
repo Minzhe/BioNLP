@@ -1,0 +1,93 @@
+T1	Pathway 4 26	production of mucilage
+T2	Tissue 34 78	epidermal cells of the Arabidopsis seed coat
+T3	Tissue 34 49	epidermal cells
+T4	Genotype 57 68	Arabidopsis
+T5	Tissue 69 78	seed coat
+T6	Regulatory_Network 104 125	developmental process
+T7	Development_Phase 143 154	cell growth
+T8	Pathway 168 180;221 230	biosynthesis of pectin
+T9	Pathway 185 200;221 230	polar secretion of pectin
+T10	Regulatory_Network 232 265	formation of a cytoplasmic column
+T11	Regulatory_Network 274 298	cytoplasmic constriction
+T12	Regulatory_Network 303 323	vacuolar contraction
+T13	Regulatory_Network 343 377	synthesis of a secondary cell wall
+T14	Pathway 458 476	Seed coat mucilage
+T15	Tissue 458 467	Seed coat
+T16	Genotype 523 534	Arabidopsis
+T17	Genotype 539 542	mum
+T18	Genotype 544 561	mucilage-modified
+T19	Pathway 581 600	mucilage production
+T20	Genotype 672 684;705 709	Mutations in MUM4
+T21	Gene 705 709	MUM4
+T22	Pathway 735 743;751 759	mucilage released
+T23	Tissue 765 786	hydrated mature seeds
+T27	Tissue 866 870	seed
+T25	Tissue 866 885	seed coat epidermal
+T26	Tissue 866 875	seed coat
+T24	Development_Phase 866 897	seed coat epidermal development
+T28	Tissue 941 946	seeds
+T29	Pathway 960 976	release mucilage
+T30	Environmental_Factor 982 991	hydration
+T31	Genotype 993 1007	Mutants in AP2
+T32	Gene 1004 1007	AP2
+T33	Gene 1009 1017	APETALA2
+T34	Regulatory_Network 1041 1072	defects in floral morphogenesis
+T35	Development_Phase 1052 1072	floral morphogenesis
+T36	Regulatory_Network 1074 1144	lack differentiation past the growth phase of mucilage secretory cells
+T37	Development_Phase 1104 1116	growth phase
+T39	Pathway 1120 1128	mucilage
+T38	Tissue 1120 1144	mucilage secretory cells
+T40	Gene 1190 1194	TTG1
+T41	Gene 1196 1221	TRANSPARENT TESTA GLABRA1
+T42	Gene 1224 1228	TTG2
+T43	Gene 1234 1237	GL2
+T44	Gene 1239 1246	GLABRA2
+T46	Tissue 1304 1312	trichome
+T45	Regulatory_Network 1304 1326	trichome specification
+T48	Regulatory_Network 1333 1343;1362 1382	defects in columella production
+T47	Regulatory_Network 1333 1343;1349 1357;1372 1382	defects in mucilage production
+T49	Pathway 1349 1357;1372 1382	mucilage production
+T50	Pathway 1362 1382	columella production
+T51	Tissue 1390 1399	seed coat
+T52	Tissue 1543 1552	trichomes
+T53	Tissue 1557 1567	root hairs
+T54	Protein 1573 1577	TTG1
+T55	Protein_Family 1595 1617;1625 1632	basic helix-loop-helix protein
+T56	Protein_Domain 1595 1617	basic helix-loop-helix
+T57	Protein_Domain 1619 1623	bHLH
+T58	Protein_Family 1655 1658	MYB
+T59	Gene 1684 1687	GL2
+T60	Gene 1692 1696	TTG2
+T61	Genotype 1771 1789	mutations in MYB61
+T62	Gene 1784 1789	MYB61
+T63	Pathway 1834 1842;1857 1867	mucilage production
+T64	Pathway 1847 1867	columella production
+T65	Genotype 1875 1886	Arabidopsis
+T66	Tissue 1887 1896	seed coat
+T67	Gene 1982 1986	MUM4
+T68	Development_Phase 1994 2034	development of the Arabidopsis seed coat
+T69	Genotype 2013 2024	Arabidopsis
+T70	Tissue 2025 2034	seed coat
+T71	Gene 2064 2068	MUM4
+T72	Gene 2090 2094	MUM4
+T73	Protein_Family 2114 2132	NDP-l-Rha synthase
+T74	Regulatory_Network 2165 2198	reduced mucilage in the seed coat
+T75	Tissue 2189 2198	seed coat
+T76	Regulatory_Network 2206 2223	altered columella
+T77	Gene 2254 2258	MUM4
+T79	Gene 2254 2258	MUM4
+T78	RNA 2254 2258;2335 2345	MUM4 transcript
+T81	Tissue 2295 2304	seed coat
+T80	Development_Phase 2295 2320	seed coat differentiation
+T82	Development_Phase 2374 2401	time of mucilage production
+T83	Pathway 2382 2401	mucilage production
+T84	Gene 2416 2420	MUM4
+T85	Protein 2507 2510	AP2
+T86	Protein 2512 2516	TTG1
+T87	Protein 2522 2525	GL2
+T88	Pathway 2571 2590	mucilage production
+T90	Tissue 2613 2622	seed coat
+T89	Tissue 2613 2638	seed coat epidermal cells
+T91	Tissue 2613 2617	seed
+T93	Tissue 2693 2702	seed coat
+T92	Regulatory_Network 2693 2728	seed coat epidermal differentiation

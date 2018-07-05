@@ -1,0 +1,211 @@
+T1	Genotype 6 10	dcl1
+T2	Tissue 18 25	embryos
+T3	RNA 31 37	miR156
+T4	Regulatory_Network 50 88	premature expression of miR156 targets
+T5	RNA 74 80	miR156
+T6	Gene 89 94	SPL10
+T7	Gene 99 104	SPL11
+T8	Regulatory_Network 128 220	precocious expression of genes normally induced during the maturation phase of embryogenesis
+T9	Development_Phase 187 220	maturation phase of embryogenesis
+T10	Genotype 249 254	plant
+T11	RNA 255 261	miRNAs
+T12	RNA 272 278	miR160
+T13	RNA 280 286	miR166
+T14	RNA 292 298	miR319
+T15	Regulatory_Network 328 375	differentiation-promoting transcription factors
+T16	Gene 384 389	ARF17
+T17	Gene 391 394	CNA
+T18	Gene 396 399	PHB
+T19	Gene 401 404	PHV
+T20	Gene 410 414	TCP4
+T21	Regulatory_Network 431 472	delayed reduction of maternal transcripts
+T22	Development_Phase 481 494	morphogenesis
+T23	Genotype 518 525	MZdicer
+T24	Tissue 526 533	embryos
+T25	Regulatory_Network 593 640	precocious expression of maturation transcripts
+T26	Genotype 683 687	dcl1
+T27	Tissue 688 695	embryos
+T28	Gene 706 711	SPL10
+T29	Gene 716 721	SPL11
+T30	Regulatory_Network 757 767;773 783	defects in patterning
+T31	Regulatory_Network 757 767;788 814	defects in maturation gene expression
+T32	Genotype 857 862	plant
+T33	RNA 863 869	miRNAs
+T34	Regulatory_Network 948 995	differentiation-promoting transcription factors
+T35	Gene 1007 1012	SPL10
+T36	Gene 1014 1019	SPL11
+T37	Gene 1021 1026	ARF17
+T38	Gene 1028 1031	CNA
+T39	Gene 1033 1036	PHB
+T40	Gene 1038 1041	PHV
+T41	Gene 1047 1051	TCP4
+T42	RNA 1054 1060	miRNAs
+T43	Regulatory_Network 1074 1169	potential of preglobular cells to generate diverse cell types at the subsequent globular stages
+T44	Tissue 1087 1104	preglobular cells
+T45	Development_Phase 1143 1169	subsequent globular stages
+T47	Gene 1194 1198	WOX2
+T46	RNA 1194 1210	WOX2 transcripts
+T48	Genotype 1214 1218	dcl1
+T49	Development_Phase 1219 1229	eight-cell
+T50	Tissue 1230 1237	embryos
+T51	Regulatory_Network 1263 1285	differentiation defect
+T52	Gene 1317 1321	WOX2
+T53	Regulatory_Network 1346 1402	maintaining stem cells during post-embryonic development
+T54	Tissue 1358 1368	stem cells
+T55	Development_Phase 1376 1402	post-embryonic development
+T56	Regulatory_Network 1476 1513	premature expression of miRNA targets
+T57	RNA 1500 1505	miRNA
+T59	Gene 1540 1544	WOX2
+T58	RNA 1540 1556	WOX2 transcripts
+T60	Genotype 1560 1564	dcl1
+T61	Tissue 1565 1572	embryos
+T62	Regulatory_Network 1603 1629	precocious differentiation
+T63	Regulatory_Network 1645 1702	loss of developmental potential in preglobular cell types
+T64	Tissue 1680 1702	preglobular cell types
+T65	Development_Phase 1769 1779	eight-cell
+T66	Genotype 1780 1784	dcl1
+T67	Tissue 1785 1792	embryos
+T68	RNA 1798 1804	miR156
+T69	Gene 1813 1818	SPL10
+T70	RNA 1813 1818;1840 1851	SPL10 transcripts
+T71	Gene 1823 1828	SPL11
+T72	RNA 1823 1828;1840 1851	SPL11 transcripts
+T73	Genotype 1903 1920	homozygous mutant
+T74	Tissue 1921 1928	embryos
+T76	Development_Phase 2009 2029	embryonic patterning
+T75	Regulatory_Network 2009 2037	embryonic patterning defects
+T77	Genotype 2050 2054	dcl1
+T78	Tissue 2055 2062	embryos
+T79	RNA 2168 2173	miRNA
+T80	RNA 2229 2234	miRNA
+T81	Genotype 2263 2267	dcl1
+T82	Tissue 2268 2275	embryos
+T85	RNA 2286 2292	miR156
+T84	Genotype 2286 2302;2313 2329	miR156-resistant SPL11 transgenes
+T83	Genotype 2286 2308;2319 2329	miR156-resistant SPL10 transgenes
+T86	Gene 2303 2308	SPL10
+T87	Gene 2313 2318	SPL11
+T88	Genotype 2348 2352	dcl1
+T89	Tissue 2353 2360	embryos
+T90	Regulatory_Network 2441 2459	patterning defects
+T91	RNA 2512 2536	miRNA target transcripts
+T92	Gene 2552 2557	SPL10
+T93	Gene 2562 2567	SPL11
+T94	Development_Phase 2606 2622	eight-cell stage
+T95	Gene 2714 2719	ARF17
+T96	Gene 2721 2724	CNA
+T97	Gene 2726 2729	PHB
+T98	Gene 2731 2734	PHV
+T99	Gene 2740 2744	TCP4
+T100	Regulatory_Network 2760 2779	embryonic functions
+T101	Development_Phase 2780 2807	after the preglobular stage
+T104	RNA 2873 2879	miR166
+T102	Regulatory_Network 2873 2906	miR166-mediated regulation of PHB
+T103	Regulatory_Network 2873 2902;2911 2914	miR166-mediated regulation of PHV
+T105	Gene 2903 2906	PHB
+T106	Gene 2911 2914	PHV
+T107	Development_Phase 2961 2987	early embryonic patterning
+T108	Genotype 3018 3040	phb phv double mutants
+T109	Genotype 3057 3066	dcl1-null
+T110	RNA 3152 3157	miRNA
+T111	Genotype 3186 3190	dcl1
+T113	Regulatory_Network 3225 3232;3288 3339	loss of miR166-mediated regulation of HD-ZIPIII transcripts
+T112	Regulatory_Network 3225 3232;3238 3283	loss of miR156-mediated regulation of SPL transcripts
+T114	RNA 3238 3244	miR156
+T116	Gene 3268 3271	SPL
+T115	RNA 3268 3283	SPL transcripts
+T117	RNA 3288 3294	miR166
+T119	Gene_Family 3318 3327	HD-ZIPIII
+T118	RNA 3318 3339	HD-ZIPIII transcripts
+T120	Genotype 3343 3347	dcl1
+T121	Tissue 3348 3355	embryos
+T122	Development_Phase 3379 3399	embryonic patterning
+T123	RNA 3461 3466	miRNA
+T124	Development_Phase 3498 3528	embryonic cell differentiation
+T125	Genotype 3588 3593	plant
+T126	Tissue 3626 3632	embryo
+T127	Development_Phase 3633 3646	morphogenesis
+T129	RNA 3699 3705	miR156
+T128	Regulatory_Network 3699 3734	miR156-mediated SPL gene repression
+T130	Gene 3715 3718	SPL
+T131	Development_Phase 3742 3755	embryogenesis
+T132	Development_Phase 3757 3776	After morphogenesis
+T133	Tissue 3778 3782	seed
+T134	Genotype 3783 3788	plant
+T135	Tissue 3789 3796	embryos
+T136	Development_Phase 3797 3829	transition to a maturation phase
+T137	Pathway 3852 3868	storage proteins
+T138	Pathway 3878 3899	desiccation tolerance
+T139	Development_Phase 3929 3946	state of dormancy
+T140	Development_Phase 3956 3967	germination
+T141	RNA 3983 3989	miR156
+T142	Gene 4013 4018	SPL10
+T143	Protein_Family 4013 4018;4042 4071	SPL10 transcription factor products
+T144	Gene 4023 4028	SPL11
+T145	Protein_Family 4023 4028;4042 4071	SPL11 transcription factor products
+T146	Regulatory_Network 4092 4163	prematurely inducing seed maturation genes before the embryo has formed
+T148	Tissue 4113 4117	seed
+T147	Development_Phase 4113 4128	seed maturation
+T149	Tissue 4146 4152	embryo
+T151	Development_Phase 4215 4228	morphogenesis
+T150	Development_Phase 4215 4259	morphogenesis-to-maturation-phase transition
+T152	Development_Phase 4232 4248	maturation-phase
+T154	RNA 4292 4298	miR156
+T153	Regulatory_Network 4292 4331	miR156-mediated repression of SPL genes
+T155	Gene_Family 4322 4325	SPL
+T156	Development_Phase 4360 4371;4410 4427	vegetative- phase transitions
+T157	Development_Phase 4373 4386;4410 4427	reproductive- phase transitions
+T158	Development_Phase 4392 4427	meristem identity-phase transitions
+T159	Development_Phase 4435 4461	post-embryonic development
+T160	Gene 4600 4605	SPL10
+T161	Gene 4610 4615	SPL11
+T162	Regulatory_Network 4685 4703	patterning defects
+T163	Genotype 4716 4720	dcl1
+T164	Tissue 4721 4728	embryos
+T165	Regulatory_Network 4742 4831	premature induction of maturation-phase genes arrests morphogenesis before it is complete
+T166	Development_Phase 4765 4781	maturation-phase
+T167	Development_Phase 4796 4809	morphogenesis
+T168	RNA 4859 4865	miR156
+T169	Gene 4889 4894	SPL10
+T170	Gene 4899 4904	SPL11
+T171	Tissue 4950 4956	embryo
+T173	Development_Phase 4972 4985	morphogenesis
+T172	Development_Phase 4972 5010	morphogenesis-to-maturation transition
+T174	Development_Phase 4989 4999	maturation
+T175	RNA 5021 5027	miR156
+T176	Development_Phase 5064 5093	later stages of morphogenesis
+T177	Development_Phase 5080 5093	morphogenesis
+T178	Gene 5105 5110	SPL10
+T179	Promoter 5105 5110;5121 5129	SPL10 promoter
+T181	Gene 5115 5120	SPL11
+T180	Promoter 5115 5129	SPL11 promoter
+T183	Development_Phase 5181 5194	morphogenesis
+T182	Development_Phase 5181 5225	morphogenesis-to-maturation-phase transition
+T184	Development_Phase 5198 5214	maturation-phase
+T185	Development_Phase 5257 5286	later stages of morphogenesis
+T186	Development_Phase 5273 5286	morphogenesis
+T187	RNA 5288 5294	miR156
+T188	Gene 5326 5331	SPL10
+T189	RNA 5326 5331;5342 5352	SPL10 transcript
+T191	Gene 5336 5341	SPL11
+T190	RNA 5336 5352	SPL11 transcript
+T193	Development_Phase 5408 5424	maturation-phase
+T192	Regulatory_Network 5408 5449	maturation-phase gene expression programs
+T195	Tissue 5536 5542	embryo
+T194	Development_Phase 5536 5553	embryo maturation
+T197	Development_Phase 5675 5688	morphogenesis
+T196	Development_Phase 5675 5719	morphogenesis-to-maturation-phase transition
+T198	Development_Phase 5692 5708	maturation-phase
+T199	Gene 5782 5787	SPL10
+T200	RNA 5782 5787;5798 5808	SPL10 transcript
+T202	Gene 5792 5797	SPL11
+T201	RNA 5792 5808	SPL11 transcript
+T203	Development_Phase 5858 5902	morphogenesis-to-maturation-phase transition
+T204	Development_Phase 5858 5871	morphogenesis
+T205	Development_Phase 5875 5891	maturation-phase
+T206	Regulatory_Network 5936 5955	embryonic functions
+T208	Gene 5959 5962	SPL
+T207	Protein_Family 5959 5984	SPL transcription factors
+T210	Development_Phase 6057 6070	morphogenesis
+T209	Development_Phase 6057 6101	morphogenesis-to-maturation-phase transition
+T211	Development_Phase 6074 6090	maturation-phase

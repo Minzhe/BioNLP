@@ -1,0 +1,60 @@
+T1	Protein 12 20	APETALA2
+T2	Protein_Family 12 20;26 52	APETALA2 -type transcription factor
+T3	Protein 22 25	AP2
+T4	Protein 54 63	WRINKLED1
+T5	Protein 65 69	WRI1
+T6	Pathway 122 138	triacylglycerols
+T7	Genotype 149 160	Arabidopsis
+T8	Tissue 161 166	seeds
+T9	Genotype 219 241	Overexpression of WRI1
+T10	Gene 237 241	WRI1
+T11	Pathway 282 292;298 307	fatty acid synthesis
+T12	Tissue 311 319	plastids
+T13	Protein 354 369	pyruvate kinase
+T14	Gene 371 378	Pl-PKβ1
+T15	Protein 381 403	acetyl-CoA carboxylase
+T16	Gene 405 410	BCCP2
+T17	Protein 413 433	acyl carrier protein
+T18	Gene 435 439	ACP1
+T19	Protein 446 484	ketoacyl-acyl carrier protein synthase
+T20	Gene 486 490	KAS1
+T21	Genotype 539 575	mutants with reduced WRI1 expression
+T22	Gene 560 564	WRI1
+T23	Protein 601 604	LUC
+T26	Promoter 629 678;699 703	proximal sequences upstream from the ATG codon of KAS1
+T24	Promoter 629 686	proximal sequences upstream from the ATG codon of Pl-PKβ1
+T25	Promoter 629 678;688 693	proximal sequences upstream from the ATG codon of BCCP2
+T27	Gene 679 686	Pl-PKβ1
+T28	Gene 688 693	BCCP2
+T29	Gene 699 703	KAS1
+T30	Tissue 707 718	protoplasts
+T31	Genotype 736 757	co-expression of WRI1
+T32	Gene 753 757	WRI1
+T33	Protein 775 779	WRI1
+T34	Environmental_Factor 814 822	in vitro
+T36	Protein 834 838	WRI1
+T35	Box 834 852	WRI1 binding sites
+T37	Box 871 886	[CnTnG](n)7[CG]
+T38	Box 932 938	AW-box
+T39	Box 957 965	AW-boxes
+T40	Promoter 1011 1044	5′-untranslated region of Pl-PKβ1
+T41	Gene 1037 1044	Pl-PKβ1
+T42	Protein 1069 1073	WRI1
+T43	Tissue 1077 1088	protoplasts
+T44	Development_Phase 1111 1126	seed maturation
+T45	Tissue 1111 1115	seed
+T46	Pathway 1165 1182	synthesis of TAGs
+T47	Pathway 1178 1182;1187 1212	TAGs packaging into oil bodies
+T48	Tissue 1220 1261	endoplasmic reticulum in developing seeds
+T49	Tissue 1220 1241	endoplasmic reticulum
+T50	Tissue 1245 1261	developing seeds
+T51	Gene 1271 1275	WRI1
+T53	Gene 1318 1322	WRI1
+T52	Genotype 1318 1337	WRI1 overexpression
+T54	Gene 1345 1349	WRI1
+T55	Pathway 1363 1384	flow of carbon to oil
+T56	Development_Phase 1392 1407	seed maturation
+T57	Tissue 1392 1396	seed
+T58	Pathway 1449 1461	FA synthesis
+T59	Pathway 1488 1496;1509 1515	assembly of TAG
+T60	Pathway 1501 1515	storage of TAG

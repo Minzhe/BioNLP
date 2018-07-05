@@ -1,0 +1,190 @@
+T1	Genotype 0 12	Higher plant
+T2	Development_Phase 13 26	embryogenesis
+T3	Regulatory_Network 77 106	early morphogenetic processes
+T4	Tissue 125 154	embryonic cell types, tissues
+T5	Tissue 160 173	organ systems
+T6	Regulatory_Network 179 201	late maturation events
+T7	Tissue 217 239	fully developed embryo
+T8	Development_Phase 251 261;290 295	desiccated state
+T9	Development_Phase 266 295	metabolically quiescent state
+T10	Development_Phase 360 374	dormant embryo
+T11	Tissue 368 374	embryo
+T12	Development_Phase 391 411	seedling development
+T13	Development_Phase 426 441	seed maturation
+T14	Tissue 426 430	seed
+T15	Development_Phase 446 466	metabolic quiescence
+T16	Regulatory_Network 481 504	morphogenetic processes
+T17	Development_Phase 523 536	embryogenesis
+T18	Development_Phase 541 561	seedling development
+T19	Tissue 641 646	seeds
+T20	Genotype 711 724	higher plants
+T21	Genotype 749 761	lower plants
+T22	Tissue 774 779	seeds
+T23	Development_Phase 799 816	embryo maturation
+T24	Tissue 799 805	embryo
+T25	Development_Phase 841 854	embryogenesis
+T26	Development_Phase 905 922	maturation events
+T27	Genotype 932 944	higher plant
+T28	Development_Phase 1083 1096	morphogenesis
+T29	Development_Phase 1101 1116	seed maturation
+T30	Tissue 1101 1105	seed
+T31	Genotype 1194 1214	Arabidopsis thaliana
+T32	Development_Phase 1215 1233	embryo development
+T33	Tissue 1215 1221	embryo
+T34	Development_Phase 1286 1299	embryogenesis
+T35	Genotype 1335 1344	raspberry
+T36	Genotype 1346 1352	tinman
+T37	Genotype 1358 1376	abnormal suspensor
+T38	Regulatory_Network 1447 1477	arrest of embryo morphogenesis
+T39	Development_Phase 1457 1477	embryo morphogenesis
+T40	Tissue 1457 1463	embryo
+T41	Development_Phase 1660 1687	embryonic pattern formation
+T42	Gene 1772 1777	EMB30
+T43	Gene 1779 1783	GNOM
+T44	Gene 1789 1795	KNOLLE
+T45	Development_Phase 1851 1864	embryogenesis
+T46	Gene 1907 1924	SHOOTMERISTEMLESS
+T47	Gene 1929 1938	SCARECROW
+T48	Tissue 1957 1973	developing shoot
+T49	Tissue 1977 1998	root apical meristems
+T50	Tissue 2054 2062	meristem
+T51	Development_Phase 2095 2113	meristem formation
+T52	Tissue 2095 2103	meristem
+T53	Development_Phase 2126 2139	embryogenesis
+T54	Development_Phase 2144 2169	postembryonic development
+T55	Gene_Family 2171 2197	ABSCISIC ACID INSENSITIVE3
+T56	Gene_Family 2199 2203	ABI3
+T57	Gene_Family 2199 2203	ABI3
+T58	Tissue 2238 2244	embryo
+T59	Development_Phase 2313 2328	seed maturation
+T60	Tissue 2313 2317	seed
+T61	Development_Phase 2386 2414	late stages of embryogenesis
+T62	Development_Phase 2469 2487	embryo development
+T63	Tissue 2469 2475	embryo
+T64	Development_Phase 2529 2542	embryogenesis
+T65	Development_Phase 2563 2576	morphogenesis
+T66	Development_Phase 2581 2591	maturation
+T67	Gene 2603 2619	LEAFY COTYLEDON1
+T68	Gene 2621 2625	LEC1
+T69	Development_Phase 2680 2693	embryogenesis
+T70	Genotype 2773 2777	lec1
+T71	Development_Phase 2831 2854	late embryo development
+T72	Tissue 2836 2842	embryo
+T73	Gene 2856 2860	LEC1
+T74	Development_Phase 2897 2912	seed maturation
+T75	Tissue 2897 2901	seed
+T76	Genotype 2914 2918	lec1
+T77	Tissue 2926 2933	embryos
+T78	Regulatory_Network 2938 2963	intolerant of desiccation
+T79	Regulatory_Network 3021 3046	maturation-specific genes
+T80	Gene 3070 3074	LEC1
+T81	Development_Phase 3106 3127	premature germination
+T82	Genotype 3129 3133	lec1
+T83	Tissue 3141 3148	embryos
+T84	Development_Phase 3209 3222	embryogenesis
+T85	Development_Phase 3227 3263	postgerminative seedling development
+T86	Gene 3379 3383	LEC1
+T87	Regulatory_Network 3404 3445	specification of embryonic organ identity
+T88	Development_Phase 3421 3445	embryonic organ identity
+T89	Tissue 3455 3471	Embryonic leaves
+T90	Tissue 3455 3464;3475 3485	Embryonic cotyledons
+T91	Genotype 3489 3493	lec1
+T92	Tissue 3510 3519	trichomes
+T93	Tissue 3521 3536	epidermal hairs
+T94	Tissue 3566 3572	leaves
+T95	Tissue 3577 3582	stems
+T96	Genotype 3586 3597	Arabidopsis
+T97	Genotype 3630 3634	lec1
+T98	Tissue 3642 3652	cotyledons
+T99	Genotype 3688 3697	wild-type
+T100	Tissue 3698 3707	cotyledon
+T101	Tissue 3714 3718	leaf
+T102	Gene 3748 3752	LEC1
+T103	Development_Phase 3780 3798	embryo development
+T104	Tissue 3780 3786	embryo
+T105	Genotype 3800 3827	Desiccation-intolerant lec1
+T106	Genotype 3823 3827	lec1
+T107	Tissue 3828 3835	embryos
+T108	Genotype 3856 3862	plants
+T109	Genotype 3908 3932	homozygous mutant plants
+T110	Gene_Family 4052 4055	LEC
+T111	Gene 4069 4073	LEC2
+T112	Gene 4078 4084	FUSCA3
+T113	Gene 4086 4090	FUS3
+T114	Gene 4152 4156	LEC1
+T115	Regulatory_Network 4172 4207	specification or cotyledon identity
+T116	Development_Phase 4189 4207	cotyledon identity
+T117	Tissue 4189 4198	cotyledon
+T118	Regulatory_Network 4216 4241	maintenance of maturation
+T119	Gene_Family 4309 4312	LEC
+T120	Development_Phase 4398 4411	embryogenesis
+T121	Genotype 4461 4473	higher plant
+T122	Regulatory_Network 4474 4493	embryonic processes
+T123	Genotype 4531 4535	lec1
+T124	Development_Phase 4548 4566	Embryo Development
+T125	Tissue 4548 4554	Embryo
+T126	Genotype 4592 4601	wild-type
+T127	Genotype 4606 4610	lec1
+T128	Tissue 4618 4625	embryos
+T129	Tissue 4642 4648	Embryo
+T130	Genotype 4668 4674	mutant
+T131	Tissue 4675 4682	embryos
+T132	Tissue 4704 4714	cotyledons
+T133	Pathway 4742 4753	Anthocyanin
+T134	Tissue 4783 4808	tips of mutant cotyledons
+T135	Regulatory_Network 4810 4832	Precocious germination
+T136	Development_Phase 4821 4832	germination
+T137	Tissue 4838 4860	shoot apical meristems
+T138	Genotype 4864 4868	lec1
+T139	Tissue 4869 4876	embryos
+T140	Tissue 4926 4940	leaf primordia
+T141	Genotype 4955 4964	wild-type
+T142	Tissue 5011 5025	leaf primordia
+T143	Regulatory_Network 5027 5053	Defects in seed maturation
+T144	Development_Phase 5038 5053	seed maturation
+T145	Tissue 5038 5042	seed
+T146	Genotype 5055 5059	lec1
+T147	Tissue 5067 5074	embryos
+T148	Regulatory_Network 5079 5104	intolerant of desiccation
+T149	Genotype 5154 5158	lec1
+T150	Tissue 5159 5166	embryos
+T151	Genotype 5224 5256	fertile homozygous mutant plants
+T152	Promoter 5262 5299	promoter of a 7S storage protein gene
+T153	Gene_Family 5276 5299	7S storage protein gene
+T154	Genotype 5331 5340	wild-type
+T155	Development_Phase 5341 5354	embryogenesis
+T156	Genotype 5376 5380	lec1
+T157	Regulatory_Network 5389 5435	Incomplete specification of cotyledon identity
+T158	Development_Phase 5417 5435	cotyledon identity
+T159	Tissue 5417 5426	cotyledon
+T160	Genotype 5437 5441	lec1
+T161	Tissue 5442 5451	seedlings
+T162	Tissue 5460 5469	trichomes
+T163	Tissue 5473 5483	cotyledons
+T164	Tissue 5485 5494	Trichomes
+T165	Genotype 5510 5521	Arabidopsis
+T166	Tissue 5522 5528	leaves
+T167	Tissue 5533 5538	stems
+T168	Genotype 5550 5559	wild-type
+T169	Tissue 5560 5570	cotyledons
+T170	Tissue 5584 5593	cotyledon
+T171	Tissue 5595 5598	SAM
+T172	Tissue 5600 5621	shoot apical meristem
+T173	Gene 5719 5723	LEC1
+T174	Genotype 5779 5789	eukaryotic
+T175	Gene 5847 5851	LEC1
+T176	Tissue 5879 5884	seeds
+T177	Development_Phase 5897 5902;5912 5928	early seed development
+T178	Development_Phase 5907 5928	late seed development
+T179	Tissue 5912 5916	seed
+T180	Genotype 5930 5965	Ectopic expression of the LEC1 gene
+T181	Gene 5956 5960	LEC1
+T182	Regulatory_Network 5974 5992	embryonic programs
+T183	Development_Phase 5997 6015	embryo development
+T184	Tissue 5997 6003	embryo
+T185	Tissue 6019 6035	vegetative cells
+T186	Protein 6053 6057	LEC1
+T187	Development_Phase 6118 6123;6133 6146	early embryogenesis
+T188	Development_Phase 6128 6146	late embryogenesis
+T189	Development_Phase 6190 6208	embryo development
+T190	Tissue 6190 6196	embryo

@@ -1,0 +1,49 @@
+T1	Genotype 0 32	Constitutive expression of AGL15
+T2	Gene 27 32	AGL15
+T3	Protein_Family 128 147	MADS domain factors
+T6	Genotype 149 187;252 271	CaMV 35S promoter–driven expression of AP3 plus PISTILLATA
+T4	Genotype 149 191	CaMV 35S promoter–driven expression of AP1
+T5	Genotype 149 188;223 225	CaMV 35S promoter–driven expression of AG
+T7	Promoter 149 166	CaMV 35S promoter
+T8	Gene 188 191	AP1
+T9	Gene 223 225	AG
+T10	Gene 252 255	AP3
+T11	Gene 261 271	PISTILLATA
+T12	Regulatory_Network 310 325	early flowering
+T13	Regulatory_Network 334 384	production of leaves with upwardly curling margins
+T14	Gene 400 405	AGL15
+T15	Genotype 440 506	Expression of floral MADS domain factors in inappropriate contexts
+T16	Tissue 454 460	floral
+T17	Protein_Family 461 480	MADS domain factors
+T18	Tissue 510 530	reproductive tissues
+T19	Regulatory_Network 555 580	identity of the meristems
+T20	Regulatory_Network 555 566;585 598	identity of floral organs
+T21	Tissue 571 580	meristems
+T22	Tissue 585 598	floral organs
+T23	Genotype 686 730	plants with moderate constitutive expression
+T24	Protein 732 737	AGL15
+T25	Tissue 753 759	nuclei
+T26	Tissue 775 781	flower
+T27	Development_Phase 809 823	organ identity
+T28	Development_Phase 827 840	morphogenesis
+T29	Development_Phase 865 885	floral morphogenesis
+T30	Protein 900 905	AGL15
+T31	Protein 1007 1012	AGL15
+T32	Tissue 1085 1091	floral
+T33	Protein_Family 1092 1112	MADS domain proteins
+T34	Development_Phase 1172 1190	reproductive phase
+T35	Genotype 1213 1236	overexpression of AGL15
+T36	Gene 1231 1236	AGL15
+T38	Gene 1294 1299	AGL15
+T37	Promoter 1294 1308	AGL15 promoter
+T39	Genotype 1346 1362	wild-type plants
+T40	Protein 1511 1516	AGL15
+T41	Gene 1601 1606	AGL15
+T42	Genotype 1626 1635	wild-type
+T43	Gene 1752 1757	AGL15
+T44	Protein 1778 1783	AGL15
+T46	Gene 1833 1838	AGL15
+T45	Genotype 1833 1867	AGL15 was constitutively expressed
+T47	Development_Phase 1873 1896	transition to flowering
+T48	Development_Phase 1917 1933	vegetative phase
+T49	Environmental_Factor 1975 1994	long-day conditions

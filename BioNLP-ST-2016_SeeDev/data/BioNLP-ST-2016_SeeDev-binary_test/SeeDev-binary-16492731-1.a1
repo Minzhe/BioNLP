@@ -1,0 +1,44 @@
+T1	Protein_Family 4 21	B3 domain protein
+T2	Protein 22 38	LEAFY COTYLEDON2
+T3	Protein 40 44	LEC2
+T4	Development_Phase 81 94	embryogenesis
+T5	Development_Phase 110 126	maturation phase
+T6	Development_Phase 156 182	somatic embryo development
+T7	Tissue 164 170	embryo
+T8	Tissue 186 202	vegetative cells
+T9	Protein 230 234	LEC2
+T10	Regulatory_Network 255 331	transcriptional program involved in the maturation phase of seed development
+T11	Development_Phase 295 331	maturation phase of seed development
+T12	Tissue 315 319	seed
+T13	Genotype 333 372	Induction of LEC2 activity in seedlings
+T14	Protein 346 350	LEC2
+T15	Tissue 363 372	seedlings
+T16	RNA 402 461	RNAs normally present primarily during the maturation phase
+T17	Development_Phase 445 461	maturation phase
+T18	Regulatory_Network 512 532	maturation processes
+T20	Tissue 544 548	seed
+T19	Protein_Family 544 556;572 580	seed-storage proteins
+T21	Protein_Family 561 580	lipid-body proteins
+T22	RNA 619 636	LEC2-induced RNAs
+T23	Protein 619 623	LEC2
+T24	Development_Phase 680 696	maturation phase
+T25	Promoter 777 796	5′ flanking regions
+T26	Box 797 799	RY
+T27	Protein_Family 852 883	B3 domain transcription factors
+T28	Protein 914 918	LEC2
+T29	Box 938 940	RY
+T30	Promoter 957 999	5′ flanking regions of LEC2-induced genes
+T31	Protein 980 984	LEC2
+T32	Protein 1078 1082	LEC2
+T33	RNA 1099 1116	LEC2-induced RNAs
+T34	Protein 1099 1103	LEC2
+T35	Development_Phase 1149 1165	maturation phase
+T36	RNA 1200 1205	AGL15
+T37	Gene 1200 1205	AGL15
+T38	RNA 1210 1215	IAA30
+T39	Gene 1210 1215	IAA30
+T40	Tissue 1231 1255	seeds containing zygotes
+T41	Protein 1290 1294	LEC2
+T42	Protein 1355 1359	LEC2
+T43	Development_Phase 1367 1383	maturation phase
+T44	Development_Phase 1408 1429	somatic embryogenesis

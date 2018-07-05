@@ -1,0 +1,144 @@
+T1	Protein 0 5	AGL15
+T2	Protein 7 22	AGAMOUS-like 15
+T3	Protein_Family 41 59	MADS-domain family
+T4	Protein_Domain 41 52	MADS-domain
+T5	Tissue 117 123;136 170	organs derived from double fertilization
+T6	Tissue 128 170	tissues derived from double fertilization
+T7	Genotype 173 189	flowering plants
+T8	Tissue 200 206	embryo
+T9	Tissue 208 217	suspensor
+T10	Tissue 223 232	endosperm
+T11	Protein 261 266	AGL15
+T12	Development_Phase 308 321	embryogenesis
+T14	Tissue 355 359	seed
+T13	Development_Phase 355 367	seed biology
+T15	Protein 374 379	AGL15
+T16	Development_Phase 443 457	embryonic mode
+T17	Tissue 493 500	embryos
+T18	Protein 555 560	AGL15
+T19	Development_Phase 592 615	apomictic embryogenesis
+T20	Genotype 619 628	dandelion
+T21	Genotype 630 650	Taraxacum officinale
+T22	Development_Phase 653 677	microspore embryogenesis
+T23	Genotype 681 693	oilseed rape
+T24	Genotype 695 709	Brassica napus
+T25	Development_Phase 716 737	somatic embryogenesis
+T26	Genotype 741 748	alfalfa
+T27	Genotype 750 765	Medicago sativa
+T28	Protein 783 788	AGL15
+T29	Tissue 834 855	nuclei of the embryos
+T30	Tissue 834 840	nuclei
+T31	Tissue 848 855	embryos
+T32	Protein 857 862	AGL15
+T33	Tissue 883 904	cotyledon-like organs
+T34	Genotype 920 924	xtc2
+T35	Genotype 925 940	extracotyledon2
+T36	Genotype 952 963	Arabidopsis
+T37	Development_Phase 975 997	precocious germination
+T38	Genotype 1001 1013	oilseed rape
+T39	Protein 1060 1065	AGL15
+T40	Protein 1138 1143	AGL15
+T41	Tissue 1173 1191	cytoplasm of cells
+T42	Tissue 1173 1182	cytoplasm
+T43	Tissue 1186 1191	cells
+T44	Tissue 1203 1220	nuclear localized
+T45	Development_Phase 1221 1268	before or soon after embryogenic cell divisions
+T46	Protein 1318 1323	AGL15
+T47	Regulatory_Network 1358 1419	programs active during the early stages of embryo development
+T48	Development_Phase 1385 1419	early stages of embryo development
+T49	Tissue 1401 1407	embryo
+T50	Genotype 1424 1435	seed plants
+T51	Tissue 1424 1428	seed
+T52	Development_Phase 1441 1462	sporophyte generation
+T54	Tissue 1512 1516	seed
+T53	Development_Phase 1512 1516;1527 1532	seed phase
+T56	Tissue 1520 1526	embryo
+T55	Development_Phase 1520 1532	embryo phase
+T57	Regulatory_Network 1553 1620	morphogenetic programs operate to establish the correct embryo form
+T58	Tissue 1609 1615	embryo
+T59	Pathway 1622 1638	storage reserves
+T60	Pathway 1651 1672	desiccation tolerance
+T61	Pathway 1692 1707	quiescent state
+T62	Development_Phase 1787 1821	early stages of embryo development
+T63	Tissue 1803 1809	embryo
+T64	Tissue 1886 1892	embryo
+T65	Tissue 1943 1969	layers of maternal tissues
+T66	Development_Phase 2072 2091	early embryogenesis
+T67	Tissue 2376 2383	embryos
+T68	Gene_Family 2389 2415	MADS-box regulatory factor
+T69	Gene 2416 2421	AGL15
+T70	Gene 2422 2436	AGAMOUS-like15
+T71	Development_Phase 2501 2516	embryonic phase
+T72	Protein_Family 2622 2640	MADS-domain family
+T73	Protein_Domain 2622 2633	MADS-domain
+T74	Protein_Domain 2701 2712	MADS domain
+T75	Protein_Family 2825 2845	MADS-domain proteins
+T76	Protein_Domain 2825 2836	MADS-domain
+T77	Genotype 2859 2865	plants
+T78	Genotype 2867 2874	animals
+T79	Genotype 2880 2885	fungi
+T80	Genotype 2950 2961	Arabidopsis
+T81	Genotype 2966 2976	snapdragon
+T82	Protein 3008 3016	APETALA1
+T83	Protein 3017 3025	SQUAMOSA
+T84	Protein 3027 3034	AGAMOUS
+T85	Protein 3035 3040	PLENA
+T86	Protein 3042 3050	APETALA3
+T87	Protein 3051 3060	DEFICIENS
+T88	Protein 3064 3074	PISTILLATA
+T89	Protein 3075 3082	GLOBOSA
+T91	Regulatory_Network 3109 3125;3139 3160	specification of floral organ identity
+T90	Regulatory_Network 3109 3134;3152 3160	specification of meristem identity
+T92	Tissue 3126 3134	meristem
+T94	Tissue 3139 3151	floral organ
+T93	Development_Phase 3139 3160	floral organ identity
+T95	Gene_Family 3211 3233	MADS-box gene families
+T96	Genotype 3253 3259	plants
+T97	Genotype 3271 3278	animals
+T98	Genotype 3283 3288	fungi
+T99	Genotype 3338 3343	ferns
+T100	Genotype 3416 3427	Arabidopsis
+T101	Gene 3462 3467	AGL15
+T102	Genotype 3522 3533	Arabidopsis
+T103	Development_Phase 3638 3651	embryogenesis
+T104	Protein 3653 3658	AGL15
+T105	Protein 3745 3750	AGL15
+T106	Development_Phase 3818 3839	zygotic embryogenesis
+T107	Protein 3841 3846	AGL15
+T108	Tissue 3866 3903	cytoplasm of cells of the female germ
+T109	Tissue 3866 3875	cytoplasm
+T110	Tissue 3879 3903	cells of the female germ
+T111	Development_Phase 3909 3929	before fertilization
+T112	Tissue 3949 3955	nuclei
+T113	Development_Phase 3956 3990	after the first few cell divisions
+T114	Tissue 3998 4004	embryo
+T115	Tissue 4006 4015	suspensor
+T116	Tissue 4021 4030	endosperm
+T117	Protein 4079 4084	AGL15
+T118	Tissue 4107 4120	embryo nuclei
+T119	Development_Phase 4146 4159	morphogenesis
+T121	Tissue 4184 4190	embryo
+T120	Development_Phase 4184 4198	embryo matures
+T122	Genotype 4270 4275	dicot
+T123	Genotype 4280 4287	monocot
+T124	Tissue 4288 4295	embryos
+T125	Protein 4319 4324	AGL15
+T126	Development_Phase 4370 4405	early stages of the embryonic phase
+T127	Development_Phase 4492 4505	embryogenesis
+T128	Protein 4507 4512	AGL15
+T131	Tissue 4538 4544	nuclei
+T129	Tissue 4538 4547;4570 4590	nuclei in new embryonic organs
+T130	Tissue 4538 4547;4552 4565	nuclei in young embryos
+T132	Tissue 4552 4565	young embryos
+T133	Tissue 4570 4590	new embryonic organs
+T134	Protein 4660 4665	AGL15
+T135	Genotype 4751 4767	flowering plants
+T136	Tissue 4777 4784	embryos
+T137	Tissue 4788 4804	embryonic organs
+T138	Tissue 4826 4830	seed
+T139	Development_Phase 4866 4879	fertilization
+T140	Tissue 4886 4889	egg
+T141	Tissue 4928 4935	embryos
+T142	Tissue 4939 4955	embryonic organs
+T143	Protein 4996 5001	AGL15
+T144	Tissue 5027 5033	nuclei

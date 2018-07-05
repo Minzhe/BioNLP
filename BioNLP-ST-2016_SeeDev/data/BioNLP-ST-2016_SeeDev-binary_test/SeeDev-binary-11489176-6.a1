@@ -1,0 +1,11 @@
+T1	Genotype 32 65	dominant negative abi1-1 mutation
+T4	Genotype 112 124;131 135	mutations in ABI4
+T3	Genotype 112 124;139 143	mutations in ABI5
+T2	Genotype 112 129	mutations in ABI3
+T5	Gene 125 129	ABI3
+T6	Gene 131 135	ABI4
+T7	Gene 139 143	ABI5
+T8	Genotype 154 232	double mutants combining abi1-1 with any of the transcription factor mutations
+T9	Genotype 179 185	abi1-1
+T10	Regulatory_Network 261 278	resistance to ABA
+T11	Hormone 275 278	ABA

@@ -1,0 +1,45 @@
+T1	Regulatory_Network 4 22	maturation program
+T2	Development_Phase 4 14	maturation
+T3	Genotype 47 58	seed plants
+T4	Tissue 47 51	seed
+T5	Regulatory_Network 125 146	developmental process
+T6	Development_Phase 230 240	maturation
+T7	Development_Phase 248 261	embryogenesis
+T8	Development_Phase 280 297	after germination
+T9	Regulatory_Network 458 514	genes that repress maturation during early embryogenesis
+T10	Development_Phase 477 487	maturation
+T11	Development_Phase 495 514	early embryogenesis
+T12	RNA 562 568	miRNAs
+T13	Regulatory_Network 610 628	maturation program
+T14	Development_Phase 610 620	maturation
+T15	Genotype 633 640	dcl1-15
+T16	Tissue 641 648	embryos
+T17	Regulatory_Network 662 690	early chloroplast maturation
+T18	Development_Phase 680 690	maturation
+T21	Regulatory_Network 695 716;750 766	early accumulation of storage proteins
+T19	Regulatory_Network 695 730	early accumulation of starch grains
+T20	Regulatory_Network 695 716;732 744	early accumulation of lipid bodies
+T22	Pathway 717 730	starch grains
+T23	Pathway 732 744	lipid bodies
+T24	Pathway 750 766	storage proteins
+T25	Genotype 831 838	dcl1-15
+T26	Development_Phase 839 852	torpedo stage
+T27	Tissue 853 860	embryos
+T28	Tissue 892 899	embryos
+T29	Regulatory_Network 951 992	early accumulation of OLEOSIN transcripts
+T31	Gene 973 980	OLEOSIN
+T30	RNA 973 992	OLEOSIN transcripts
+T32	Regulatory_Network 999 1050	heterochronic change in the transcriptional profile
+T33	Genotype 1054 1060	dcl1-5
+T34	Tissue 1061 1068	embryos
+T35	Regulatory_Network 1101 1119	maturation program
+T36	Development_Phase 1101 1111	maturation
+T37	Pathway 1260 1271	chlorophyll
+T39	Tissue 1304 1308	seed
+T38	Pathway 1304 1324	seed storage protein
+T40	Gene 1325 1330	At2S3
+T41	Genotype 1338 1347	wild-type
+T42	Tissue 1348 1355	embryos
+T43	RNA 1390 1396	miRNAs
+T44	Development_Phase 1410 1420;1447 1460	initiation of maturation
+T45	Development_Phase 1434 1445;1447 1460	progression of maturation

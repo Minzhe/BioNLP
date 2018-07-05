@@ -1,0 +1,88 @@
+The Arabidopsis LEAFY COTYLEDON2
+(LEC2) gene is a central embryonic regulator that serves
+critical roles both early and late during embryo development.
+LEC2 is required for the maintenance of suspensor
+morphology, specification of cotyledon identity, progression through
+the maturation phase, and suppression of premature germination. We
+cloned the LEC2 gene on the basis of its chromosomal
+position and showed that the predicted polypeptide contains a B3
+domain, a DNA-binding motif unique to plants that is characteristic of
+several transcription factors. We showed that LEC2 RNA
+accumulates primarily during seed development, consistent with our
+finding that LEC2 shares greatest similarity with the B3 domain
+transcription factors that act primarily in developing seeds,
+VIVIPAROUS1/ABA INSENSITIVE3 and FUSCA3. Ectopic, postembryonic
+expression of LEC2 in transgenic plants induces the
+formation of somatic embryos and other organ-like structures and often
+confers embryonic characteristics to seedlings. Together, these results
+suggest that LEC2 is a transcriptional regulator that establishes a
+cellular environment sufficient to initiate embryo development.
+Embryogenesis in flowering
+plants begins with the double fertilization event in which the zygote
+and endosperm are formed after fusion of sperm cells with the egg cell
+and central cell of the female gametophyte, respectively. The endosperm
+initially undergoes syncytial development with formation of
+nuclear-cytoplasmic domains, but later cellularizes (1). The developing
+embryo is nourished by the endosperm and, in many plants, only the
+peripheral layer of the endosperm remains in the mature seed.
+Development of the zygote into the mature embryo can be divided
+conceptually into two distinct phases. During the early morphogenesis
+phase, the basic body plan of the plant is established with expression
+of polarity as a shoot–root axis, specification of morphological
+domains within the embryo, and formation of embryonic tissue and organ
+systems (2–4). The morphogenesis phase is followed by a period of
+maturation in which processes critical for seed formation occur (5, 6).
+During this late phase, reserves such as storage proteins and lipids
+are synthesized at high rates and accumulate in the seed. It is also
+during the maturation phase that the embryo acquires the ability to
+withstand desiccation at the final stage of seed development. At the
+end of embryogenesis, the seed consists of a mature, desiccated embryo
+that is quiescent metabolically. Although many aspects of embryogenesis
+have been characterized extensively, little is known at a mechanistic
+level of the processes that initiate embryo development.
+The Arabidopsis LEAFY COTYLEDON (LEC) genes,
+LEC1, LEC2, and FUSCA3 (FUS3), play
+key roles in controlling embryo development (7). Unlike most other
+embryonic regulators that function during specific stages of
+embryogenesis (8–11), LEC genes are unique in that they are
+required for normal development during both the morphogenesis and
+maturation phases. Early in embryogenesis, LEC genes are
+required to specify suspensor cell fate and cotyledon identity
+(12–16). Late in embryogenesis, LEC genes are needed during
+the maturation phase for the acquisition of desiccation tolerance and
+the expression of many maturation-specific genes (13–17). Consistent
+with the finding that conditions that promote maturation suppress
+germination (6), lec mutant embryos prematurely activate the
+postgermination program (13, 15, 16, 18). Thus, LEC genes
+play a central role in controlling many aspects of embryogenesis, and
+they are candidates as regulators that coordinate the morphogenesis and
+maturation phases.
+Identification and analysis of two LEC genes confirmed their
+regulatory role in embryogenesis and provided insight into their
+functions. LEC1 shares extensive sequence similarity with the HAP3
+subunit of CCAAT-binding transcription factor, implicating LEC1 as a
+transcriptional regulator (12). Ectopic expression of LEC1
+confers embryonic characteristics to seedlings and results in the
+formation of embryo-like structures on the surfaces of leaves,
+suggesting that the gene plays a role in conferring embryogenic
+competence to cells (12). Thus, we hypothesized that LEC1 establishes a
+cellular environment that promotes embryo development and that this
+environment coordinates the morphogenesis and maturation phases.
+FUS3 also encodes a regulatory protein: a B3 domain
+transcription factor that accumulates primarily during seed development
+(19). Transient assays showed that FUS3 is sufficient to activate genes
+usually expressed during maturation (20). Thus, two LEC
+genes seem to be involved in controlling embryo development by
+regulating transcription of other genes.
+In this article, we focus on the LEC2 gene to determine its
+role in embryo development. Because genetic studies suggest that
+LEC1 and LEC2 may have partially redundant
+functions (12, 15), it is possible that LEC2 also functions in the
+initiation and coordination of embryo development. We cloned the
+LEC2 gene and showed that it is expressed preferentially
+during embryogenesis and encodes a protein with similarity to other
+seed-specific transcription factors. Significant insight into the role
+of the gene was obtained by showing that transgenic plants expressing
+the LEC2 gene ectopically form somatic embryos. Together,
+these results indicate that LEC2 is sufficient to induce
+embryogenic competence.

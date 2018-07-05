@@ -1,0 +1,42 @@
+T1	Development_Phase 0 29	Postembryonic organ formation
+T2	Tissue 73 89	stem cell niches
+T3	Tissue 93 98;108 117	shoot meristems
+T4	Tissue 103 117	root meristems
+T5	Regulatory_Network 246 267	stem cell maintenance
+T6	Genotype 285 308	semidominant l28 mutant
+T7	Genotype 298 301	l28
+T8	Regulatory_Network 325 368	premature termination of the shoot meristem
+T9	Development_Phase 335 368	termination of the shoot meristem
+T10	Tissue 354 368	shoot meristem
+T11	Regulatory_Network 373 406	differentiation of the stem cells
+T12	Tissue 396 406	stem cells
+T13	Genotype 452 455	l28
+T14	Gene 493 501	APETALA2
+T15	Gene 503 506	AP2
+T16	Development_Phase 554 571	floral patterning
+T17	Development_Phase 576 592	seed development
+T18	Gene 613 620	WUSCHEL
+T19	Gene 622 625	WUS
+T20	Gene 631 639	CLAVATA3
+T21	Gene 641 645	CLV3
+T22	Regulatory_Network 669 690	stem cell maintenance
+T23	Genotype 698 707	wild type
+T24	Genotype 727 730	l28
+T25	Tissue 731 743	shoot apices
+T26	Development_Phase 776 793	floral patterning
+T28	Gene 795 798	AP2
+T27	RNA 795 803	AP2 mRNA
+T29	Tissue 821 849	center of the shoot meristem
+T30	Gene 890 897	AGAMOUS
+T31	Gene 923 926	WUS
+T32	Regulatory_Network 931 952	stem cell maintenance
+T33	Tissue 960 975	floral meristem
+T34	Development_Phase 1005 1046	termination of the primary shoot meristem
+T35	Tissue 1032 1046	shoot meristem
+T36	Genotype 1050 1053	l28
+T37	Regulatory_Network 1081 1102	CLV signaling pathway
+T38	Gene 1120 1123	AP2
+T40	Regulatory_Network 1137 1158	stem cell maintenance
+T39	Regulatory_Network 1137 1158	stem cell maintenance
+T41	Gene 1176 1179	WUS
+T42	Gene 1180 1184	CLV3

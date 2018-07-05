@@ -1,0 +1,44 @@
+T1	Protein 25 29	LEC2
+T2	Development_Phase 38 48	maturation
+T3	Tissue 68 85	vegetative plants
+T4	Regulatory_Network 127 147	maturation processes
+T5	Genotype 179 200	ectopic LEC2 activity
+T6	Protein 187 191	LEC2
+T7	Regulatory_Network 208 276	postembryonic organs to assume characteristics of maturating embryos
+T8	Tissue 258 276	maturating embryos
+T10	Tissue 306 310	seed
+T9	Pathway 306 327	seed storage reserves
+T11	Protein 467 471	LEC2
+T12	Regulatory_Network 480 501	somatic embryogenesis
+T13	Development_Phase 488 501	embryogenesis
+T14	Regulatory_Network 542 562	maturation processes
+T15	Tissue 592 607	somatic embryos
+T16	Development_Phase 620 633	morphogenesis
+T17	Development_Phase 638 672	maturation phases of embryogenesis
+T18	Protein 719 723	LEC2
+T19	Protein 805 809	LEC2
+T20	Regulatory_Network 823 843	maturation processes
+T21	RNA 859 876	LEC2-induced RNAs
+T22	Protein 859 863	LEC2
+T23	Pathway 902 930	storage reserve accumulation
+T24	Development_Phase 950 960	maturation
+T25	RNA 987 989;998 1014	2S storage proteins
+T26	Protein_Family 987 989;998 1014	2S storage proteins
+T27	RNA 994 1014	12S storage proteins
+T28	Protein_Family 994 1014	12S storage proteins
+T29	RNA 1016 1023	oleosin
+T30	Protein_Family 1016 1023	oleosin
+T32	RNA 1029 1040	steroleosin
+T31	Protein 1029 1040	steroleosin
+T33	Protein_Domain 1103 1131	anchoring hydrophobic domain
+T34	Protein_Family 1135 1142	oleosin
+T35	Protein_Domain 1158 1179	sterol-binding domain
+T36	RNA 1198 1210;1222 1225	LEC2-induced RNA
+T37	Protein 1198 1202	LEC2
+T38	Development_Phase 1211 1221	maturation
+T39	Protein 1271 1274	EEL
+T40	Protein_Family 1281 1285	bZIP
+T41	Protein 1333 1337	ABI3
+T42	Protein 1333 1337	ABI3
+T43	Protein 1342 1346	ABI5
+T44	Gene 1377 1379	Em

@@ -1,0 +1,64 @@
+T1	Protein_Domain 4 28	terminal domain of AGL15
+T2	Protein 23 28	AGL15
+T3	Protein_Family 142 165	class-II ERF repressors
+T4	Protein_Domain 214 230	L /FDLN L /F(x)P
+T5	Protein_Domain 250 287	ERF-associated amphiphilic repression
+T6	Protein_Domain 289 292	EAR
+T7	Protein_Family 534 550	Aux/IAA proteins
+T8	Protein 654 659	AGL15
+T9	Protein_Domain 697 714	C-terminal domain
+T10	Protein_Domain 730 741	LxLxL motif
+T11	Protein_Domain 768 779	LxLxL motif
+T12	Protein 816 821	AGL15
+T13	Protein 827 832	SAP18
+T14	Protein 845 852	AtSAP18
+T15	Protein 890 894	ERF3
+T16	Protein 899 903	ERF4
+T17	Protein_Domain 957 966	FQFDLNFPP
+T18	Protein_Domain 971 980	LDLDLNLPP
+T19	Protein 996 1001	SAP18
+T20	Protein_Family 1041 1061	MADS-domain proteins
+T21	Protein_Domain 1164 1181	C-terminal domain
+T22	Protein_Domain 1203 1224	highly conserved MADS
+T24	Protein_Domain 1228 1248;1255 1264	moderately conserved K domains
+T23	Protein_Domain 1228 1250;1257 1264	moderately conserved I domains
+T25	Protein 1275 1280	SAP18
+T26	Genotype 1311 1316	yeast
+T27	Protein 1347 1352	AGL15
+T28	Protein 1354 1359	AGL18
+T29	Protein_Domain 1391 1402	LxLxL motif
+T30	Protein_Domain 1404 1414	DTSLQLGLSS
+T31	Genotype 1451 1460	in planta
+T32	Protein 1466 1471	AGL15
+T34	Protein 1509 1514	AGL18
+T33	Protein_Family 1509 1535	AGL18-interacting partners
+T35	Genotype 1569 1574	yeast
+T36	Protein_Family 1797 1816	MADS-domain protein
+T38	Protein 2016 2021	AGL18
+T37	Genotype 2016 2045	AGL18 lacking the MADS domain
+T39	Protein_Domain 2034 2045	MADS domain
+T41	Protein 2086 2091	AGL15
+T40	Protein_Family 2086 2112	AGL15-interacting proteins
+T42	Protein_Domain 2217 2221	MADS
+T43	Genotype 2222 2231	in planta
+T44	Genotype 2254 2259	yeast
+T45	Protein 2394 2399	SAP18
+T46	Genotype 2429 2519	form of SVP that lacks the MADS domain but has an LxLxL motif within the C-terminal domain
+T47	Protein 2437 2440	SVP
+T48	Protein_Domain 2456 2467	MADS domain
+T49	Protein_Domain 2479 2490	LxLxL motif
+T50	Protein_Domain 2502 2519	C-terminal domain
+T51	Protein_Domain 2578 2586	K domain
+T53	Protein 2607 2612	AGL15
+T52	Protein_Complex 2607 2618	AGL15–SAP18
+T54	Protein 2613 2618	SAP18
+T55	Protein_Family 2690 2708	MADS MIKC proteins
+T56	Genotype 2733 2744	Arabidopsis
+T57	Protein_Family 2745 2756	MADS family
+T58	Protein_Domain 2772 2783	LxLxL motif
+T59	Protein 2785 2790	AGL24
+T60	Genotype 2814 2819	yeast
+T61	Protein 2848 2853	SAP18
+T62	Tissue 2885 2901	embryonic tissue
+T63	Protein 2937 2942	SAP18
+T64	Protein 3011 3016	AGL24

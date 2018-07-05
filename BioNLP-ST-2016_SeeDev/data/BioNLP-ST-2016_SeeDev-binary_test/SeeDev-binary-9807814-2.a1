@@ -1,0 +1,66 @@
+T1	Genotype 117 129	fus3 mutants
+T2	Development_Phase 151 165	late embryonic
+T3	Development_Phase 170 201	early postembryonic development
+T4	Gene 280 284	FUS3
+T5	Development_Phase 324 339	seed maturation
+T6	Tissue 324 328	seed
+T7	Development_Phase 367 380	morphogenesis
+T8	Development_Phase 385 407	tissue differentiation
+T9	Genotype 409 430	Loss of FUS3 function
+T10	Gene 417 421	FUS3
+T11	Genotype 499 510	fus3 embryo
+T12	Tissue 504 510	embryo
+T13	Tissue 541 548	silique
+T14	Development_Phase 550 565	seed maturation
+T15	Tissue 550 554	seed
+T16	Development_Phase 602 613	germination
+T17	Tissue 711 739	active shoot apical meristem
+T18	Tissue 748 758	cotyledons
+T19	Tissue 768 777	trichomes
+T21	Protein_Family 884 887	MYB
+T20	Protein_Family 884 916	MYB-family transcription factors
+T22	Development_Phase 954 965	germination
+T23	Development_Phase 996 1015	seed ripening phase
+T24	Tissue 996 1000	seed
+T25	Genotype 1045 1056	mutant fus3
+T26	Tissue 1057 1062	seeds
+T27	Genotype 1124 1128	fus3
+T28	Promoter 1140 1188	seed-specific promoters of storage protein genes
+T29	Tissue 1140 1144	seed
+T30	Tissue 1205 1222	embryonic tissues
+T31	Genotype 1272 1283	Arabidopsis
+T32	Gene 1298 1307	APETALA 1
+T33	Gene 1311 1316	LEAFY
+T34	Regulatory_Network 1335 1372	identity of the shoot apical meristem
+T35	Tissue 1351 1372	shoot apical meristem
+T36	Development_Phase 1380 1405	postembryonic development
+T37	Gene 1454 1458	FUS3
+T38	Tissue 1489 1508	zygotic seed tissue
+T39	Tissue 1554 1569	maturing embryo
+T40	Tissue 1633 1673	vegetatively growing postembryonic plant
+T41	Genotype 1678 1689	Arabidopsis
+T42	Genotype 1694 1699	maize
+T43	Genotype 1731 1745	Fus3– syndrome
+T44	Development_Phase 1771 1782	germination
+T45	Pathway 1797 1818	desiccation tolerance
+T46	Genotype 1832 1899;1966 1982	strong recessive mutations in the genes abscisic acid insensitive 3 and viviparous 1
+T47	Gene 1872 1899	abscisic acid insensitive 3
+T48	Gene_Family 1901 1905	ABI3
+T49	Gene 1901 1905	ABI3
+T50	Gene 1970 1982	viviparous 1
+T51	Gene 1984 1987	VP1
+T52	Protein 2183 2187	FUS3
+T53	Genotype 2191 2202	Arabidopsis
+T54	Protein 2217 2220	Vp1
+T55	Protein 2225 2229	AB13
+T56	Gene 2290 2294	FUS3
+T57	Genotype 2303 2323	Arabidopsis thaliana
+T58	Protein 2383 2387	FUS3
+T60	Protein 2457 2460	Vp1
+T59	Protein_Family 2457 2479	Vp1/ABI3-like proteins
+T61	Gene_Family 2461 2465	ABI3
+T62	Protein 2461 2465	ABI3
+T63	Genotype 2509 2513	fus3
+T64	Regulatory_Network 2607 2632	defective seed maturation
+T65	Development_Phase 2617 2632	seed maturation
+T66	Tissue 2617 2621	seed

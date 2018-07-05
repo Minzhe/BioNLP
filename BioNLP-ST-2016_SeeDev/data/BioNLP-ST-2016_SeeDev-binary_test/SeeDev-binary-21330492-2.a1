@@ -1,0 +1,23 @@
+T1	RNA 21 27	miRNAs
+T2	Regulatory_Network 54 72	maturation program
+T3	Development_Phase 54 64	maturation
+T4	Development_Phase 80 93	embryogenesis
+T5	Genotype 115 153	embryos mutant for strong dcl1 alleles
+T6	Tissue 115 122	embryos
+T7	Regulatory_Network 173 206	maturing much earlier than normal
+T8	Genotype 200 206	normal
+T9	Gene_Family 264 273	LEC genes
+T10	Gene 274 278	LEC2
+T11	Gene 283 287	FUS3
+T12	Gene 302 306	DCL1
+T13	Development_Phase 384 394	maturation
+T14	Development_Phase 402 421	early embryogenesis
+T15	Gene 425 430	ASIL1
+T16	Gene 432 437	ASIL2
+T17	Gene 443 447	HDA6
+T18	Gene 448 452	SIL1
+T20	RNA 493 498	miRNA
+T19	Pathway 493 506	miRNA pathway
+T21	RNA 542 547	miRNA
+T22	Regulatory_Network 648 676	embryonic maturation program
+T23	Development_Phase 658 668	maturation

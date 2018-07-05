@@ -1,0 +1,73 @@
+T1	Protein 0 4	WRI1
+T2	Pathway 59 69	glycolysis
+T3	Pathway 74 97	fatty acid biosynthesis
+T4	Tissue 153 158	seeds
+T5	Genotype 162 173	A. thaliana
+T7	Tissue 251 255	seed
+T6	Development_Phase 251 267	seed development
+T9	Pathway 424 449;466 472	biosynthetic pathways for lipids
+T8	Pathway 424 461	biosynthetic pathways for fatty acids
+T10	Tissue 527 541	maturing seeds
+T11	Pathway 646 660	oil metabolism
+T13	Tissue 668 672	seed
+T12	Development_Phase 668 684	seed development
+T14	Pathway 806 826	fatty acid synthesis
+T15	Pathway 831 843	TAG assembly
+T16	Pathway 1107 1117	glycolysis
+T17	Pathway 1126 1157	fatty acid biosynthetic pathway
+T18	Gene 1360 1365	BCCP2
+T19	RNA 1360 1365;1377 1382	BCCP2 mRNAs
+T21	Gene 1370 1376	PKp-β1
+T20	RNA 1370 1382	PKp-β1 mRNAs
+T22	Tissue 1391 1432	developmental series of maturing siliques
+T23	Tissue 1448 1453	seeds
+T24	Protein 1471 1475	WRI1
+T25	Pathway 1573 1591	oilseed metabolism
+T26	Pathway 1698 1736	conversion of sucrose into fatty acids
+T27	Protein 1835 1839	WRI1
+T28	Genotype 1865 1869	wri1
+T29	Genotype 1905 1936	overexpressing WRI1 ectopically
+T30	Gene 1920 1924	WRI1
+T31	Gene 2010 2014	uidA
+T32	Promoter 2079 2097;2117 2123	promoter sequences PKp-β1
+T33	Promoter 2079 2097;2108 2113	promoter sequences BCCP2
+T34	Gene 2108 2113	BCCP2
+T35	Gene 2117 2123	PKp-β1
+T36	Protein 2150 2154	WRI1
+T37	Genotype 2220 2229	in planta
+T38	Environmental_Factor 2274 2290	yeast one-hybrid
+T39	Protein 2332 2336	WRI1
+T41	Gene 2366 2371	BCCP2
+T40	Promoter 2366 2380	BCCP2 promoter
+T42	Protein 2439 2443	WRI1
+T43	Genotype 2444 2453	in planta
+T44	Gene 2543 2548	BCCP2
+T45	Gene 2550 2556	PKp-β1
+T46	Gene 2561 2565	WRI1
+T48	Tissue 2577 2584	silique
+T47	Development_Phase 2577 2596	silique development
+T49	Protein 2797 2801	WRI1
+T50	Tissue 2863 2869	embryo
+T51	Protein 2904 2908	WRI1
+T52	Protein 2976 2980	WRI1
+T54	Gene 3122 3126	WRI1
+T53	Genotype 3122 3194	WRI1 cDNA under the control of the cauliflower mosaic virus 35S-promoter
+T55	Tissue 3223 3227	seed
+T56	Pathway 3228 3239	oil content
+T57	Gene 3253 3268	Pro35Sdual:WRI1
+T58	Gene 3277 3287	ProS2:WRI1
+T59	Pathway 3347 3363	oil accumulation
+T60	Genotype 3385 3401	transgenic seeds
+T61	Tissue 3396 3401	seeds
+T62	Promoter 3530 3536	Pro35S
+T63	Promoter 3544 3554	Pro35Sdual
+T64	Promoter 3558 3563	ProS2
+T65	Genotype 3712 3723	A. thaliana
+T66	Genotype 3736 3741;3752 3763	Col-0 backgrounds
+T67	Genotype 3749 3763	Ws backgrounds
+T68	Genotype 3773 3786	Ws background
+T69	Genotype 3917 3932	Col-0 accession
+T70	Tissue 4001 4017	mature dry seeds
+T71	Genotype 4025 4037	Ws accession
+T72	Genotype 4177 4193	Col-0 background
+T73	Genotype 4204 4217	Ws background

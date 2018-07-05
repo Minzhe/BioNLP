@@ -1,0 +1,125 @@
+T1	RNA 0 9	MicroRNAs
+T2	RNA 11 17	miRNAs
+T3	Regulatory_Network 63 110	post-transcriptional regulation of target genes
+T4	Development_Phase 118 123;135 146	plant development
+T5	Genotype 118 123	plant
+T6	Development_Phase 128 146	animal development
+T7	Genotype 128 134	animal
+T8	Genotype 162 167	Plant
+T9	RNA 168 174	miRNAs
+T10	RNA 238 243	mRNAs
+T11	Pathway 256 268	RNA cleavage
+T12	Genotype 372 377	plant
+T13	RNA 378 384	miRNAs
+T14	RNA 419 424	mRNAs
+T15	RNA 447 452	miRNA
+T16	Genotype 556 561	Plant
+T17	RNA 562 567	miRNA
+T19	RNA 764 769	miRNA
+T18	Regulatory_Network 764 811	miRNA-mediated repression of target transcripts
+T20	Development_Phase 837 857	cell differentiation
+T21	Regulatory_Network 862 916	developmental timing during post-embryonic development
+T22	Development_Phase 890 916	post-embryonic development
+T23	RNA 1016 1022	miRNAs
+T24	Development_Phase 1026 1056	embryonic cell differentiation
+T25	RNA 1062 1067	miRNA
+T28	Tissue 1085 1091	embryo
+T27	Development_Phase 1085 1105	embryo developmental
+T26	Regulatory_Network 1085 1112	embryo developmental timing
+T29	Gene 1142 1153	DICER-LIKE1
+T30	Gene 1155 1159	DCL1
+T31	Protein_Family 1172 1206	RNaseIII domain-containing protein
+T32	Protein_Domain 1172 1187	RNaseIII domain
+T33	Tissue 1215 1222	nuclear
+T34	Regulatory_Network 1250 1305	processing primary miRNA transcripts into mature miRNAs
+T35	RNA 1261 1286	primary miRNA transcripts
+T36	RNA 1292 1305	mature miRNAs
+T37	Gene 1416 1420	DCL1
+T38	Pathway 1438 1454	miRNA biogenesis
+T39	Genotype 1485 1489	dcl1
+T40	Genotype 1559 1579	Arabidopsis thaliana
+T41	RNA 1636 1642	miRNAs
+T42	Development_Phase 1650 1667	plant development
+T43	Genotype 1669 1686	Null dcl1 alleles
+T44	Genotype 1705 1710	emb76
+T45	Genotype 1717 1721	sus1
+T47	Tissue 1839 1846	embryos
+T46	Regulatory_Network 1839 1873	embryos with defective development
+T48	Genotype 1875 1879	dcl1
+T49	Tissue 1880 1887	embryos
+T50	Regulatory_Network 1892 1955	developmentally arrested at the globular stage of embryogenesis
+T51	Development_Phase 1924 1938	globular stage
+T52	Development_Phase 1942 1955	embryogenesis
+T53	Regulatory_Network 1968 2026	abnormal divisions throughout the extraembryonic suspensor
+T54	Tissue 2002 2026	extraembryonic suspensor
+T55	Gene 2078 2082	DCL1
+T56	RNA 2104 2110	miRNAs
+T58	Tissue 2128 2134	embryo
+T57	Development_Phase 2128 2146	embryo development
+T59	Regulatory_Network 2128 2134;2151 2160	embryo viability
+T61	RNA 2212 2217	miRNA
+T60	Pathway 2212 2228	miRNA biogenesis
+T62	Regulatory_Network 2254 2282	defects during embryogenesis
+T63	Development_Phase 2269 2282	embryogenesis
+T64	RNA 2364 2369	miRNA
+T66	Tissue 2414 2423	cotyledon
+T65	Development_Phase 2414 2433	cotyledon formation
+T68	Tissue 2441 2447	embryo
+T67	Development_Phase 2441 2459	embryo development
+T69	Genotype 2548 2553	plant
+T70	RNA 2554 2559	miRNA
+T71	Development_Phase 2592 2605	embryogenesis
+T72	RNA 2740 2746	miRNAs
+T74	Tissue 2779 2785	embryo
+T73	Development_Phase 2779 2797	embryo development
+T75	Development_Phase 2799 2812	Morphogenesis
+T77	Tissue 2829 2835	embryo
+T76	Development_Phase 2829 2847	embryo development
+T78	Genotype 2863 2868	plant
+T79	Tissue 2895 2915	Embryonic cell types
+T80	Tissue 2992 3017	Shoot meristem precursors
+T81	Tissue 3022 3046	root meristem precursors
+T82	Tissue 3068 3074;3085 3110	apical poles of the early embryo
+T83	Tissue 3079 3110	basal poles of the early embryo
+T84	Tissue 3104 3110	embryo
+T85	Development_Phase 3150 3164	post-embryonic
+T86	Tissue 3183 3192	meristems
+T87	Genotype 3213 3218	plant
+T88	Regulatory_Network 3225 3257	Patterning along the radial axis
+T89	Development_Phase 3265 3284	early embryogenesis
+T90	Tissue 3299 3324	outermost protoderm layer
+T91	Tissue 3330 3359	innermost vascular primordium
+T92	Tissue 3367 3407	middle layer of ground tissue precursors
+T93	Development_Phase 3434 3447	morphogenesis
+T94	Tissue 3449 3456	embryos
+T95	Development_Phase 3473 3489	maturation phase
+T96	Pathway 3513 3529	storage proteins
+T97	Pathway 3539 3560	desiccation tolerance
+T98	Development_Phase 3590 3607	state of dormancy
+T99	Development_Phase 3617 3628	germination
+T100	Development_Phase 3803 3829	early embryonic patterning
+T101	Development_Phase 3838 3882	morphogenesis-to-maturation-phase transition
+T102	RNA 3952 3958	miRNAs
+T103	Development_Phase 3966 3979	embryogenesis
+T104	Genotype 4029 4033	dcl1
+T105	Tissue 4034 4041	embryos
+T106	Development_Phase 4059 4078	early morphogenesis
+T107	Regulatory_Network 4083 4109	cell specification defects
+T108	Gene 4111 4115	DCL1
+T109	Development_Phase 4142 4172	embryonic cell differentiation
+T110	Development_Phase 4183 4212	early as the eight-cell stage
+T111	Gene 4261 4265	DCL1
+T113	Development_Phase 4287 4302	early embryonic
+T112	Regulatory_Network 4287 4340	early embryonic repression of nearly 50 miRNA targets
+T114	RNA 4327 4332	miRNA
+T115	RNA 4357 4362	miRNA
+T116	Development_Phase 4387 4397;4403 4410	eight-cell embryos
+T117	Genotype 4398 4402	dcl1
+T118	Tissue 4403 4410	embryos
+T119	Regulatory_Network 4418 4505	transcription factors that promote differentiation during later stages of embryogenesis
+T120	Development_Phase 4453 4468	differentiation
+T121	Development_Phase 4476 4505	later stages of embryogenesis
+T122	Genotype 4517 4521	dcl1
+T123	Tissue 4522 4529	embryos
+T124	Development_Phase 4620 4658	maturation phase of embryo development
+T125	Tissue 4640 4646	embryo
