@@ -200,5 +200,6 @@ with open(train_dev_mat, 'wb') as pkl_f:
               'X_test': (word_test, e1dist_test, e2dist_test, e1pos_test, e2pos_test),
               'y_train': y_train,
               'y_test': y_test,
+              'label_encoder':label_encoder,
               'param': (len(labels), sent_len)}, file=pkl_f)
 print('Training and test data matrix stored in {}'.format(train_dev_mat))
