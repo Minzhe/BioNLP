@@ -322,8 +322,8 @@ def extractRelEnt(path, doc_id):
 
 
 if __name__ == '__main__':
-    train_path = "D:\\Minzhe.intern\\BioNLP\\BioNLP-ST-2016_SeeDev\\data\\BioNLP-ST-2016_SeeDev-binary_train"
-    dev_path = "D:\\Minzhe.intern\\BioNLP\\BioNLP-ST-2016_SeeDev\\data\\BioNLP-ST-2016_SeeDev-binary_dev"
+    train_path = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/BioNLP-ST-2016_SeeDev-binary_train"
+    dev_path = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/BioNLP-ST-2016_SeeDev-binary_dev"
     train_doc = [os.path.basename(f).strip('.txt') for f in glob.glob(os.path.join(train_path, '*.txt'))]
     dev_doc = [os.path.basename(f).strip('.txt') for f in glob.glob(os.path.join(dev_path, '*.txt'))]
 

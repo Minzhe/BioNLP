@@ -139,7 +139,7 @@ def labelWordLoc(loc, entity_locs):
 
 
 ################################  read train and dev data  ###################################
-train_file = "D:/Minzhe.intern/BioNLP/BioNLP-ST-2016_SeeDev/data/train_relent.txt"
+train_file = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/train_relent.txt"
 train_data = pd.read_csv(train_file, sep='\t')
 train_labels = train_data.rel
 train_words = set()
@@ -148,7 +148,7 @@ for tokens in train_data.sent.str.split(' '):
     train_max_len = max(train_max_len, len(tokens))
     train_words = train_words | set(tokens)
 
-dev_file = "D:/Minzhe.intern/BioNLP/BioNLP-ST-2016_SeeDev/data/dev_relent.txt"
+dev_file = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/dev_relent.txt"
 dev_data = pd.read_csv(dev_file, sep='\t')
 dev_labels = dev_data.rel
 dev_words = set()
@@ -177,9 +177,10 @@ print('Max sentense length: {}\n'.format(sent_max_len))
 # model = KeyedVectors.load_word2vec_format('/home/t-mizha/data/embeddings/bio_nlp_vec/PubMed-shuffle-win-2.bin', binary=True)
 # model.save_word2vec_format('/home/t-mizha/data/embeddings/bio_nlp_vec/PubMed-shuffle-win-2.txt', binary=False)
 # ----------- create word embeddings ---------------- #
-embeddings_path = 'D:/Minzhe.intern/BioNLP/data/embedding/PubMed-shuffle-win-2.txt'
-trian_dev_embedding = 'D:/Minzhe.intern/BioNLP/BioNLP-ST-2016_SeeDev/data/train_dev_embedding.pkl'
-# createEmbedding(embeddings_path=embeddings_path, words=words, out_path=trian_dev_embedding)
+print('Creating word embedding ...')
+embeddings_path = '/home/t-mizha/data/embeddings/bio_nlp_vec/PubMed-shuffle-win-2.txt'
+trian_dev_embedding = '/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/train_dev_embedding.pkl'
+createEmbedding(embeddings_path=embeddings_path, words=words, out_path=trian_dev_embedding)
 
 with open(trian_dev_embedding, 'rb') as f:
     embedding_data = pkl.load(f)
@@ -187,20 +188,17 @@ with open(trian_dev_embedding, 'rb') as f:
 wordEmbeddings = embedding_data['wordEmbeddings']
 word2Idx = embedding_data['word2Idx']
 
-################################  input data matrix  ###################################
-word_train, e1dist_train, e2dist_train, e1pos_train, e2pos_train = generateDataMatrix(data_file=train_file, word2Idx=word2Idx)
-word_test, e1dist_test, e2dist_test, e1pos_test, e2pos_test = generateDataMatrix(data_file=dev_file, word2Idx=word2Idx)
+# -----------  input data matrix  ---------------- #
+print('\nCreating positional embedding ...')
+sent_len = min(100, sent_max_len)
+word_train, e1dist_train, e2dist_train, e1pos_train, e2pos_train = generateDataMatrix(data_file=train_file, word2Idx=word2Idx, sent_len=sent_len)
+word_test, e1dist_test, e2dist_test, e1pos_test, e2pos_test = generateDataMatrix(data_file=dev_file, word2Idx=word2Idx, sent_len=sent_len)
 
-print(word_test.shape)
-print(word_test[133])
-print(e1dist_test.shape)
-print(e1dist_test[133])
-print(e2dist_test.shape)
-print(e2dist_test[133])
-print(e1pos_test.shape)
-print(e1pos_test[133])
-print(e2pos_test.shape)
-print(e2pos_test[133])
-print(y_train[:1000])
-print(y_train[1000:])
-print(y_test)
+train_dev_mat = '/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/train_dev_matrix.pkl'
+with open(train_dev_mat, 'wb') as pkl_f:
+    pkl.dump({'X_train': (word_train, e1dist_train, e2dist_train, e1pos_train, e2pos_train),
+              'X_test': (word_test, e1dist_test, e2dist_test, e1pos_test, e2pos_test),
+              'y_train': y_train,
+              'y_test': y_test,
+              'param': (len(labels), sent_len)}, file=pkl_f)
+print('Training and test data matrix stored in {}'.format(train_dev_mat))
