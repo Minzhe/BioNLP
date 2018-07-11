@@ -10,7 +10,9 @@ import numpy as np
 import pandas as pd
 import gzip
 import pickle as pkl
-from utility import *
+from sklearn.preprocessing import LabelEncoder
+from utility import hLabelEncoder
+from utility import encodeMapper 
 
 
 ################################  function  ###################################
@@ -71,8 +73,9 @@ def generateDataMatrix(data_file, word2Idx, label_encoder, type_encoder, min_dis
     '''
     Generate input data matrix.
     '''
+    em = encodeMapper()
     data = pd.read_csv(data_file, sep='\t')
-    labels = label_encoder.transform(data.rel)
+    labels = label_encoder.label2class(data.rel)
     e1type = type_encoder.transform(data.e1_type)
     e2type = type_encoder.transform(data.e2_type)
     tokenID_mat, e1dist_mat, e2dist_mat, e1type_mat, e2type_mat = [], [], [], [], []
@@ -89,11 +92,11 @@ def generateDataMatrix(data_file, word2Idx, label_encoder, type_encoder, min_dis
 
         # loop through each tokens
         for j in range(min(sent_len, len(tokens))):
-            tokenID_line[j] = getWordIdx(token=tokens[j], word2Idx=word2Idx)
-            e1dist_line[j] = mapDist(dist=j-e1_loc[0], min_dist=-30, max_dist=30)
-            e2dist_line[j] = mapDist(dist=j-e2_loc[0], min_dist=-30, max_dist=30)
-            e1type_line[j] = labelType(loc=j, entity_locs=e1_loc, entity_type=e1type[idx])
-            e2type_line[j] = labelType(loc=j, entity_locs=e2_loc, entity_type=e2type[idx])
+            tokenID_line[j] = em.mapWordIdx(token=tokens[j], word2Idx=word2Idx)
+            e1dist_line[j] = em.mapDist(dist=j-e1_loc[0], min_dist=-30, max_dist=30)
+            e2dist_line[j] = em.mapDist(dist=j-e2_loc[0], min_dist=-30, max_dist=30)
+            e1type_line[j] = em.mapType(loc=j, entity_locs=e1_loc, entity_type=e1type[idx])
+            e2type_line[j] = em.mapType(loc=j, entity_locs=e2_loc, entity_type=e2type[idx])
         
         tokenID_mat.append(tokenID_line)
         e1dist_mat.append(e1dist_line)
@@ -109,7 +112,6 @@ def generateDataMatrix(data_file, word2Idx, label_encoder, type_encoder, min_dis
 ################################  read train and dev data  ###################################
 train_file = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/train_relent.txt"
 train_data = pd.read_csv(train_file, sep='\t')
-train_labels = train_data.rel
 train_words = set()
 train_max_len = 0
 for tokens in train_data.sent.str.split(' '):
@@ -118,7 +120,6 @@ for tokens in train_data.sent.str.split(' '):
 
 dev_file = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/dev_relent.txt"
 dev_data = pd.read_csv(dev_file, sep='\t')
-dev_labels = dev_data.rel
 dev_words = set()
 dev_max_len = 0
 for tokens in dev_data.sent.str.split(' '):
@@ -130,18 +131,20 @@ words = train_words | dev_words
 sent_max_len = max(train_max_len, dev_max_len)
 
 # --------------  encode labels  ---------------- #
-labels = set(train_labels) | set(dev_labels)
-label_encoder = labelEncoder(list(labels))
+labels = set(train_data.rel) | set(dev_data.rel)
+label_encoder = hLabelEncoder()
 
 etypes = set(train_data.e1_type) | set(train_data.e2_type) | set(dev_data.e1_type) | set(dev_data.e2_type)
-type_encoder = labelEncoder(list(etypes))
+type_encoder = LabelEncoder()
+type_encoder.fit(list(etypes))
 
 print('Total number of different words: {}'.format(len(words)))
 print('Total number of different labels: {}'.format(len(labels)))
 print('Total number of different entity types: {}'.format(len(etypes)))
-print('Training instense: {}'.format(len(train_labels)))
-print('Testing instense: {}'.format(len(dev_labels)))
+print('Training instense: {}'.format(len(set(train_data.rel))))
+print('Testing instense: {}'.format(len(set(dev_data.rel))))
 print('Max sentense length: {}\n'.format(sent_max_len))
+
 
 ################################  word embedding  ###################################
 # model = KeyedVectors.load_word2vec_format('/home/t-mizha/data/embeddings/bio_nlp_vec/PubMed-shuffle-win-2.bin', binary=True)

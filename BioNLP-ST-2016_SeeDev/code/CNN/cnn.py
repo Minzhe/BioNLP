@@ -7,8 +7,30 @@ from keras.layers import Input, Embedding, Dropout, Dense
 from keras.layers import concatenate, Conv1D, GlobalMaxPooling1D
 from keras.optimizers import Adam
 from keras.callbacks import EarlyStopping, ModelCheckpoint
+from keras import backend as K
+from utility import hLabelEncoder
 
 
+###########################       function       #########################
+def weighted_crossentropy(y_pred, y_true, e):
+    '''
+    Add hierarchy label loss to prediction loss.
+    '''
+    label_loss = K.sparse_categorical_crossentropy(target=y_true, output=y_pred)
+    h_pred = get_hierarchy(y_pred)
+    h_true = get_hierarchy(y_true)
+    hierarchy_loss = K.sparse_categorical_crossentropy(target=h_true, output=h_pred)
+    return e * hierarchy_loss + (1-e) * label_loss
+
+
+def get_hierarchy(y):
+    '''
+    Get the hierarchy of predict label
+    '''
+    label_encoder = hLabelEncoder()
+    return label_encoder.class2hierarchy(y)
+
+#############################    model    ###############################
 class cnn(object):
     def __init__(self, embeddings, n_label, sent_length, 
                  indist_dim, intype_dim, outdist_dim=32, outtype_dim=16,
@@ -68,15 +90,15 @@ class cnn(object):
         return model
     
     def train(self, X_train, y_train, save_path, validation_split, batch_size, epochs, verbose=2):
-        print('Start training CNN models ... ', end='', flush=True)
-        early_stopper = EarlyStopping(patience=5, verbose=1)
+        # print('Start training CNN models ... ', end='', flush=True)
+        early_stopper = EarlyStopping(patience=10, verbose=1)
         check_pointer = ModelCheckpoint(save_path, verbose=1, save_best_only=True)
         self.model.fit(X_train, y_train, 
-                       validation_split=validation_split, 
+                       validation_split=0.2, 
                        batch_size=batch_size, 
                        epochs=epochs, 
                        verbose=verbose, 
-                       shuffle=True, 
+                       shuffle=True,
                        callbacks=[early_stopper, check_pointer])
         print('Done')
 
@@ -95,4 +117,8 @@ class cnn(object):
         return y.argmax(axis=-1)
 
 
-
+# if __name__ == '__main__':
+#     y_pred = K.constant([0,0,2,2,4])
+#     y_true = K.constant([0,1,2,3,4])
+#     print(K.eval(y_pred), K.eval(y_true))
+#     print(K.eval(weighted_crossentropy(y_pred=y_pred, y_true=y_true, e=0)))
