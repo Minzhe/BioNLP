@@ -32,9 +32,9 @@ def get_hierarchy(y):
 
 #############################    model    ###############################
 class cnn(object):
-    def __init__(self, embeddings, n_label, sent_length, 
+    def __init__(self, model, embeddings, n_label, sent_length, 
                  indist_dim, intype_dim, outdist_dim=32, outtype_dim=16,
-                 n_filter=128, win_size=3, dropout=0.25, learning_rate=1e-4):
+                 n_hierarchy=None, loss_weights=None, n_filter=128, win_size=3, dropout=0.25, learning_rate=1e-4):
         self.embeddings = embeddings
         self.n_label = n_label
         self.sent_length = sent_length
@@ -42,11 +42,19 @@ class cnn(object):
         self.intype_dim = intype_dim
         self.outdist_dim = outdist_dim
         self.outtype_dim = outtype_dim
+        self.n_hierarchy = n_hierarchy
+        self.loss_weights = loss_weights
         self.n_filter = n_filter
         self.win_size = win_size
         self.dropout = dropout
         self.learning_rate = learning_rate
-        self.model = self._model()
+        self.modelname = model
+        if model == 'base':
+            self.model = self._model()
+        elif model == 'weighted_loss' and self.n_hierarchy is not None and loss_weights is not None:
+            self.model = self._model_weighted_loss()
+        else:
+            raise ValueError('Unrecognized model.')
     
     def _model(self):
         print('Initilizing CNN model ...', end='', flush=True)
@@ -89,6 +97,53 @@ class cnn(object):
 
         return model
     
+    def _model_weighted_loss(self):
+        print('Initilizing CNN model ...', end='', flush=True)
+        embeddings = self.embeddings
+        sent_length = self.sent_length
+
+        ### embedding layers
+        # word embedding
+        words_input = Input(shape=(sent_length,), dtype='int32', name='words_input')
+        words = Embedding(input_dim=embeddings.shape[0], output_dim=embeddings.shape[1], weights=[embeddings], trainable=False) (words_input)
+
+        # distance embedding
+        dist1_input = Input(shape=(sent_length,), dtype='int32', name='dist1_input')
+        dist1 = Embedding(input_dim=self.indist_dim, output_dim=self.outdist_dim, trainable=True) (dist1_input)
+
+        dist2_input = Input(shape=(sent_length,), dtype='int32', name='dist2_input')
+        dist2 = Embedding(input_dim=self.indist_dim, output_dim=self.outdist_dim, trainable=True) (dist2_input)
+
+        # type embedding
+        type1_input = Input(shape=(sent_length,), dtype='int32', name='type1_input')
+        type1 = Embedding(input_dim=self.intype_dim, output_dim=self.outtype_dim, trainable=True) (type1_input)
+
+        type2_input = Input(shape=(sent_length,), dtype='int32', name='type2_input')
+        type2 = Embedding(input_dim=self.intype_dim, output_dim=self.outtype_dim, trainable=True) (type2_input)
+
+        ### convolution layer
+        conv = concatenate([words, dist1, dist2, type1, type2])
+        conv = Conv1D(filters=self.n_filter, kernel_size=self.win_size, padding='same', activation='tanh', strides=1) (conv)
+
+        ### max pool and softmax
+        pool = GlobalMaxPooling1D() (conv)
+
+        ### output layer
+        # output label
+        output1 = Dropout(self.dropout) (pool)
+        output1 = Dense(self.n_label, activation='softmax') (output1)
+        # output hierarchy
+        output2 = Dropout(self.dropout) (pool)
+        output2 = Dense(self.n_hierarchy, activation='softmax') (output2)
+
+        # model
+        model = Model(inputs=[words_input, dist1_input, dist2_input, type1_input, type2_input], outputs=[output1, output2])
+        model.compile(loss='sparse_categorical_crossentropy', loss_weights=self.loss_weights, optimizer=Adam(lr=self.learning_rate), metrics=['accuracy'])
+        print('Done\nModel structure summary:', flush=True)
+        print(model.summary())
+
+        return model
+    
     def train(self, X_train, y_train, save_path, validation_split, batch_size, epochs, verbose=2):
         # print('Start training CNN models ... ', end='', flush=True)
         early_stopper = EarlyStopping(patience=10, verbose=1)
@@ -114,7 +169,10 @@ class cnn(object):
     
     def predict_calss(self, X):
         y = self.predict(X)
-        return y.argmax(axis=-1)
+        if self.modelname == 'base':
+            return y.argmax(axis=-1)
+        elif self.modelname == 'weighted_loss':
+            return y[0].argmax(axis=-1)
 
 
 # if __name__ == '__main__':

@@ -16,32 +16,35 @@ class hLabelEncoder(object):
     Encode labels with hierarchy
     '''
     def __init__(self):
-        self.__label_hierarchy = {'Exists_In_Genotype':    ('When_Where_01', 0),
-                                    'Occurs_In_Genotype':    ('When_Where_02', 1),
-                                    'Exists_At_Stage':       ('When_Where_03', 2),
-                                    'Occurs_During':         ('When_Where_04', 3),
-                                    'Is_Localized_In':       ('When_Where_05', 4),
-                                    'Is_Involved_In_Process':        ('Function_01', 5),
-                                    'Transcribes_Or_Translates_To':  ('Function_02', 6),
-                                    'Is_Functionally_Equivalent_To': ('Function_03', 7),
-                                    'Regulates_Accumulation':        ('Regulation_01', 8),
-                                    'Regulates_Development_Phase':   ('Regulation_02', 9),
-                                    'Regulates_Expression':          ('Regulation_03', 10),
-                                    'Regulates_Molecule_Activity':   ('Regulation_04', 11),
-                                    'Regulates_Process':             ('Regulation_05', 12),
-                                    'Regulates_Tissue_Development':  ('Regulation_06', 13),
-                                    'Composes_Primary_Structure':    ('Composition_01', 14),
-                                    'Composes_Protein_Complex':      ('Composition_02', 15),
-                                    'Is_Protein_Domain_Of':          ('Composition_03', 16),
-                                    'Is_Member_Of_Family':           ('Composition_04', 17),
-                                    'Has_Sequence_Identical_To':     ('Composition_05', 18),
-                                    'Binds_To':          ('Interaction_01', 19),
-                                    'Interacts_With':    ('Interaction_02', 20),
-                                    'Is_Linked_To':      ('Interaction_03', 21)}
+        self.__label_hierarchy = {'Exists_In_Genotype':    ('When_Where_01', 0, 0),
+                                    'Occurs_In_Genotype':    ('When_Where_02', 1, 0),
+                                    'Exists_At_Stage':       ('When_Where_03', 2, 0),
+                                    'Occurs_During':         ('When_Where_04', 3, 0),
+                                    'Is_Localized_In':       ('When_Where_05', 4, 0),
+                                    'Is_Involved_In_Process':        ('Function_01', 5, 1),
+                                    'Transcribes_Or_Translates_To':  ('Function_02', 6, 1),
+                                    'Is_Functionally_Equivalent_To': ('Function_03', 7, 1),
+                                    'Regulates_Accumulation':        ('Regulation_01', 8, 2),
+                                    'Regulates_Development_Phase':   ('Regulation_02', 9, 2),
+                                    'Regulates_Expression':          ('Regulation_03', 10, 2),
+                                    'Regulates_Molecule_Activity':   ('Regulation_04', 11, 2),
+                                    'Regulates_Process':             ('Regulation_05', 12, 2),
+                                    'Regulates_Tissue_Development':  ('Regulation_06', 13, 2),
+                                    'Composes_Primary_Structure':    ('Composition_01', 14, 3),
+                                    'Composes_Protein_Complex':      ('Composition_02', 15, 3),
+                                    'Is_Protein_Domain_Of':          ('Composition_03', 16, 3),
+                                    'Is_Member_Of_Family':           ('Composition_04', 17, 3),
+                                    'Has_Sequence_Identical_To':     ('Composition_05', 18, 3),
+                                    'Binds_To':          ('Interaction_01', 19, 4),
+                                    'Interacts_With':    ('Interaction_02', 20, 4),
+                                    'Is_Linked_To':      ('Interaction_03', 21, 4)}
         self.__class_label = {value[1]: key for key, value in self.__label_hierarchy.items()}
 
     def label2class(self, labels):
         return np.array([self.__label_hierarchy[label][1] for label in labels])
+    
+    def label2hclass(self, labels):
+        return np.array([self.__label_hierarchy[label][2] for label in labels])
 
     def class2label(self, classes):
         return np.array([self.__class_label[cls_] for cls_ in classes])

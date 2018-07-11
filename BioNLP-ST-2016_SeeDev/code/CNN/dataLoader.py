@@ -76,6 +76,7 @@ def generateDataMatrix(data_file, word2Idx, label_encoder, type_encoder, min_dis
     em = encodeMapper()
     data = pd.read_csv(data_file, sep='\t')
     labels = label_encoder.label2class(data.rel)
+    hierarchy = label_encoder.label2hclass(data.rel)
     e1type = type_encoder.transform(data.e1_type)
     e2type = type_encoder.transform(data.e2_type)
     tokenID_mat, e1dist_mat, e2dist_mat, e1type_mat, e2type_mat = [], [], [], [], []
@@ -104,45 +105,49 @@ def generateDataMatrix(data_file, word2Idx, label_encoder, type_encoder, min_dis
         e1type_mat.append(e1type_line)
         e2type_mat.append(e2type_line)
     
-    return labels, np.array(tokenID_mat, dtype='int32'), \
+    return labels, hierarchy, np.array(tokenID_mat, dtype='int32'), \
            np.array(e1dist_mat, dtype='int32'), np.array(e2dist_mat, dtype='int32'), \
            np.array(e1type_mat, dtype='int32'), np.array(e2type_mat, dtype='int32')
 
+# >>>>>>>>>>>>>>>>>> data matrix for model parameters <<<<<<<<<<<<<<<<< #
+def getParam(data_files):
+    '''
+    This is to get the data parameters for later model construction.
+    '''
+    words, labels, etypes = set(), set(), set()
+    sent_max_len = 0
+    dims = []
+    for file_ in data_files:
+        data_mat = pd.read_csv(file_, sep='\t')
+        dims.append(data_mat.shape[0])
+        labels = labels | set(data_mat.rel)
+        etypes = etypes | set(data_mat.e1_type) | set(data_mat.e2_type)
+        for tokens in data_mat.sent.str.split(' '):
+            sent_max_len = max(sent_max_len, len(tokens))
+            words = words | set(tokens)
+    
+    return words, labels, etypes, sent_max_len, dims
+        
 
 ################################  read train and dev data  ###################################
 train_file = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/train_relent.txt"
-train_data = pd.read_csv(train_file, sep='\t')
-train_words = set()
-train_max_len = 0
-for tokens in train_data.sent.str.split(' '):
-    train_max_len = max(train_max_len, len(tokens))
-    train_words = train_words | set(tokens)
-
 dev_file = "/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/dev_relent.txt"
-dev_data = pd.read_csv(dev_file, sep='\t')
-dev_words = set()
-dev_max_len = 0
-for tokens in dev_data.sent.str.split(' '):
-    dev_max_len = max(dev_max_len, len(tokens))
-    dev_words = dev_words | set(tokens)
-
-# --------- collect all appeared words ----------- #
-words = train_words | dev_words
-sent_max_len = max(train_max_len, dev_max_len)
+words, labels, etypes, sent_max_len, dims = getParam([train_file, dev_file])
 
 # --------------  encode labels  ---------------- #
-labels = set(train_data.rel) | set(dev_data.rel)
 label_encoder = hLabelEncoder()
-
-etypes = set(train_data.e1_type) | set(train_data.e2_type) | set(dev_data.e1_type) | set(dev_data.e2_type)
 type_encoder = LabelEncoder()
 type_encoder.fit(list(etypes))
 
+n_labels = len(labels)
+n_hierarchy = len(np.unique(label_encoder.label2hclass(labels)))
+
 print('Total number of different words: {}'.format(len(words)))
-print('Total number of different labels: {}'.format(len(labels)))
+print('Total number of different labels: {}'.format(n_labels))
+print('Total number of different hierarchy: {}'.format(n_hierarchy))
 print('Total number of different entity types: {}'.format(len(etypes)))
-print('Training instense: {}'.format(len(set(train_data.rel))))
-print('Testing instense: {}'.format(len(set(dev_data.rel))))
+print('Training instense: {}'.format(dims[0]))
+print('Testing instense: {}'.format(dims[1]))
 print('Max sentense length: {}\n'.format(sent_max_len))
 
 
@@ -164,15 +169,15 @@ word2Idx = embedding_data['word2Idx']
 # -----------  input data matrix  ---------------- #
 print('\nCreating positional embedding ...')
 sent_len = min(100, sent_max_len)
-y_train, word_train, e1dist_train, e2dist_train, e1type_train, e2type_train = \
+y1_train, y2_train, word_train, e1dist_train, e2dist_train, e1type_train, e2type_train = \
     generateDataMatrix(data_file=train_file, word2Idx=word2Idx, sent_len=sent_len, label_encoder=label_encoder, type_encoder=type_encoder)
-y_test, word_test, e1dist_test, e2dist_test, e1type_test, e2type_test = \
+y1_test, y2_test, word_test, e1dist_test, e2dist_test, e1type_test, e2type_test = \
     generateDataMatrix(data_file=dev_file, word2Idx=word2Idx, sent_len=sent_len, label_encoder=label_encoder, type_encoder=type_encoder)
 
 train_dev_mat = '/home/t-mizha/project/BioNLP/BioNLP-ST-2016_SeeDev/data/train_dev_matrix.pkl'
 with open(train_dev_mat, 'wb') as pkl_f:
-    pkl.dump({'train_data': (y_train, word_train, e1dist_train, e2dist_train, e1type_train, e2type_train),
-              'test_data': (y_test, word_test, e1dist_test, e2dist_test, e1type_test, e2type_test),
+    pkl.dump({'train_data': (y1_train, y2_train, word_train, e1dist_train, e2dist_train, e1type_train, e2type_train),
+              'test_data': (y1_test, y2_test, word_test, e1dist_test, e2dist_test, e1type_test, e2type_test),
               'label_encoder': label_encoder,
-              'param': (len(labels), sent_len)}, file=pkl_f)
+              'param': (n_labels, n_hierarchy, sent_len)}, file=pkl_f)
 print('\nTraining and test data matrix stored in {}'.format(train_dev_mat))
